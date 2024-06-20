@@ -10,10 +10,14 @@ on:
 
 jobs:
     testing:
-        runs-on: ubuntu-22.04
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
         steps:
             - name: checkout repo content
               uses: actions/checkout@v4
+              with:
+                  ref: ${{ github.head_ref }}
             - name: setup python
               uses: actions/setup-python@v5
               with:
@@ -30,6 +34,6 @@ jobs:
                   d=`date '+%Y-%m-%dT%H:%M:%SZ'`
                   echo $d > LAST_RUN
             - name: finishing up
-              uses: stefanzweifel/git-auto-commit-action@v5.0.1
+              uses: stefanzweifel/git-auto-commit-action@v5
               with:
                   commit_message: "update: LAST_RUN"
