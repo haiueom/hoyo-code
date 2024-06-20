@@ -1,0 +1,22 @@
+[
+    {
+        "code": "HONKAI24",
+        "date": "Jun 6, 24",
+        "status": "Valid",
+        "note": "Surprise reward",
+        "rewards": [
+            {
+                "name": "Coins\u00a0\u00d79999",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Starless Rift\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Deepspace Anchor: First Light Trial Card (3-Day)\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Deepspace_Anchor_-_First_Light_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
+            }
+        ]
+    }
+]

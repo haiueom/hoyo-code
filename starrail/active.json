@@ -1,0 +1,90 @@
+[
+    {
+        "code": "FIREFLYSGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=FIREFLYSGIFT",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Oak Cake Rolls \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Item_Oak_Cake_Rolls.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 19, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "FIREFLY0619",
+        "link": "https://hsr.hoyoverse.com/gift?code=FIREFLY0619",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Oak Cake Rolls \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Item_Oak_Cake_Rolls.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 19, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "6T3F5HVD6LK7",
+        "link": "https://hsr.hoyoverse.com/gift?code=6T3F5HVD6LK7",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 19, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "STARRAILGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        }
+    }
+]
