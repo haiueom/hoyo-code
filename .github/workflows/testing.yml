@@ -23,7 +23,8 @@ jobs:
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
             - name: run test daily
-              run: python main.py
+              run: |
+                  python main.py
             - name: update last run date
               run: |
                   d=`date '+%Y-%m-%dT%H:%M:%SZ'`
