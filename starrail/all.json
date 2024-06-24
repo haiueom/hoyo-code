@@ -1,5 +1,27 @@
 [
     {
+        "code": "SEABLAZE",
+        "link": "https://hsr.hoyoverse.com/gift?code=SEABLAZE",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Pika White Grape Soda \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Item_Pika_White_Grape_Soda.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "FIREFLYSGIFT",
         "link": "https://hsr.hoyoverse.com/gift?code=FIREFLYSGIFT",
         "server": "All",
