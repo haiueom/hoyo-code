@@ -98,40 +98,6 @@
         }
     },
     {
-        "code": "SBCCMQ8Q893R",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=SBCCMQ8Q893R",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Mora \u00d710000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "June 5, 2024",
-            "valid": "(indefinite)",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "LUURRWZ23243",
         "link": "https://genshin.hoyoverse.com/en/gift?code=LUURRWZ23243",
         "server": "All",
@@ -256,23 +222,35 @@
         }
     },
     {
-        "code": "RTJUNRSHTAL9",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=RTJUNRSHTAL9",
+        "code": "TYMH47X31W68",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=TYMH47X31W68",
         "server": "All",
-        "status": "Indefinite",
+        "status": "Valid",
         "rewards": [
             {
-                "name": "Primogem \u00d760",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+                "name": "Mora \u00d710000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
             },
             {
-                "name": "Adventurer's Experience \u00d75",
+                "name": "Adventurer's Experience \u00d710",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "April 24, 2024",
-            "valid": "(indefinite)",
+            "discovered": "May 24, 2024",
+            "valid": "July 16, 2024",
             "expired": null,
             "notes": null
         }
