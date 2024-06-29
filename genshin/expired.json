@@ -1,5 +1,39 @@
 [
     {
+        "code": "LUURGQ12RRBM",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=LUURGQ12RRBM",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 5, 2024",
+            "valid": null,
+            "expired": "June 27, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "SBCCMQ8Q893R",
         "link": "https://genshin.hoyoverse.com/en/gift?code=SBCCMQ8Q893R",
         "server": "All",
@@ -30,7 +64,41 @@
             "discovered": "June 5, 2024",
             "valid": null,
             "expired": "June 27, 2024",
-            "notes": null
+            "notes": "Using either of the codes will render the other unusable."
+        }
+    },
+    {
+        "code": "SBCCV64ZF975",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=SBCCMQ8Q893R",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 5, 2024",
+            "valid": null,
+            "expired": "June 27, 2024",
+            "notes": "Using either of the codes will render the other unusable."
         }
     },
     {
@@ -2522,7 +2590,7 @@
             "discovered": "September 26, 2023",
             "valid": null,
             "expired": "October 16, 2023",
-            "notes": "Facebook Messenger Quiz[8]"
+            "notes": "Facebook Messenger Quiz[9]"
         }
     },
     {
@@ -6483,7 +6551,7 @@
     },
     {
         "code": "2T7E9CPA7YJE",
-        "link": "#cite_note-2021-04-16_(CN)-30",
+        "link": "#cite_note-2021-04-16_(CN)-31",
         "server": "China",
         "status": "Expired",
         "rewards": [
@@ -6505,7 +6573,7 @@
     },
     {
         "code": "EBPWQU6SNZ22",
-        "link": "#cite_note-2021-04-16_(CN)-30",
+        "link": "#cite_note-2021-04-16_(CN)-31",
         "server": "China",
         "status": "Expired",
         "rewards": [
@@ -6527,7 +6595,7 @@
     },
     {
         "code": "CBNXRD6S7H3N",
-        "link": "#cite_note-2021-04-16_(CN)-30",
+        "link": "#cite_note-2021-04-16_(CN)-31",
         "server": "China",
         "status": "Expired",
         "rewards": [
