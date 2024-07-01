@@ -110,6 +110,32 @@
         }
     },
     {
+        "code": "JB3F5KH6BFG7",
+        "link": "https://hsr.hoyoverse.com/gift?code=JB3F5KH6BFG7",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Dreamville Special \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Item_Dreamville_Special.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 28, 2024",
+            "valid": null,
+            "expired": "June 30, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "3AJUD36P766B",
         "link": "https://hsr.hoyoverse.com/gift?code=3AJUD36P766B",
         "server": "All",
