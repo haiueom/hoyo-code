@@ -1,5 +1,31 @@
 [
     {
+        "code": "VAJWEZAC7WCZ",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=VAJWEZAC7WCZ",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Mora \u00d720000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d72",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 8, 2024",
+            "valid": "July 17, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HHZN6E8685VU",
         "link": "https://genshin.hoyoverse.com/en/gift?code=HHZN6E8685VU",
         "server": "All",
@@ -200,7 +226,41 @@
             "discovered": "June 7, 2024",
             "valid": "(indefinite)",
             "expired": null,
-            "notes": null
+            "notes": "Using either of the codes will render the other unusable."
+        }
+    },
+    {
+        "code": "FATIX8X9R149",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=FATIXK63WO8Q",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Mora \u00d710000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 7, 2024",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": "Using either of the codes will render the other unusable."
         }
     },
     {

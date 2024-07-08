@@ -66,6 +66,72 @@
         }
     },
     {
+        "code": "MEKNXSB8EE9S",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 5, 2024",
+            "valid": null,
+            "expired": "July 6, 2024",
+            "notes": "4.8 CN Livestream Codes"
+        }
+    },
+    {
+        "code": "AWJNFBPUVQXS",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 5, 2024",
+            "valid": null,
+            "expired": "July 6, 2024",
+            "notes": "4.8 CN Livestream Codes"
+        }
+    },
+    {
+        "code": "UE26ET6VC9WE",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 5, 2024",
+            "valid": null,
+            "expired": "July 6, 2024",
+            "notes": "4.8 CN Livestream Codes"
+        }
+    },
+    {
         "code": "LUURGQ12RRBM",
         "link": "https://genshin.hoyoverse.com/en/gift?code=LUURGQ12RRBM",
         "server": "All",
@@ -593,6 +659,72 @@
             "valid": null,
             "expired": "May 25, 2024",
             "notes": "4.7 Livestream Codes"
+        }
+    },
+    {
+        "code": "EX2PESSKFE2W",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 24, 2024",
+            "valid": null,
+            "expired": "May 25, 2024",
+            "notes": "4.7 CN Livestream Codes"
+        }
+    },
+    {
+        "code": "TF27EBBKWX32",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 24, 2024",
+            "valid": null,
+            "expired": "May 25, 2024",
+            "notes": "4.7 CN Livestream Codes"
+        }
+    },
+    {
+        "code": "XF3PFSA2WEKN",
+        "link": "",
+        "server": "China",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 24, 2024",
+            "valid": null,
+            "expired": "May 25, 2024",
+            "notes": "4.7 CN Livestream Codes"
         }
     },
     {
