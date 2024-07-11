@@ -1,5 +1,39 @@
 [
     {
+        "code": "DUOIMPACT",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=DUOIMPACT",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d72",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d720000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Sweet Madame \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest"
+            },
+            {
+                "name": "Chicken-Mushroom Skewer \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Chicken-Mushroom_Skewer.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 11, 2024",
+            "valid": "July 18, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "VAJWEZAC7WCZ",
         "link": "https://genshin.hoyoverse.com/en/gift?code=VAJWEZAC7WCZ",
         "server": "All",
