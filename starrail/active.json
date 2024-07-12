@@ -1,5 +1,53 @@
 [
     {
+        "code": "KSKWLYVC75NB",
+        "link": "https://hsr.hoyoverse.com/gift?code=KSKWLYVC75NB",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Fuel \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Condensed Aether \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 12, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "WAKE4HCV745T",
+        "link": "https://hsr.hoyoverse.com/gift?code=WAKE4HCV745T",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 11, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "SEABLAZE",
         "link": "https://hsr.hoyoverse.com/gift?code=SEABLAZE",
         "server": "All",
