@@ -1,5 +1,71 @@
 [
     {
+        "code": "ZA2FMHCD6553",
+        "link": "https://hsr.hoyoverse.com/gift?code=ZA2FMHCD6553",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 19, 2024",
+            "valid": "July 20, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "QSKF4GUV6ML7",
+        "link": "https://hsr.hoyoverse.com/gift?code=QSKF4GUV6ML7",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Condensed Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 19, 2024",
+            "valid": "July 20, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "NS3ELGCC64LF",
+        "link": "https://hsr.hoyoverse.com/gift?code=NS3ELGCC64LF",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 19, 2024",
+            "valid": "July 20, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "KSKWLYVC75NB",
         "link": "https://hsr.hoyoverse.com/gift?code=KSKWLYVC75NB",
         "server": "All",
@@ -1511,7 +1577,7 @@
     },
     {
         "code": "SOULN1Y30I",
-        "link": "#cite_note-soulcode-12",
+        "link": "#cite_note-soulcode-13",
         "server": "All",
         "status": "Expired",
         "rewards": [

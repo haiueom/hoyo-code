@@ -1,5 +1,37 @@
 [
     {
+        "code": "V75GIFT",
+        "date": "Jul 19, 24",
+        "status": "Valid",
+        "note": "Surprise reward",
+        "rewards": [
+            {
+                "name": "Coins\u00a0\u00d79999",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Lone Destruction: Shadowchaser Trial Card (3-Day)\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/06/Lone_Destruction_-_Shadowchaser_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Starless Rift\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
+            }
+        ]
+    },
+    {
+        "code": "LITTLEQUE",
+        "date": "Jul 18, 24",
+        "status": "Valid",
+        "note": "7.6 Hyperion Lounge",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d7350",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ]
+    },
+    {
         "code": "HONKAI24",
         "date": "Jun 6, 24",
         "status": "Valid",
