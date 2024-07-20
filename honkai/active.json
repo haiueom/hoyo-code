@@ -20,18 +20,6 @@
         ]
     },
     {
-        "code": "LITTLEQUE",
-        "date": "Jul 18, 24",
-        "status": "Valid",
-        "note": "7.6 Hyperion Lounge",
-        "rewards": [
-            {
-                "name": "Crystals\u00a0\u00d7350",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
-            }
-        ]
-    },
-    {
         "code": "HONKAI24",
         "date": "Jun 6, 24",
         "status": "Valid",
