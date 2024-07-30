@@ -52,7 +52,41 @@
             "discovered": "July 20, 2024",
             "valid": "(indefinite)",
             "expired": null,
-            "notes": null
+            "notes": "Using either of the codes will render the other unusable."
+        }
+    },
+    {
+        "code": "USDA8V3429S6",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=USDA9H94ZHSE",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Mora \u00d710000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 20, 2024",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": "Using either of the codes will render the other unusable."
         }
     },
     {
