@@ -532,40 +532,6 @@
         }
     },
     {
-        "code": "GENSHINSUMMERNIGHT",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=GENSHINSUMMERNIGHT",
-        "server": "All",
-        "status": "Expired",
-        "rewards": [
-            {
-                "name": "Mora \u00d720000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Biryani \u00d71",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Biryani.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Fruits of the Festival \u00d71",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Fruits_of_the_Festival.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "July 17, 2024",
-            "valid": "July 31, 2024",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "FBJCMYSXCBT5",
         "link": "https://genshin.hoyoverse.com/en/gift?code=FBJCMYSXCBT5",
         "server": "All",
@@ -607,6 +573,40 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "GENSHINSUMMERNIGHT",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=GENSHINSUMMERNIGHT",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d720000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d72",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Biryani \u00d71",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Biryani.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Fruits of the Festival \u00d71",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Fruits_of_the_Festival.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 17, 2024",
+            "valid": null,
+            "expired": "July 31, 2024",
+            "notes": null
         }
     },
     {
@@ -3964,7 +3964,7 @@
             "discovered": "September 26, 2023",
             "valid": null,
             "expired": "October 16, 2023",
-            "notes": "Facebook Messenger Quiz[11]"
+            "notes": "Facebook Messenger Quiz[12]"
         }
     },
     {
@@ -7925,7 +7925,7 @@
     },
     {
         "code": "2T7E9CPA7YJE",
-        "link": "#cite_note-2021-04-16_(CN)-33",
+        "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
         "status": "Expired",
         "rewards": [
@@ -7947,7 +7947,7 @@
     },
     {
         "code": "EBPWQU6SNZ22",
-        "link": "#cite_note-2021-04-16_(CN)-33",
+        "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
         "status": "Expired",
         "rewards": [
@@ -7969,7 +7969,7 @@
     },
     {
         "code": "CBNXRD6S7H3N",
-        "link": "#cite_note-2021-04-16_(CN)-33",
+        "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
         "status": "Expired",
         "rewards": [

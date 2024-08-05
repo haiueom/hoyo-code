@@ -532,40 +532,6 @@
         }
     },
     {
-        "code": "GENSHINSUMMERNIGHT",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=GENSHINSUMMERNIGHT",
-        "server": "All",
-        "status": "Expired",
-        "rewards": [
-            {
-                "name": "Mora \u00d720000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Biryani \u00d71",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Biryani.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Fruits of the Festival \u00d71",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Fruits_of_the_Festival.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "July 17, 2024",
-            "valid": "July 31, 2024",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "FBJCMYSXCBT5",
         "link": "https://genshin.hoyoverse.com/en/gift?code=FBJCMYSXCBT5",
         "server": "All",
