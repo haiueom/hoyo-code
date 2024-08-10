@@ -1,5 +1,27 @@
 [
     {
+        "code": "YUNLIGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=YUNLIGIFT",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Steamed Puffergoat Milk \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Item_Steamed_Puffergoat_Milk.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 8, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "YUNLISNACK",
         "link": "https://hsr.hoyoverse.com/gift?code=YUNLISNACK",
         "server": "All",
