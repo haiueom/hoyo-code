@@ -1,5 +1,27 @@
 [
     {
+        "code": "3S3XKXZ5NU27",
+        "link": "https://hsr.hoyoverse.com/gift?code=3S3XKXZ5NU27",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 21, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "YUNLISNACK",
         "link": "https://hsr.hoyoverse.com/gift?code=YUNLISNACK",
         "server": "All",

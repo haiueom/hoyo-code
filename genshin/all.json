@@ -1,5 +1,35 @@
 [
     {
+        "code": "BlazeToNatlan",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=BlazeToNatlan",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Sanctifying Unction \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Sanctifying_Unction.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 28, 2024",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "DT4BZD5RT5U9",
         "link": "https://genshin.hoyoverse.com/en/gift?code=DT4BZD5RT5U9",
         "server": "All",
@@ -232,8 +262,8 @@
         ],
         "duration": {
             "discovered": "August 15, 2024",
-            "valid": "August 25, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "August 25, 2024",
             "notes": null
         }
     },
@@ -262,8 +292,8 @@
         ],
         "duration": {
             "discovered": "August 6, 2024",
-            "valid": "August 27, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "August 27, 2024",
             "notes": null
         }
     },
