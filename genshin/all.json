@@ -396,74 +396,6 @@
         }
     },
     {
-        "code": "CXCG929M9MB9",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=CXCG929M9MB9",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Mora \u00d710,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 15, 2024",
-            "valid": "(indefinite)",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "YILB5OHN89CN",
-        "link": "https://genshin.hoyoverse.com/en/gift?code=YILB5OHN89CN",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Mora \u00d710,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 15, 2024",
-            "valid": "(indefinite)",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "NAJEWZTD7XD5",
         "link": "https://genshin.hoyoverse.com/en/gift?code=NAJEWZTD7XD5",
         "server": "All",
@@ -505,6 +437,74 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "CXCG929M9MB9",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=CXCG929M9MB9",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 15, 2024",
+            "valid": null,
+            "expired": "September 3, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "YILB5OHN89CN",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=YILB5OHN89CN",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 15, 2024",
+            "valid": null,
+            "expired": "September 3, 2024",
+            "notes": null
         }
     },
     {
