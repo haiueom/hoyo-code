@@ -1,5 +1,27 @@
 [
     {
+        "code": "5TJE2WYM6C6T",
+        "link": "https://hsr.hoyoverse.com/gift?code=5TJE2WYM6C6T",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Signature Chili Oil Beef Offal Stew \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Item_Chili_Oil_Beef_Offal_Stew.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 27, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "3S3XKXZ5NU27",
         "link": "https://hsr.hoyoverse.com/gift?code=3S3XKXZ5NU27",
         "server": "All",

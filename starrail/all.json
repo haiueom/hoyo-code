@@ -1,5 +1,27 @@
 [
     {
+        "code": "5TJE2WYM6C6T",
+        "link": "https://hsr.hoyoverse.com/gift?code=5TJE2WYM6C6T",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Signature Chili Oil Beef Offal Stew \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Item_Chili_Oil_Beef_Offal_Stew.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 27, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "3S3XKXZ5NU27",
         "link": "https://hsr.hoyoverse.com/gift?code=3S3XKXZ5NU27",
         "server": "All",
@@ -62,6 +84,72 @@
             "discovered": "April 26, 2023",
             "valid": "(indefinite)",
             "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "NB2W2XZ46VJT",
+        "link": "https://hsr.hoyoverse.com/gift?code=NB2W2XZ46VJT",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 30, 2024",
+            "valid": null,
+            "expired": "August 31, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "2BKWKEHL6DJX",
+        "link": "https://hsr.hoyoverse.com/gift?code=2BKWKEHL6DJX",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 30, 2024",
+            "valid": null,
+            "expired": "August 31, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "DB3FKWZ4NUG7",
+        "link": "https://hsr.hoyoverse.com/gift?code=DB3FKWZ4NUG7",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 30, 2024",
+            "valid": null,
+            "expired": "August 31, 2024",
             "notes": null
         }
     },
@@ -278,8 +366,8 @@
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Condensed Aether \u00d74",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Condensed_Aether.png/revision/latest"
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
         "duration": {
@@ -1665,7 +1753,7 @@
     },
     {
         "code": "SOULN1Y30I",
-        "link": "#cite_note-soulcode-13",
+        "link": "#cite_note-soulcode-15",
         "server": "All",
         "status": "Expired",
         "rewards": [
