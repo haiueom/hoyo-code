@@ -22,52 +22,30 @@
         }
     },
     {
-        "code": "5TJE2WYM6C6T",
-        "link": "https://hsr.hoyoverse.com/gift?code=5TJE2WYM6C6T",
+        "code": "FeixiaoFiles",
+        "link": "https://hsr.hoyoverse.com/gift?code=FeixiaoFiles",
         "server": "All",
         "status": "Indefinite",
         "rewards": [
             {
-                "name": "Signature Chili Oil Beef Offal Stew \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Item_Chili_Oil_Beef_Offal_Stew.png/revision/latest"
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
             {
-                "name": "Credit \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+                "name": "Five-Grain Jade Elixir \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "August 27, 2024",
+            "discovered": "September 10, 2024",
             "valid": "Unknown",
             "expired": null,
             "notes": null
         }
     },
     {
-        "code": "3S3XKXZ5NU27",
-        "link": "https://hsr.hoyoverse.com/gift?code=3S3XKXZ5NU27",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 21, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "YUNLISNACK",
-        "link": "https://hsr.hoyoverse.com/gift?code=YUNLISNACK",
+        "code": "XRPTL1P7K5H8W",
+        "link": "https://hsr.hoyoverse.com/gift?code=XRPTL1P7K5H8W",
         "server": "All",
         "status": "Indefinite",
         "rewards": [
@@ -76,12 +54,38 @@
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
-                "name": "Berrypheasant Skewers \u00d76",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Item_Berrypheasant_Skewers.png/revision/latest"
+                "name": "Five-Grain Jade Elixir \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "July 31, 2024",
+            "discovered": "September 10, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "CM25RWG44W62",
+        "link": "https://hsr.hoyoverse.com/gift?code=CM25RWG44W62",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2024",
             "valid": "Unknown",
             "expired": null,
             "notes": null
