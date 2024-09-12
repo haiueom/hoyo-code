@@ -1,5 +1,63 @@
 [
     {
+        "code": "TTKEXYBCNWFH",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=TTKEXYBCNWFH",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "\"Pile 'Em Up\" \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_%22Pile_%27Em_Up%22.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 17, 2024",
+            "valid": null,
+            "expired": "September 12, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "5A2WEGTVPXFV",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=5A2WEGTVPXFV",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 17, 2024",
+            "valid": null,
+            "expired": "September 12, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "5SKXWYSCPEVR",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=5SKXWYSCPEVR",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 17, 2024",
+            "valid": null,
+            "expired": "September 12, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "CXCG929M9MB9",
         "link": "https://genshin.hoyoverse.com/en/gift?code=CXCG929M9MB9",
         "server": "All",
