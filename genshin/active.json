@@ -4,7 +4,24 @@
         "link": "https://genshin.hoyoverse.com/en/gift?code=WORF3IEG4WP9",
         "server": "All",
         "status": "Unknown",
-        "rewards": [],
+        "rewards": [
+            {
+                "name": "Saurian Claw Succulent \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Saurian_Claw_Succulent.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
         "duration": {
             "discovered": "September 17, 2024",
             "valid": null,
