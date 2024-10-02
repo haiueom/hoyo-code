@@ -1,7 +1,7 @@
 [
     {
-        "code": "AA2G7664C2RX",
-        "link": "https://hsr.hoyoverse.com/gift?code=AA2G7664C2RX",
+        "code": "5T3Y6764D3Q3",
+        "link": "https://hsr.hoyoverse.com/gift?code=5T3Y6764D3Q3",
         "server": "All",
         "status": "Indefinite",
         "rewards": [
@@ -15,7 +15,29 @@
             }
         ],
         "duration": {
-            "discovered": "September 10, 2024",
+            "discovered": "October 2, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "LINGSHAQUIZ",
+        "link": "https://hsr.hoyoverse.com/gift?code=LINGSHAQUIZ",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Jade Marrow Diffusion \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Item_Jade_Marrow_Diffusion.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 2, 2024",
             "valid": "Unknown",
             "expired": null,
             "notes": null
