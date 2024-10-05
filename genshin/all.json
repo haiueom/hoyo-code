@@ -1,5 +1,39 @@
 [
     {
+        "code": "GENSHIN51TT",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=GENSHIN51TT",
+        "server": "All",
+        "status": "Unknown",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Kindling \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 4, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "XSME6NV4GX2Z",
         "link": "https://genshin.hoyoverse.com/en/gift?code=XSME6NV4GX2Z",
         "server": "All",
