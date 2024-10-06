@@ -1,5 +1,71 @@
 [
     {
+        "code": "XSME6NV4GX2Z",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=XSME6NV4GX2Z",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 27, 2024",
+            "valid": null,
+            "expired": "September 28, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "KALF66CLGXKM",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=KALF66CLGXKM",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 27, 2024",
+            "valid": null,
+            "expired": "September 28, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "PT5WP6D5GXJ9",
+        "link": "https://genshin.hoyoverse.com/en/gift?code=PT5WP6D5GXJ9",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 27, 2024",
+            "valid": null,
+            "expired": "September 28, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "EFCIZM3399M1",
         "link": "https://genshin.hoyoverse.com/en/gift?code=EFCIZM3399M1",
         "server": "All",
