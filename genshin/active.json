@@ -285,7 +285,7 @@
         "code": "LA5E77CLZX5V",
         "link": "https://genshin.hoyoverse.com/gift?code=LA5E77CLZX5V",
         "server": "All",
-        "status": "Indefinite",
+        "status": "Valid",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -297,8 +297,8 @@
             }
         ],
         "duration": {
-            "discovered": "October 5, 2024",
-            "valid": "(indefinite)",
+            "discovered": "September 27, 2024",
+            "valid": "December 11, 2024",
             "expired": null,
             "notes": null
         }
