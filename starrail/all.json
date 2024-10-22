@@ -1,27 +1,5 @@
 [
     {
-        "code": "2B22G7WF6HFB",
-        "link": "https://hsr.hoyoverse.com/gift?code=2B22G7WF6HFB",
-        "server": "All",
-        "status": "Valid",
-        "rewards": [
-            {
-                "name": "Grande Rejuvepill \u00d710",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Item_Grande_Rejuvepill.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 21, 2024",
-            "valid": "November 2, 2024",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "5T3Y6764D3Q3",
         "link": "https://hsr.hoyoverse.com/gift?code=5T3Y6764D3Q3",
         "server": "All",
