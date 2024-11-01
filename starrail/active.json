@@ -1,114 +1,22 @@
 [
     {
-        "code": "5T3Y6764D3Q3",
-        "link": "https://hsr.hoyoverse.com/gift?code=5T3Y6764D3Q3",
+        "code": "HBKKDH9FR3NX",
+        "link": "https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX",
         "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 2, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "LINGSHAQUIZ",
-        "link": "https://hsr.hoyoverse.com/gift?code=LINGSHAQUIZ",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Traveler's Guide \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
-            },
-            {
-                "name": "Jade Marrow Diffusion \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Item_Jade_Marrow_Diffusion.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 2, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "FeixiaoFiles",
-        "link": "https://hsr.hoyoverse.com/gift?code=FeixiaoFiles",
-        "server": "All",
-        "status": "Indefinite",
+        "status": "Valid",
         "rewards": [
             {
                 "name": "Lost Crystal \u00d73",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
             {
-                "name": "Five-Grain Jade Elixir \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
+                "name": "Scare Box \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Item_Scare_Box.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "September 10, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "XRPTL1P7K5H8W",
-        "link": "https://hsr.hoyoverse.com/gift?code=XRPTL1P7K5H8W",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Traveler's Guide \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
-            },
-            {
-                "name": "Five-Grain Jade Elixir \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d720000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "CM25RWG44W62",
-        "link": "https://hsr.hoyoverse.com/gift?code=CM25RWG44W62",
-        "server": "All",
-        "status": "Indefinite",
-        "rewards": [
-            {
-                "name": "Traveler's Guide \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d720000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2024",
-            "valid": "Unknown",
+            "discovered": "October 31, 2024",
+            "valid": "November 7, 2024",
             "expired": null,
             "notes": null
         }
