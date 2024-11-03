@@ -1,5 +1,49 @@
 [
     {
+        "code": "RAPPAISHERE",
+        "link": "https://hsr.hoyoverse.com/gift?code=RAPPAISHERE",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Dazzling Ninja Provisions \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Item_Dazzling_Ninja_Provisions.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 3, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "4AKKCZQF92P3",
+        "link": "https://hsr.hoyoverse.com/gift?code=4AKKCZQF92P3",
+        "server": "All",
+        "status": "Indefinite",
+        "rewards": [
+            {
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "\"Dreamlight\" Mixed Sweets \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 3, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HBKKDH9FR3NX",
         "link": "https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX",
         "server": "All",
