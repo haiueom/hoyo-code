@@ -1,5 +1,27 @@
 [
     {
+        "code": "HBKKDH9FR3NX",
+        "link": "https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX",
+        "server": "All",
+        "status": "Expired",
+        "rewards": [
+            {
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Scare Box \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Item_Scare_Box.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 31, 2024",
+            "valid": "November 7, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "WB3H6664CK9T ",
         "link": "https://hsr.hoyoverse.com/gift?code=WB3H6664CK9T",
         "server": "All",
