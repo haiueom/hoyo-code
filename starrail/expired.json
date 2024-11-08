@@ -16,8 +16,8 @@
         ],
         "duration": {
             "discovered": "October 31, 2024",
-            "valid": "November 7, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "November 7, 2024",
             "notes": null
         }
     },
