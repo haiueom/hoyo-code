@@ -348,36 +348,6 @@
         }
     },
     {
-        "code": "DEOB21CK9Y6N",
-        "link": "https://genshin.hoyoverse.com/gift?code=DEOB21CK9Y6N",
-        "server": "All",
-        "status": "Expired",
-        "rewards": [
-            {
-                "name": "Brilliant Chrysanthemum \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
-            },
-            {
-                "name": "Mora \u00d710,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2024",
-            "valid": null,
-            "expired": "November 8, 2024",
-            "notes": null
-        }
-    },
-    {
         "code": "SBUEMJB449D9",
         "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
         "server": "All",
