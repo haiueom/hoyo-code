@@ -1,5 +1,39 @@
 [
     {
+        "code": "genshin52x8399",
+        "link": "https://genshin.hoyoverse.com/gift?code=genshin52x8399",
+        "server": "All",
+        "status": "Valid",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Kindling \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Vayuda Turquoise Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 11, 2024",
+            "valid": "November 21, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "PAGG9M78TJBQ",
         "link": "https://genshin.hoyoverse.com/gift?code=PAGG9M78TJBQ",
         "server": "All",
