@@ -1,4 +1,4 @@
-name: Updating Data
+name: Hoyoverse Code Scraper
 on:
     push:
         branches:
@@ -9,27 +9,29 @@ on:
     workflow_dispatch:
 
 jobs:
-    updating:
+    scrape-codes:
         runs-on: ubuntu-latest
         permissions:
             contents: write
         steps:
-            - name: checkout repo content
+            - name: checkout repository
               uses: actions/checkout@v4
-              with:
-                  ref: ${{ github.head_ref }}
             - name: setup python
               uses: actions/setup-python@v5
               with:
                   python-version: 3.12.x
-            - name: install python packages
+                  cache: "pip"
+            - name: install dependencies
               run: |
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
-            - name: updating data
+            - name: run the scraper
               run: |
                   python main.py
-            - name: finishing up
-              uses: stefanzweifel/git-auto-commit-action@v5
-              with:
-                  commit_message: "✅ Data updated"
+            - name: commit and push changes
+              run: |
+                  git config --local user.name "github-actions[bot]"
+                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
+                  git add .
+                  git commit -m "Automated code update $(date +'%Y-%m-%d')"
+                  git push
