@@ -23,12 +23,6 @@ This project is a Python 3 tool designed to scrape promotional or redeem codes f
 
 -   Python 3.12+
 
-To install the required packages, run:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### 1. Clone the repository:
@@ -46,6 +40,7 @@ Dependencies used in this project:
 -   `beautifulsoup4` for HTML parsing
 
 To install all required pip dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -85,46 +80,46 @@ on:
     workflow_dispatch:
 
 scrape-codes:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
-            - name: checkout repository
-              uses: actions/checkout@v4
-            - name: setup python
-              uses: actions/setup-python@v5
-              with:
-                  python-version: 3.12.x
-                  cache: "pip"
-            - name: install dependencies
-              run: |
-                  python -m pip install --upgrade pip
-                  pip install -r requirements.txt
-            - name: run the scraper
-              run: |
-                  python main.py
-            - name: commit and push changes
-              run: |
-                  git config --local user.name "github-actions[bot]"
-                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
-                  git add .
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+    steps:
+        - name: checkout repository
+          uses: actions/checkout@v4
+        - name: setup python
+          uses: actions/setup-python@v5
+          with:
+              python-version: 3.12.x
+              cache: "pip"
+        - name: install dependencies
+          run: |
+              python -m pip install --upgrade pip
+              pip install -r requirements.txt
+        - name: run the scraper
+          run: |
+              python main.py
+        - name: commit and push changes
+          run: |
+              git config --local user.name "github-actions[bot]"
+              git config --local user.email "github-actions[bot]@users.noreply.github.com"
+              git add .
 
-                  # Check if there are changes
-                  if ! git diff-index --quiet HEAD; then
-                  git commit -m "update: $(date +'%Y-%m-%d')"
-                  git push
-                  else
-                  echo "No changes to commit"
-                  fi
+              # Check if there are changes
+              if ! git diff-index --quiet HEAD; then
+              git commit -m "update: $(date +'%Y-%m-%d')"
+              git push
+              else
+              echo "No changes to commit"
+              fi
 ```
 
 ## Support This Project
 
 If you find this project useful and would like to support its development, consider:
 
-- **Starring the repository**: This helps others find the project and lets me know that it's helpful.
-- **Contributing**: Bug reports, feature suggestions, and code contributions are always welcome!
-- **Donate**: If you'd like to support me directly, you can [buy me a coffee](https://ko-fi.com/ilhamtaufiq) or [Saweria](https://saweria.co/ilhamtau)
+-   **Starring the repository**: This helps others find the project and lets me know that it's helpful.
+-   **Contributing**: Bug reports, feature suggestions, and code contributions are always welcome!
+-   **Donate**: If you'd like to support me directly, you can [buy me a coffee](https://ko-fi.com/ilhamtaufiq) or [Saweria](https://saweria.co/ilhamtau)
 
 Thank you for your support!
 
