@@ -1,8 +1,5 @@
 name: Hoyoverse Code Scraper
 on:
-    push:
-        branches:
-            - main
     schedule:
         # run daily at 03:00 UTC+8
         - cron: "0 19 * * *"
