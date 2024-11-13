@@ -3,7 +3,6 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
-from datetime import datetime
 
 
 @dataclass
@@ -21,13 +20,13 @@ class Duration:
 
 
 @dataclass
-class Codes:
+class Code:
     code: str = ""
     link: str = ""
     server: str = ""
     status: str = ""
-    rewards: list[Reward] = None
-    duration: Duration = None
+    rewards: list[Reward] = list
+    duration: Duration = dict
 
 
 def extract_reward_info(reward_cell) -> Reward:
@@ -55,31 +54,13 @@ def extract_duration_info(duration_text) -> Duration:
     return None
 
 
-def extract_status_info(duration_info) -> str:
-    if duration_info and duration_info.valid:
-        if duration_info.valid == "(indefinite)":
-            return "Indefinite"
-        else:
-            try:
-                valid_until = datetime.strptime(duration_info.valid, "%B %d, %Y")
-                current_date = datetime.now()
-                return "Valid" if valid_until >= current_date else "Expired"
-            except Exception as e:
-                print(e)
-                return "Unknown"
-    elif duration_info and duration_info.expired:
-        return "Expired"
-    else:
-        return "Unknown"
-
-
-def parse_row(row) -> list[Codes]:
+def parse_row(row, status: str) -> list[Code]:
     cols = row.find_all("td")
     if len(cols) >= 2:
         codes = [code.text for code in cols[0].find_all("code")]
         if codes:
             return [
-                Codes(
+                Code(
                     code=code,
                     link=cols[0].find("a").get("href") if cols[0].find("a") else "",
                     server=cols[1].text.strip(),
@@ -88,49 +69,67 @@ def parse_row(row) -> list[Codes]:
                         for cell in cols[2].find_all("span", class_="item")
                     ],
                     duration=extract_duration_info(cols[3].text.strip()),
-                    status=extract_status_info(
-                        extract_duration_info(cols[3].text.strip())
-                    ),
+                    status=status,
                 )
                 for code in codes
             ]
     return []
 
 
-def write_json(file, data) -> None:
+def write_json(file: str, data: list[Code]) -> None:
     with open(file, "w+") as f:
         json.dump(data, f, indent=4, default=lambda o: o.__dict__)
 
 
-def scrape_active() -> list[Codes]:
+def write_txt(file: str, data: list[Code]) -> None:
+    with open(file, "w+") as f:
+        for i, entry in enumerate(data):
+            f.write(entry.code)
+            if i < len(data) - 1:
+                f.write("\n")
+
+
+def scrape_active_codes() -> list[Code]:
     URL = "https://genshin-impact.fandom.com/wiki/Promotional_Code"
     page = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(page.content, "html.parser")
     table = soup.find("div", id="mw-content-text").find("table")
     table_body = table.find("tbody")
     rows = table_body.find_all("tr")
-    data = [info for row in rows for info in parse_row(row)]
-    write_json("genshin/active.json", data)
+    data = [info for row in rows for info in parse_row(row, "active")]
     return data
 
 
-def scrape_expired() -> list[Codes]:
+def scrape_expired_codes() -> list[Code]:
     URL = "https://genshin-impact.fandom.com/wiki/Promotional_Code/History"
     page = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(page.content, "html.parser")
     table = soup.find("div", id="mw-content-text").find("table")
     table_body = table.find("tbody")
     rows = table_body.find_all("tr")
-    data = [info for row in rows for info in parse_row(row)]
-    write_json("genshin/expired.json", data)
+    data = [info for row in rows for info in parse_row(row, "expired")]
     return data
 
 
 def main() -> None:
-    active = scrape_active()
-    expired = scrape_expired()
-    write_json("genshin/all.json", active + expired)
-    return print("Genshin done!")
+    try:
+        active = scrape_active_codes()
+        expired = scrape_expired_codes()
+
+        write_json("genshin/all.json", active + expired)
+        write_txt("genshin/all.txt", active + expired)
+        print(f"✅ Genshin: {len(active + expired)} codes")
+
+        write_json("genshin/active.json", active)
+        write_txt("genshin/active.txt", active)
+        print(f"✅ Genshin: {len(active)} active codes")
+
+        write_json("genshin/expired.json", expired)
+        write_txt("genshin/expired.txt", expired)
+        print(f"✅ Genshin: {len(expired)} expired codes")
+    except:
+        print("❎ Genshin: Error retrieving data")
+
 
 if __name__ == "__main__":
     main()

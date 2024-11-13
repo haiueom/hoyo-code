@@ -1,29 +1,57 @@
 [
     {
-        "code": "V75GIFT",
-        "date": "Jul 19, 24",
-        "status": "Valid",
-        "note": "Surprise reward",
+        "code": "8AV7CPH0SA",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
         "rewards": [
             {
-                "name": "Coins\u00a0\u00d79999",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
-            },
-            {
-                "name": "Lone Destruction: Shadowchaser Trial Card (3-Day)\u00a0\u00d71",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/06/Lone_Destruction_-_Shadowchaser_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
-            },
-            {
-                "name": "Starless Rift\u00a0\u00d71",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
+                "name": "Asterite\u00a0\u00d7500",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 28, 24",
+            "note": "Castle Encounters, Trick or Treat?"
+        }
+    },
+    {
+        "code": "COETTFFR36",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Soda\u00a0\u00d73",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Aqua_Vitae_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 28, 24",
+            "note": "Castle Encounters, Trick or Treat?"
+        }
+    },
+    {
+        "code": "VitaVSLeylah",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stamina Potion\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 22, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HONKAI24",
-        "date": "Jun 6, 24",
-        "status": "Valid",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -37,6 +65,10 @@
                 "name": "Deepspace Anchor: First Light Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Deepspace_Anchor_-_First_Light_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 6, 24",
+            "note": "Surprise reward"
+        }
     }
 ]

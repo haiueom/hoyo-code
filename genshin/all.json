@@ -1,9 +1,43 @@
 [
     {
+        "code": "genshin52x8399",
+        "link": "https://genshin.hoyoverse.com/gift?code=genshin52x8399",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Kindling \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Vayuda Turquoise Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 11, 2024",
+            "valid": "November 21, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "PAGG9M78TJBQ",
         "link": "https://genshin.hoyoverse.com/gift?code=PAGG9M78TJBQ",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -37,7 +71,7 @@
         "code": "MTLF6DKA7PQZ",
         "link": "https://genshin.hoyoverse.com/gift?code=MTLF6DKA7PQZ",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d730,000",
@@ -67,7 +101,7 @@
         "code": "HVQAUTYB8NKE",
         "link": "https://genshin.hoyoverse.com/gift?code=HVQAUTYB8NKE",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -93,7 +127,7 @@
         "code": "AEXK6S4U93CF",
         "link": "https://genshin.hoyoverse.com/gift?code=AEXK6S4U93CF",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -123,7 +157,7 @@
         "code": "SVMCJ1398A18",
         "link": "https://genshin.hoyoverse.com/gift?code=SVMCJ1398A18",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -157,7 +191,7 @@
         "code": "PPBL281426WC",
         "link": "https://genshin.hoyoverse.com/gift?code=PPBL281426WC",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Kalpalata Lotus \u00d73",
@@ -187,7 +221,7 @@
         "code": "EMVDL6W28D8A",
         "link": "https://genshin.hoyoverse.com/gift?code=EMVDL6W28D8A",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -221,7 +255,7 @@
         "code": "UTLO4OA55PA7",
         "link": "https://genshin.hoyoverse.com/gift?code=UTLO4OA55PA7",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -255,7 +289,7 @@
         "code": "WTXV36M1J6CO",
         "link": "https://genshin.hoyoverse.com/gift?code=WTXV36M1J6CO",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -285,7 +319,7 @@
         "code": "SBUEMJB449D9",
         "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -315,7 +349,7 @@
         "code": "SBUE3NT47K26",
         "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -345,7 +379,7 @@
         "code": "HVDLLZ29Y26W",
         "link": "https://genshin.hoyoverse.com/gift?code=HVDLLZ29Y26W",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -375,7 +409,7 @@
         "code": "LA5E77CLZX5V",
         "link": "https://genshin.hoyoverse.com/gift?code=LA5E77CLZX5V",
         "server": "All",
-        "status": "Valid",
+        "status": "active",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -397,7 +431,7 @@
         "code": "GENSHINGIFT",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Primogem \u00d750",
@@ -419,7 +453,7 @@
         "code": "JS45ETDJLKMD",
         "link": "https://genshin.hoyoverse.com/gift?code=JS45ETDJLKMD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -441,7 +475,7 @@
         "code": "7TLMXSD243JR",
         "link": "https://genshin.hoyoverse.com/gift?code=7TLMXSD243JR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -463,7 +497,7 @@
         "code": "6ALMWAVKLK35",
         "link": "https://genshin.hoyoverse.com/gift?code=6ALMWAVKLK35",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -485,7 +519,7 @@
         "code": "DEOB21CK9Y6N",
         "link": "https://genshin.hoyoverse.com/gift?code=DEOB21CK9Y6N",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -515,7 +549,7 @@
         "code": "WORF3IEG4WP9",
         "link": "https://genshin.hoyoverse.com/gift?code=WORF3IEG4WP9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Saurian Claw Succulent \u00d73",
@@ -545,7 +579,7 @@
         "code": "KJBNURFE321W",
         "link": "https://genshin.hoyoverse.com/gift?code=KJBNURFE321W",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Saurian Claw Succulent \u00d73",
@@ -575,7 +609,7 @@
         "code": "KJBN2JM88SJ3",
         "link": "https://genshin.hoyoverse.com/gift?code=KJBNURFE321W",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Saurian Claw Succulent \u00d73",
@@ -605,7 +639,7 @@
         "code": "KJBNJ37T7FP3",
         "link": "https://genshin.hoyoverse.com/gift?code=KJBNURFE321W",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Saurian Claw Succulent \u00d73",
@@ -635,7 +669,7 @@
         "code": "OHDN6KB124UF",
         "link": "https://genshin.hoyoverse.com/gift?code=OHDN6KB124UF",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -665,7 +699,7 @@
         "code": "HHFP3517D3UN",
         "link": "https://genshin.hoyoverse.com/gift?code=HHFP3517D3UN",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -695,7 +729,7 @@
         "code": "KEQES9R79R49",
         "link": "https://genshin.hoyoverse.com/gift?code=KEQES9R79R49",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -725,7 +759,7 @@
         "code": "HHHA5Z81O5UK",
         "link": "https://genshin.hoyoverse.com/gift?code=HHHA5Z81O5UK",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -751,7 +785,7 @@
         "code": "BlazeToNatlan",
         "link": "https://genshin.hoyoverse.com/gift?code=BlazeToNatlan",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -781,7 +815,7 @@
         "code": "DMGJ5262H9SK",
         "link": "https://genshin.hoyoverse.com/gift?code=DMGJ5262H9SK",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -815,7 +849,7 @@
         "code": "JVBR8Z8EB8Z9",
         "link": "https://genshin.hoyoverse.com/gift?code=JVBR8Z8EB8Z9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -849,7 +883,7 @@
         "code": "RNIF6H9394K8",
         "link": "https://genshin.hoyoverse.com/gift?code=RNIF6H9394K8",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -883,7 +917,7 @@
         "code": "RNIFE312G5JZ",
         "link": "https://genshin.hoyoverse.com/gift?code=RNIF6H9394K8",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -917,7 +951,7 @@
         "code": "LHMJORVJ3551",
         "link": "https://genshin.hoyoverse.com/gift?code=LHMJORVJ3551",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -951,7 +985,7 @@
         "code": "GENSHIN51TT",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN51TT",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -985,7 +1019,7 @@
         "code": "XSME6NV4GX2Z",
         "link": "https://genshin.hoyoverse.com/gift?code=XSME6NV4GX2Z",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1007,7 +1041,7 @@
         "code": "KALF66CLGXKM",
         "link": "https://genshin.hoyoverse.com/gift?code=KALF66CLGXKM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1029,7 +1063,7 @@
         "code": "PT5WP6D5GXJ9",
         "link": "https://genshin.hoyoverse.com/gift?code=PT5WP6D5GXJ9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1051,7 +1085,7 @@
         "code": "EFCIZM3399M1",
         "link": "https://genshin.hoyoverse.com/gift?code=EFCIZM3399M1",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1085,7 +1119,7 @@
         "code": "EFCI8PZ9LO56",
         "link": "https://genshin.hoyoverse.com/gift?code=EFCIZM3399M1",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1119,7 +1153,7 @@
         "code": "TTKEXYBCNWFH",
         "link": "https://genshin.hoyoverse.com/gift?code=TTKEXYBCNWFH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d730,000",
@@ -1141,7 +1175,7 @@
         "code": "5A2WEGTVPXFV",
         "link": "https://genshin.hoyoverse.com/gift?code=5A2WEGTVPXFV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mystic Enhancement Ore \u00d710",
@@ -1159,7 +1193,7 @@
         "code": "5SKXWYSCPEVR",
         "link": "https://genshin.hoyoverse.com/gift?code=5SKXWYSCPEVR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Hero's Wit \u00d75",
@@ -1177,7 +1211,7 @@
         "code": "CXCG929M9MB9",
         "link": "https://genshin.hoyoverse.com/gift?code=CXCG929M9MB9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1211,7 +1245,7 @@
         "code": "YILB5OHN89CN",
         "link": "https://genshin.hoyoverse.com/gift?code=YILB5OHN89CN",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1245,7 +1279,7 @@
         "code": "YNQS332O31TG",
         "link": "https://genshin.hoyoverse.com/gift?code=YNQS332O31TG",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lakelight Lily \u00d73",
@@ -1275,7 +1309,7 @@
         "code": "HIIKNICN5N17",
         "link": "https://genshin.hoyoverse.com/gift?code=HIIKNICN5N17",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lakelight Lily \u00d73",
@@ -1305,7 +1339,7 @@
         "code": "USDA9H94ZHSE",
         "link": "https://genshin.hoyoverse.com/gift?code=USDA9H94ZHSE",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1339,7 +1373,7 @@
         "code": "USDA8V3429S6",
         "link": "https://genshin.hoyoverse.com/gift?code=USDA9H94ZHSE",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1373,7 +1407,7 @@
         "code": "ZOYWFIGI3NJ2",
         "link": "https://genshin.hoyoverse.com/gift?code=ZOYWFIGI3NJ2",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1407,7 +1441,7 @@
         "code": "ZOYW5VB45X5T",
         "link": "https://genshin.hoyoverse.com/gift?code=ZOYWFIGI3NJ2",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1441,7 +1475,7 @@
         "code": "ARQS5391FY79",
         "link": "https://genshin.hoyoverse.com/gift?code=ARQS5391FY79",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1475,7 +1509,7 @@
         "code": "ARQSZJ8BJ248",
         "link": "https://genshin.hoyoverse.com/gift?code=ARQS5391FY79",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1509,7 +1543,7 @@
         "code": "ARQSL113O9ZU",
         "link": "https://genshin.hoyoverse.com/gift?code=ARQS5391FY79",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1543,7 +1577,7 @@
         "code": "KKFDOUU3GCJP",
         "link": "https://genshin.hoyoverse.com/gift?code=KKFDOUU3GCJP",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1577,7 +1611,7 @@
         "code": "KKFD1J97LTJ2",
         "link": "https://genshin.hoyoverse.com/gift?code=KKFDOUU3GCJP",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1611,7 +1645,7 @@
         "code": "KKFD53TP7U2M",
         "link": "https://genshin.hoyoverse.com/gift?code=KKFDOUU3GCJP",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1645,7 +1679,7 @@
         "code": "MGKH82L54F6S",
         "link": "https://genshin.hoyoverse.com/gift?code=MGKH82L54F6S",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lakelight Lily \u00d73",
@@ -1675,7 +1709,7 @@
         "code": "FollowGenshinImpactDE",
         "link": "https://genshin.hoyoverse.com/gift?code=FollowGenshinImpactDE",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -1705,7 +1739,7 @@
         "code": "2SMTYV59TLFD",
         "link": "https://genshin.hoyoverse.com/gift?code=2SMTYV59TLFD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1727,7 +1761,7 @@
         "code": "7SMTGV59BLXH",
         "link": "https://genshin.hoyoverse.com/gift?code=7SMTGV59BLXH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1749,7 +1783,7 @@
         "code": "8T4TGDLRA5E5",
         "link": "https://genshin.hoyoverse.com/gift?code=8T4TGDLRA5E5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -1771,7 +1805,7 @@
         "code": "FBJCMYSXCBT5",
         "link": "https://genshin.hoyoverse.com/gift?code=FBJCMYSXCBT5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -1793,7 +1827,7 @@
         "code": "QIDD46418U6Q",
         "link": "https://genshin.hoyoverse.com/gift?code=QIDD46418U6Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1827,7 +1861,7 @@
         "code": "QIDDX253YI55",
         "link": "https://genshin.hoyoverse.com/gift?code=QIDD46418U6Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1861,7 +1895,7 @@
         "code": "QIDD8QG69IFS",
         "link": "https://genshin.hoyoverse.com/gift?code=QIDD46418U6Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1895,7 +1929,7 @@
         "code": "QIDDIC21CM9X",
         "link": "https://genshin.hoyoverse.com/gift?code=QIDD46418U6Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1929,7 +1963,7 @@
         "code": "QIDDGB3P34SR",
         "link": "https://genshin.hoyoverse.com/gift?code=QIDD46418U6Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -1963,7 +1997,7 @@
         "code": "GENSHINSUMMERNIGHT",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINSUMMERNIGHT",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -1997,7 +2031,7 @@
         "code": "DUOIMPACT",
         "link": "https://genshin.hoyoverse.com/gift?code=DUOIMPACT",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -2031,7 +2065,7 @@
         "code": "HHZN6E8685VU",
         "link": "https://genshin.hoyoverse.com/gift?code=HHZN6E8685VU",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2065,7 +2099,7 @@
         "code": "HHZN4X36Y97G",
         "link": "https://genshin.hoyoverse.com/gift?code=HHZN6E8685VU",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2099,7 +2133,7 @@
         "code": "HHZNF6668M77",
         "link": "https://genshin.hoyoverse.com/gift?code=HHZN6E8685VU",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2133,7 +2167,7 @@
         "code": "PXQUNMP48TWM",
         "link": "https://genshin.hoyoverse.com/gift?code=PXQUNMP48TWM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2167,7 +2201,7 @@
         "code": "JWECZ18L3J49",
         "link": "https://genshin.hoyoverse.com/gift?code=JWECZ18L3J49",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2201,7 +2235,7 @@
         "code": "MGCA18HB2727",
         "link": "https://genshin.hoyoverse.com/gift?code=MGCA18HB2727",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2235,7 +2269,7 @@
         "code": "FATIXK63WO8Q",
         "link": "https://genshin.hoyoverse.com/gift?code=FATIXK63WO8Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2269,7 +2303,7 @@
         "code": "FATIX8X9R149",
         "link": "https://genshin.hoyoverse.com/gift?code=FATIXK63WO8Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2303,7 +2337,7 @@
         "code": "QRUWF1BV2P33",
         "link": "https://genshin.hoyoverse.com/gift?code=QRUWF1BV2P33",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lumitoile \u00d73",
@@ -2333,7 +2367,7 @@
         "code": "NGQR1H5QCK82",
         "link": "https://genshin.hoyoverse.com/gift?code=NGQR1H5QCK82",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2367,7 +2401,7 @@
         "code": "SPAC2S34Y5P9",
         "link": "https://genshin.hoyoverse.com/gift?code=SPAC2S34Y5P9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2401,7 +2435,7 @@
         "code": "LUURRWZ23243",
         "link": "https://genshin.hoyoverse.com/gift?code=LUURRWZ23243",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2435,7 +2469,7 @@
         "code": "BZPU67488O5V",
         "link": "https://genshin.hoyoverse.com/gift?code=BZPU67488O5V",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2469,7 +2503,7 @@
         "code": "BCPCGY9HGB3H",
         "link": "https://genshin.hoyoverse.com/gift?code=BCPCGY9HGB3H",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2503,7 +2537,7 @@
         "code": "VAJWEZAC7WCZ",
         "link": "https://genshin.hoyoverse.com/gift?code=VAJWEZAC7WCZ",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -2529,7 +2563,7 @@
         "code": "TYMH47X31W68",
         "link": "https://genshin.hoyoverse.com/gift?code=TYMH47X31W68",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2563,7 +2597,7 @@
         "code": "PTKXYUGW7R6D",
         "link": "https://genshin.hoyoverse.com/gift?code=PTKXYUGW7R6D",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2585,7 +2619,7 @@
         "code": "5TJWHDHX7R59",
         "link": "https://genshin.hoyoverse.com/gift?code=5TJWHDHX7R59",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2607,7 +2641,7 @@
         "code": "YS2WHUHFNQ5M",
         "link": "https://genshin.hoyoverse.com/gift?code=YS2WHUHFNQ5M",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2629,7 +2663,7 @@
         "code": "MEKNXSB8EE9S",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2651,7 +2685,7 @@
         "code": "AWJNFBPUVQXS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2673,7 +2707,7 @@
         "code": "UE26ET6VC9WE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -2695,7 +2729,7 @@
         "code": "LUURGQ12RRBM",
         "link": "https://genshin.hoyoverse.com/gift?code=LUURGQ12RRBM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2729,7 +2763,7 @@
         "code": "SBCCMQ8Q893R",
         "link": "https://genshin.hoyoverse.com/gift?code=SBCCMQ8Q893R",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2763,7 +2797,7 @@
         "code": "SBCCV64ZF975",
         "link": "https://genshin.hoyoverse.com/gift?code=SBCCMQ8Q893R",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2797,7 +2831,7 @@
         "code": "DSXY15NL247E",
         "link": "https://genshin.hoyoverse.com/gift?code=DSXY15NL247E",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2831,7 +2865,7 @@
         "code": "XEZAXGN32H94",
         "link": "https://genshin.hoyoverse.com/gift?code=XEZAXGN32H94",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2865,7 +2899,7 @@
         "code": "XEZAXRS88R5G",
         "link": "https://genshin.hoyoverse.com/gift?code=XEZAXGN32H94",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2899,7 +2933,7 @@
         "code": "VFNSE3DQBW1Q",
         "link": "https://genshin.hoyoverse.com/gift?code=VFNSE3DQBW1Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2933,7 +2967,7 @@
         "code": "VFNS1OGXYOYU",
         "link": "https://genshin.hoyoverse.com/gift?code=VFNSE3DQBW1Q",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -2967,7 +3001,7 @@
         "code": "XQECMR9IIJ46",
         "link": "https://genshin.hoyoverse.com/gift?code=XQECMR9IIJ46",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3001,7 +3035,7 @@
         "code": "MLEA572X2UHK",
         "link": "https://genshin.hoyoverse.com/gift?code=MLEA572X2UHK",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3035,7 +3069,7 @@
         "code": "PZFUH5GIP9UF",
         "link": "https://genshin.hoyoverse.com/gift?code=PZFUH5GIP9UF",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3069,7 +3103,7 @@
         "code": "RERBFT39544D",
         "link": "https://genshin.hoyoverse.com/gift?code=RERBFT39544D",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3103,7 +3137,7 @@
         "code": "ULEP3495428K",
         "link": "https://genshin.hoyoverse.com/gift?code=ULEP3495428K",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3137,7 +3171,7 @@
         "code": "RTJUNRSHTAL9",
         "link": "https://genshin.hoyoverse.com/gift?code=RTJUNRSHTAL9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -3159,7 +3193,7 @@
         "code": "BS3DLYAFVAUH",
         "link": "https://genshin.hoyoverse.com/gift?code=BS3DLYAFVAUH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3181,7 +3215,7 @@
         "code": "6A2ULZTFVBCV",
         "link": "https://genshin.hoyoverse.com/gift?code=6A2ULZTFVBCV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3203,7 +3237,7 @@
         "code": "US2VLGSXCAT9",
         "link": "https://genshin.hoyoverse.com/gift?code=US2VLGSXCAT9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3225,7 +3259,7 @@
         "code": "EX2PESSKFE2W",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3247,7 +3281,7 @@
         "code": "TF27EBBKWX32",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3269,7 +3303,7 @@
         "code": "XF3PFSA2WEKN",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3291,7 +3325,7 @@
         "code": "CA3BLTURGH9D",
         "link": "https://genshin.hoyoverse.com/gift?code=CA3BLTURGH9D",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -3313,7 +3347,7 @@
         "code": "NQXAP58F96ED",
         "link": "https://genshin.hoyoverse.com/gift?code=NQXAP58F96ED",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3347,7 +3381,7 @@
         "code": "NQXAZLX1943G",
         "link": "https://genshin.hoyoverse.com/gift?code=NQXAP58F96ED",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3381,7 +3415,7 @@
         "code": "GGXG9VO6967I",
         "link": "https://genshin.hoyoverse.com/gift?code=GGXG9VO6967I",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3415,7 +3449,7 @@
         "code": "GGXG71L5J215",
         "link": "https://genshin.hoyoverse.com/gift?code=GGXG9VO6967I",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3449,7 +3483,7 @@
         "code": "YKHC9863Y9N4",
         "link": "https://genshin.hoyoverse.com/gift?code=YKHC9863Y9N4",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3483,7 +3517,7 @@
         "code": "YKHC29118G54",
         "link": "https://genshin.hoyoverse.com/gift?code=YKHC9863Y9N4",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3517,7 +3551,7 @@
         "code": "KAVI6G4PL24E",
         "link": "https://genshin.hoyoverse.com/gift?code=KAVI6G4PL24E",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3551,7 +3585,7 @@
         "code": "KAVI75ET63II",
         "link": "https://genshin.hoyoverse.com/gift?code=KAVI6G4PL24E",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3585,7 +3619,7 @@
         "code": "KAVIH73V97EN",
         "link": "https://genshin.hoyoverse.com/gift?code=KAVI6G4PL24E",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3619,7 +3653,7 @@
         "code": "BNYP1WBMU61F",
         "link": "https://genshin.hoyoverse.com/gift?code=BNYP1WBMU61F",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3653,7 +3687,7 @@
         "code": "BNYP6K5X4HIQ",
         "link": "https://genshin.hoyoverse.com/gift?code=BNYP1WBMU61F",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3687,7 +3721,7 @@
         "code": "OLQH7G62I7EU",
         "link": "https://genshin.hoyoverse.com/gift?code=OLQH7G62I7EU",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3721,7 +3755,7 @@
         "code": "HOFK9PBK481G",
         "link": "https://genshin.hoyoverse.com/gift?code=HOFK9PBK481G",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3755,7 +3789,7 @@
         "code": "WTKBMBD8ZZRZ",
         "link": "https://genshin.hoyoverse.com/gift?code=WTKBMBD8ZZRZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3777,7 +3811,7 @@
         "code": "EAKA5BU9HHRM",
         "link": "https://genshin.hoyoverse.com/gift?code=EAKA5BU9HHRM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3799,7 +3833,7 @@
         "code": "9B3AMTCQZYQ9",
         "link": "https://genshin.hoyoverse.com/gift?code=9B3AMTCQZYQ9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3821,7 +3855,7 @@
         "code": "8F3LR6AQ68JS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3843,7 +3877,7 @@
         "code": "DEK48NT9682E",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3865,7 +3899,7 @@
         "code": "UW34Q6TR7RK2",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -3887,7 +3921,7 @@
         "code": "JB95D2V5XGJ5",
         "link": "https://genshin.hoyoverse.com/gift?code=JB95D2V5XGJ5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -3921,7 +3955,7 @@
         "code": "WAZGIKZ9K6NM",
         "link": "https://genshin.hoyoverse.com/gift?code=WAZGIKZ9K6NM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3955,7 +3989,7 @@
         "code": "WAZGEEN49572",
         "link": "https://genshin.hoyoverse.com/gift?code=WAZGIKZ9K6NM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -3989,7 +4023,7 @@
         "code": "CT2BDW7JD38M",
         "link": "https://genshin.hoyoverse.com/gift?code=CT2BDW7JD38M",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -4011,7 +4045,7 @@
         "code": "TT3B5L2AHVE9",
         "link": "https://genshin.hoyoverse.com/gift?code=TT3B5L2AHVE9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Fontinalia Mousse \u00d71",
@@ -4045,7 +4079,7 @@
         "code": "IREQ1FTFRYBX",
         "link": "https://genshin.hoyoverse.com/gift?code=IREQ1FTFRYBX",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4079,7 +4113,7 @@
         "code": "IREQ9W823341",
         "link": "https://genshin.hoyoverse.com/gift?code=IREQ1FTFRYBX",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4113,7 +4147,7 @@
         "code": "DAKTDBWTZTYR",
         "link": "https://genshin.hoyoverse.com/gift?code=DAKTDBWTZTYR",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4135,7 +4169,7 @@
         "code": "AT3BDSWTYBKD",
         "link": "https://genshin.hoyoverse.com/gift?code=AT3BDSWTYBKD",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4157,7 +4191,7 @@
         "code": "5TKAUAWAGBJR",
         "link": "https://genshin.hoyoverse.com/gift?code=5TKAUAWAGBJR",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4179,7 +4213,7 @@
         "code": "KW2BZ9WHTU8A",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4201,7 +4235,7 @@
         "code": "RXJAG9FGBD9E",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4223,7 +4257,7 @@
         "code": "3E3SY8FGACQJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4245,7 +4279,7 @@
         "code": "8SJSDSX68UF9",
         "link": "https://genshin.hoyoverse.com/gift?code=8SJSDSX68UF9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d78,888",
@@ -4275,7 +4309,7 @@
         "code": "QOTR3M8X535N",
         "link": "https://genshin.hoyoverse.com/gift?code=QOTR3M8X535N",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4309,7 +4343,7 @@
         "code": "CIJO8VL7B929",
         "link": "https://genshin.hoyoverse.com/gift?code=CIJO8VL7B929",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4343,7 +4377,7 @@
         "code": "MEIR79527PDC",
         "link": "https://genshin.hoyoverse.com/gift?code=MEIR79527PDC",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4377,7 +4411,7 @@
         "code": "FBYQA7X71H92",
         "link": "https://genshin.hoyoverse.com/gift?code=FBYQA7X71H92",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4411,7 +4445,7 @@
         "code": "FBYQ36SHY279",
         "link": "https://genshin.hoyoverse.com/gift?code=FBYQA7X71H92",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4445,7 +4479,7 @@
         "code": "TGEFFQY7J6V2",
         "link": "https://genshin.hoyoverse.com/gift?code=TGEFFQY7J6V2",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4479,7 +4513,7 @@
         "code": "TGEFB1F28HSB",
         "link": "https://genshin.hoyoverse.com/gift?code=TGEFFQY7J6V2",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4513,7 +4547,7 @@
         "code": "NA88ANTJL5SD",
         "link": "https://genshin.hoyoverse.com/gift?code=NA88ANTJL5SD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -4535,7 +4569,7 @@
         "code": "8A9QTYHDYJVD",
         "link": "https://genshin.hoyoverse.com/gift?code=8A9QTYHDYJVD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lucky Coin \u00d73,000",
@@ -4553,7 +4587,7 @@
         "code": "BBQ8AZHUH2CZ",
         "link": "https://genshin.hoyoverse.com/gift?code=BBQ8AZHUH2CZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4575,7 +4609,7 @@
         "code": "MT88AYHCZ2UR",
         "link": "https://genshin.hoyoverse.com/gift?code=MT88AYHCZ2UR",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4597,7 +4631,7 @@
         "code": "FA9QAGYDZJEV",
         "link": "https://genshin.hoyoverse.com/gift?code=FA9QAGYDZJEV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4619,7 +4653,7 @@
         "code": "9W9H2F5JREFJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4641,7 +4675,7 @@
         "code": "TX8HKX5J9WE6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4663,7 +4697,7 @@
         "code": "9F9G3WL3RWZS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4685,7 +4719,7 @@
         "code": "8T8QTHGVZJAR",
         "link": "https://genshin.hoyoverse.com/gift?code=8T8QTHGVZJAR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lucky Coin \u00d73,000",
@@ -4703,7 +4737,7 @@
         "code": "NNDFKSKEX6TH",
         "link": "https://genshin.hoyoverse.com/gift?code=NNDFKSKEX6TH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4737,7 +4771,7 @@
         "code": "HJGDJA2FW7FH",
         "link": "https://genshin.hoyoverse.com/gift?code=HJGDJA2FW7FH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4771,7 +4805,7 @@
         "code": "EA8RWDMBVRTR",
         "link": "https://genshin.hoyoverse.com/gift?code=EA8RWDMBVRTR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -4793,7 +4827,7 @@
         "code": "RS99D5LVTM6V",
         "link": "https://genshin.hoyoverse.com/gift?code=RS99D5LVTM6V",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4815,7 +4849,7 @@
         "code": "UBRQC4MCT4PZ",
         "link": "https://genshin.hoyoverse.com/gift?code=UBRQC4MCT4PZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4837,7 +4871,7 @@
         "code": "8BQ9CMMVS5PM",
         "link": "https://genshin.hoyoverse.com/gift?code=8BQ9CMMVS5PM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4859,7 +4893,7 @@
         "code": "SEN3VLELVJV2",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4881,7 +4915,7 @@
         "code": "WX6JDLFLC3CN",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4903,7 +4937,7 @@
         "code": "WWNKULX5VJXA",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -4925,7 +4959,7 @@
         "code": "6T8NWE3HD7PD",
         "link": "https://genshin.hoyoverse.com/gift?code=6T8NWE3HD7PD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -4947,7 +4981,7 @@
         "code": "YT9L3UFSZXF9",
         "link": "https://genshin.hoyoverse.com/gift?code=YT9L3UFSZXF9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -4981,7 +5015,7 @@
         "code": "YT9L2DWTYWWM",
         "link": "https://genshin.hoyoverse.com/gift?code=YT9L3UFSZXF9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5015,7 +5049,7 @@
         "code": "3SRM3VEBHXY5",
         "link": "https://genshin.hoyoverse.com/gift?code=3SRM3VEBHXY5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5049,7 +5083,7 @@
         "code": "ETR5KVFSYFMZ",
         "link": "https://genshin.hoyoverse.com/gift?code=ETR5KVFSYFMZ",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5083,7 +5117,7 @@
         "code": "WA8MJCETGXLR",
         "link": "https://genshin.hoyoverse.com/gift?code=WA8MJCETGXLR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5117,7 +5151,7 @@
         "code": "VA97KJNF24UV",
         "link": "https://genshin.hoyoverse.com/gift?code=VA97KJNF24UV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5139,7 +5173,7 @@
         "code": "NTQP2KPEJMUH",
         "link": "https://genshin.hoyoverse.com/gift?code=NTQP2KPEJMUH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5161,7 +5195,7 @@
         "code": "9T96KJNE2LVM",
         "link": "https://genshin.hoyoverse.com/gift?code=9T96KJNE2LVM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5183,7 +5217,7 @@
         "code": "9DVWJTXLPTRJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5205,7 +5239,7 @@
         "code": "LCCWKBWMPT9N",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5227,7 +5261,7 @@
         "code": "RUUF3TEL7RBS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5249,7 +5283,7 @@
         "code": "9A97KJNX2NZ9",
         "link": "https://genshin.hoyoverse.com/gift?code=9A97KJNX2NZ9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -5267,7 +5301,7 @@
         "code": "TTQNCFMADSWH",
         "link": "https://genshin.hoyoverse.com/gift?code=TTQNCFMADSWH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -5285,7 +5319,7 @@
         "code": "AAQNVELTVSXV",
         "link": "https://genshin.hoyoverse.com/gift?code=AAQNVELTVSXV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -5307,7 +5341,7 @@
         "code": "4S97DELBCSV9",
         "link": "https://genshin.hoyoverse.com/gift?code=4S97DELBCSV9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -5329,7 +5363,7 @@
         "code": "AS97CE45EUER",
         "link": "https://genshin.hoyoverse.com/gift?code=AS97CE45EUER",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -5355,7 +5389,7 @@
         "code": "WEQPKCLZYRDH",
         "link": "https://genshin.hoyoverse.com/gift?code=WEQPKCLZYRDH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5389,7 +5423,7 @@
         "code": "WEQP3D5ZHRD9",
         "link": "https://genshin.hoyoverse.com/gift?code=WEQPKCLZYRDH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5423,7 +5457,7 @@
         "code": "FASF2VLYYSRD",
         "link": "https://genshin.hoyoverse.com/gift?code=FASF2VLYYSRD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5457,7 +5491,7 @@
         "code": "RQWP3ULZZ8VD",
         "link": "https://genshin.hoyoverse.com/gift?code=RQWP3ULZZ8VD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5491,7 +5525,7 @@
         "code": "RQWP2C4HZ8A5",
         "link": "https://genshin.hoyoverse.com/gift?code=RQWP3ULZZ8VD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5525,7 +5559,7 @@
         "code": "EAFVJV4YGTR9",
         "link": "https://genshin.hoyoverse.com/gift?code=EAFVJV4YGTR9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5559,7 +5593,7 @@
         "code": "EAFVKD4GZQBZ",
         "link": "https://genshin.hoyoverse.com/gift?code=EAFVJV4YGTR9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5593,7 +5627,7 @@
         "code": "GDAHKD5HYTN5",
         "link": "https://genshin.hoyoverse.com/gift?code=GDAHKD5HYTN5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5627,7 +5661,7 @@
         "code": "GDAH2VWGT8AT",
         "link": "https://genshin.hoyoverse.com/gift?code=GDAHKD5HYTN5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5661,7 +5695,7 @@
         "code": "GDAHJC4YHS7H",
         "link": "https://genshin.hoyoverse.com/gift?code=GDAHKD5HYTN5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5695,7 +5729,7 @@
         "code": "GENSHINIMPACTRIVALS23",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINIMPACTRIVALS23",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -5721,7 +5755,7 @@
         "code": "2S84JS839T8R",
         "link": "https://genshin.hoyoverse.com/gift?code=2S84JS839T8R",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -5743,7 +5777,7 @@
         "code": "MT8PCZYVG2T5",
         "link": "https://genshin.hoyoverse.com/gift?code=MT8PCZYVG2T5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5777,7 +5811,7 @@
         "code": "TA97CGHDHJTH",
         "link": "https://genshin.hoyoverse.com/gift?code=TA97CGHDHJTH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5811,7 +5845,7 @@
         "code": "NA9NDHHCZKTD",
         "link": "https://genshin.hoyoverse.com/gift?code=NA9NDHHCZKTD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -5845,7 +5879,7 @@
         "code": "FB8PFFHT364M",
         "link": "https://genshin.hoyoverse.com/gift?code=FB8PFFHT364M",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5867,7 +5901,7 @@
         "code": "JS96FEZS3P59",
         "link": "https://genshin.hoyoverse.com/gift?code=JS96FEZS3P59",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5889,7 +5923,7 @@
         "code": "2T86EWGBJP6V",
         "link": "https://genshin.hoyoverse.com/gift?code=2T86EWGBJP6V",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5911,7 +5945,7 @@
         "code": "GCSYYDEJNYC6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5933,7 +5967,7 @@
         "code": "MCAGYVX2NGFA",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5955,7 +5989,7 @@
         "code": "RCTGGDX26GEW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -5977,7 +6011,7 @@
         "code": "NS92PG6DB52M",
         "link": "https://genshin.hoyoverse.com/gift?code=NS92PG6DB52M",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -5999,7 +6033,7 @@
         "code": "3BRLL59ZCZKD",
         "link": "https://genshin.hoyoverse.com/gift?code=3BRLL59ZCZKD",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6021,7 +6055,7 @@
         "code": "WA845MQHUHKH",
         "link": "https://genshin.hoyoverse.com/gift?code=WA845MQHUHKH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6043,7 +6077,7 @@
         "code": "ZT8MLL8GCYKM",
         "link": "https://genshin.hoyoverse.com/gift?code=ZT8MLL8GCYKM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6065,7 +6099,7 @@
         "code": "RCGMCXM3DXMN",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6087,7 +6121,7 @@
         "code": "GCYMUE53CWNS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6109,7 +6143,7 @@
         "code": "ACG4VF43DF6W",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6131,7 +6165,7 @@
         "code": "WTQ2E83WS869",
         "link": "https://genshin.hoyoverse.com/gift?code=WTQ2E83WS869",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -6153,7 +6187,7 @@
         "code": "RS9MLR5553UH",
         "link": "https://genshin.hoyoverse.com/gift?code=RS9MLR5553UH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d730,000",
@@ -6183,7 +6217,7 @@
         "code": "QBQ2NH6DB4Z9",
         "link": "https://genshin.hoyoverse.com/gift?code=QBQ2NH6DB4Z9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6205,7 +6239,7 @@
         "code": "2SR3PY7CA52V",
         "link": "https://genshin.hoyoverse.com/gift?code=2SR3PY7CA52V",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6227,7 +6261,7 @@
         "code": "6A836GNUA52Z",
         "link": "https://genshin.hoyoverse.com/gift?code=6A836GNUA52Z",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6249,7 +6283,7 @@
         "code": "SDFW49BXAVDW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6271,7 +6305,7 @@
         "code": "PVEXMQTXSVUJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6293,7 +6327,7 @@
         "code": "2CXWMRTESDD6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6315,7 +6349,7 @@
         "code": "9S83F34ZFDVV",
         "link": "https://genshin.hoyoverse.com/gift?code=9S83F34ZFDVV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -6349,7 +6383,7 @@
         "code": "3SRJF25GXCU5",
         "link": "https://genshin.hoyoverse.com/gift?code=3SRJF25GXCU5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -6383,7 +6417,7 @@
         "code": "5B93WJMGXVFZ",
         "link": "https://genshin.hoyoverse.com/gift?code=5B93WJMGXVFZ",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -6417,7 +6451,7 @@
         "code": "GA9FPD42SJ4V",
         "link": "https://genshin.hoyoverse.com/gift?code=GA9FPD42SJ4V",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -6439,7 +6473,7 @@
         "code": "LAQZMTPKNTYH",
         "link": "https://genshin.hoyoverse.com/gift?code=LAQZMTPKNTYH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -6473,7 +6507,7 @@
         "code": "XT82F8JZS4TR",
         "link": "https://genshin.hoyoverse.com/gift?code=XT82F8JZS4TR",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6495,7 +6529,7 @@
         "code": "2SRKFQ2YSMVV",
         "link": "https://genshin.hoyoverse.com/gift?code=2SRKFQ2YSMVV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6517,7 +6551,7 @@
         "code": "5A92W9JZBLCH",
         "link": "https://genshin.hoyoverse.com/gift?code=5A92W9JZBLCH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6539,7 +6573,7 @@
         "code": "7C38QBV4Q2YW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6561,7 +6595,7 @@
         "code": "LDJ99BUM9JG2",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6583,7 +6617,7 @@
         "code": "SV289BD48KZN",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6605,7 +6639,7 @@
         "code": "LA9C3RHPPHQH",
         "link": "https://genshin.hoyoverse.com/gift?code=LA9C3RHPPHQH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -6627,7 +6661,7 @@
         "code": "SSRCJ8HSV7UM",
         "link": "https://genshin.hoyoverse.com/gift?code=SSRCJ8HSV7UM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -6661,7 +6695,7 @@
         "code": "4BQYGWQ9HTR5",
         "link": "https://genshin.hoyoverse.com/gift?code=4BQYGWQ9HTR5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d730,000",
@@ -6695,7 +6729,7 @@
         "code": "9ARE6VLJT34H",
         "link": "https://genshin.hoyoverse.com/gift?code=9ARE6VLJT34H",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6717,7 +6751,7 @@
         "code": "KBRE7D4KA2MM",
         "link": "https://genshin.hoyoverse.com/gift?code=KBRE7D4KA2MM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6739,7 +6773,7 @@
         "code": "7S9X6V4JB2M9",
         "link": "https://genshin.hoyoverse.com/gift?code=7S9X6V4JB2M9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6761,7 +6795,7 @@
         "code": "SAUM5V69AV22",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6783,7 +6817,7 @@
         "code": "AAV5MDNRSCKN",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6805,7 +6839,7 @@
         "code": "XAU44UP8SDMA",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6827,7 +6861,7 @@
         "code": "KARU3RG6NY65",
         "link": "https://genshin.hoyoverse.com/gift?code=KARU3RG6NY65",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6849,7 +6883,7 @@
         "code": "5SRC28YNNYP9",
         "link": "https://genshin.hoyoverse.com/gift?code=5SRC28YNNYP9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6871,7 +6905,7 @@
         "code": "SB8UJ9H7NH8V",
         "link": "https://genshin.hoyoverse.com/gift?code=SB8UJ9H7NH8V",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6893,7 +6927,7 @@
         "code": "FSCX9HBYDBFW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6915,7 +6949,7 @@
         "code": "5TVFRHSZCBEJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6937,7 +6971,7 @@
         "code": "STUFQHAYDSE6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -6959,7 +6993,7 @@
         "code": "DAQS9FPX2U35",
         "link": "https://genshin.hoyoverse.com/gift?code=DAQS9FPX2U35",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -6981,7 +7015,7 @@
         "code": "FTRUFT7AT5SV",
         "link": "https://genshin.hoyoverse.com/gift?code=FTRUFT7AT5SV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -7015,7 +7049,7 @@
         "code": "XBRSDNF6BP4R",
         "link": "https://genshin.hoyoverse.com/gift?code=XBRSDNF6BP4R",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7037,7 +7071,7 @@
         "code": "2T9AUV3YPV49",
         "link": "https://genshin.hoyoverse.com/gift?code=2T9AUV3YPV49",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventurer's Experience \u00d710",
@@ -7071,7 +7105,7 @@
         "code": "NS8TUVJYR4UH",
         "link": "https://genshin.hoyoverse.com/gift?code=NS8TUVJYR4UH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7093,7 +7127,7 @@
         "code": "NSQTVCKYRMDM",
         "link": "https://genshin.hoyoverse.com/gift?code=NSQTVCKYRMDM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7115,7 +7149,7 @@
         "code": "LB8SDUJYQ4V9",
         "link": "https://genshin.hoyoverse.com/gift?code=LB8SDUJYQ4V9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7137,7 +7171,7 @@
         "code": "NAS3K7XR3C46",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7159,7 +7193,7 @@
         "code": "PST33NFRKVPS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7181,7 +7215,7 @@
         "code": "BTB227ERKDNW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7203,7 +7237,7 @@
         "code": "NT8SU92DKFRZ",
         "link": "https://genshin.hoyoverse.com/gift?code=NT8SU92DKFRZ",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7225,7 +7259,7 @@
         "code": "8ARAU6FNBNPV",
         "link": "https://genshin.hoyoverse.com/gift?code=8ARAU6FNBNPV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7247,7 +7281,7 @@
         "code": "NS8BD6EPS77Z",
         "link": "https://genshin.hoyoverse.com/gift?code=NS8BD6EPS77Z",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7269,7 +7303,7 @@
         "code": "ET9SUPENB765",
         "link": "https://genshin.hoyoverse.com/gift?code=ET9SUPENB765",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7291,7 +7325,7 @@
         "code": "PTATRYJ62ESS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7313,7 +7347,7 @@
         "code": "LASBQGK62ESE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7335,7 +7369,7 @@
         "code": "CABARGK63WAJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7357,7 +7391,7 @@
         "code": "WARBDRR9MCQ9",
         "link": "https://genshin.hoyoverse.com/gift?code=WARBDRR9MCQ9",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -7391,7 +7425,7 @@
         "code": "MA6RPW8GGJAM",
         "link": "https://genshin.hoyoverse.com/gift?code=MA6RPW8GGJAM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7413,7 +7447,7 @@
         "code": "6SP942Z3XVWH",
         "link": "https://genshin.hoyoverse.com/gift?code=6SP942Z3XVWH",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7435,7 +7469,7 @@
         "code": "KS6QL3YJFCWM",
         "link": "https://genshin.hoyoverse.com/gift?code=KS6QL3YJFCWM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7457,7 +7491,7 @@
         "code": "GS6RLKGKWUER",
         "link": "https://genshin.hoyoverse.com/gift?code=GS6RLKGKWUER",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7479,7 +7513,7 @@
         "code": "SSZ4FZLJYUK2",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7501,7 +7535,7 @@
         "code": "JSGMWHMKGU3N",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7523,7 +7557,7 @@
         "code": "PBGMFY4JHCMA",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7545,7 +7579,7 @@
         "code": "6A6VJTWGCPYV",
         "link": "https://genshin.hoyoverse.com/gift?code=6A6VJTWGCPYV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7567,7 +7601,7 @@
         "code": "3B6RYY7AHX9D",
         "link": "https://genshin.hoyoverse.com/gift?code=3B6RYY7AHX9D",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7589,7 +7623,7 @@
         "code": "JT78YH7SGWRZ",
         "link": "https://genshin.hoyoverse.com/gift?code=JT78YH7SGWRZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7611,7 +7645,7 @@
         "code": "2BP9HY6BYFR5",
         "link": "https://genshin.hoyoverse.com/gift?code=2BP9HY6BYFR5",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7633,7 +7667,7 @@
         "code": "NTWQ4ZGDNC7N",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7655,7 +7689,7 @@
         "code": "85TXRMZHU6V9S",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7677,7 +7711,7 @@
         "code": "DBF9MHHU7U8E",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7699,7 +7733,7 @@
         "code": "XTNDKTEBWA59",
         "link": "https://genshin.hoyoverse.com/gift?code=XTNDKTEBWA59",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7721,7 +7755,7 @@
         "code": "8ANCKTWYVRD5",
         "link": "https://genshin.hoyoverse.com/gift?code=8ANCKTWYVRD5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7743,7 +7777,7 @@
         "code": "EA7VKTFHU9VR",
         "link": "https://genshin.hoyoverse.com/gift?code=EA7VKTFHU9VR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7765,7 +7799,7 @@
         "code": "KT7DKSFGCRWD",
         "link": "https://genshin.hoyoverse.com/gift?code=KT7DKSFGCRWD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7787,7 +7821,7 @@
         "code": "MTNUJBXDD72R",
         "link": "https://genshin.hoyoverse.com/gift?code=MTNUJBXDD72R",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7809,7 +7843,7 @@
         "code": "DTNVKAWBWSF5",
         "link": "https://genshin.hoyoverse.com/gift?code=DTNVKAWBWSF5",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7831,7 +7865,7 @@
         "code": "WANVJAFAXTER",
         "link": "https://genshin.hoyoverse.com/gift?code=WANVJAFAXTER",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7853,7 +7887,7 @@
         "code": "HA6C2AFBXSZV",
         "link": "https://genshin.hoyoverse.com/gift?code=HA6C2AFBXSZV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7875,7 +7909,7 @@
         "code": "VBM56TEEQMU6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7897,7 +7931,7 @@
         "code": "NB5LNAXEQMWS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7919,7 +7953,7 @@
         "code": "6S556SWF85FE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7941,7 +7975,7 @@
         "code": "MS7C3SV8DMZH",
         "link": "https://genshin.hoyoverse.com/gift?code=MS7C3SV8DMZH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -7963,7 +7997,7 @@
         "code": "LANVJSFUD6CM",
         "link": "https://genshin.hoyoverse.com/gift?code=LANVJSFUD6CM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -7985,7 +8019,7 @@
         "code": "DTNUKTWCC6D9",
         "link": "https://genshin.hoyoverse.com/gift?code=DTNUKTWCC6D9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8007,7 +8041,7 @@
         "code": "HSNUKTXCCPWV",
         "link": "https://genshin.hoyoverse.com/gift?code=HSNUKTXCCPWV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8029,7 +8063,7 @@
         "code": "UAK2VSX9376A",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8051,7 +8085,7 @@
         "code": "KS4XTXB96MPA",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8073,7 +8107,7 @@
         "code": "CS4WBFBQ6LPW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8095,7 +8129,7 @@
         "code": "ZSPDKSC3V8V5",
         "link": "https://genshin.hoyoverse.com/gift?code=ZSPDKSC3V8V5",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -8117,7 +8151,7 @@
         "code": "AB7CKBVQULE5",
         "link": "https://genshin.hoyoverse.com/gift?code=AB7CKBVQULE5",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8139,7 +8173,7 @@
         "code": "3TPUKSV8C5X9",
         "link": "https://genshin.hoyoverse.com/gift?code=3TPUKSV8C5X9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8161,7 +8195,7 @@
         "code": "UT7C2TD8C5ZD",
         "link": "https://genshin.hoyoverse.com/gift?code=UT7C2TD8C5ZD",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8183,7 +8217,7 @@
         "code": "BAQNKLQEKWVE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8205,7 +8239,7 @@
         "code": "VTKJVSXQKY8J",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8227,7 +8261,7 @@
         "code": "DT33UTWQKZR6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8249,7 +8283,7 @@
         "code": "9BPCJCQGHAWZ",
         "link": "https://genshin.hoyoverse.com/gift?code=9BPCJCQGHAWZ",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -8271,7 +8305,7 @@
         "code": "VTPU3CQWYCSD",
         "link": "https://genshin.hoyoverse.com/gift?code=VTPU3CQWYCSD",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8293,7 +8327,7 @@
         "code": "AB7VJC9EGDAZ",
         "link": "https://genshin.hoyoverse.com/gift?code=AB7VJC9EGDAZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8315,7 +8349,7 @@
         "code": "WT7D3CQEHVBM",
         "link": "https://genshin.hoyoverse.com/gift?code=WT7D3CQEHVBM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8337,7 +8371,7 @@
         "code": "4AQNK5RWKXTJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8359,7 +8393,7 @@
         "code": "9S9NJMQF2FS6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8381,7 +8415,7 @@
         "code": "PT8PJMQWJEDS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8403,7 +8437,7 @@
         "code": "FANRONGCHANGSHENG",
         "link": "https://genshin.hoyoverse.com/gift?code=FANRONGCHANGSHENG",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d718,000",
@@ -8429,7 +8463,7 @@
         "code": "ETNU2DN5NZRR",
         "link": "https://genshin.hoyoverse.com/gift?code=ETNU2DN5NZRR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -8451,7 +8485,7 @@
         "code": "SA7V2DRZGAU5",
         "link": "https://genshin.hoyoverse.com/gift?code=SA7V2DRZGAU5",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8473,7 +8507,7 @@
         "code": "PSNVJURZZSD9",
         "link": "https://genshin.hoyoverse.com/gift?code=PSNVJURZZSD9",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8495,7 +8529,7 @@
         "code": "5SPDKV8ZHBFV",
         "link": "https://genshin.hoyoverse.com/gift?code=5SPDKV8ZHBFV",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8517,7 +8551,7 @@
         "code": "ZS8NKLRY4VZS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8539,7 +8573,7 @@
         "code": "8TQP2LQG4VYE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8561,7 +8595,7 @@
         "code": "EA9N3L8Y4VYJ",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8583,7 +8617,7 @@
         "code": "BSPD3ZRXU985",
         "link": "https://genshin.hoyoverse.com/gift?code=BSPD3ZRXU985",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -8605,7 +8639,7 @@
         "code": "AS7CJDP4NG7H",
         "link": "https://genshin.hoyoverse.com/gift?code=AS7CJDP4NG7H",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8627,7 +8661,7 @@
         "code": "BSNDJC747Z7D",
         "link": "https://genshin.hoyoverse.com/gift?code=BSNDJC747Z7D",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8649,7 +8683,7 @@
         "code": "KB6DKDNM7H49",
         "link": "https://genshin.hoyoverse.com/gift?code=KB6DKDNM7H49",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8671,7 +8705,7 @@
         "code": "WA8ZW5VR6QGE",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8693,7 +8727,7 @@
         "code": "ETRZF4DRN9Y2",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8715,7 +8749,7 @@
         "code": "DA95VSN22C66",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8737,7 +8771,7 @@
         "code": "LBNDKG8XDTND",
         "link": "https://genshin.hoyoverse.com/gift?code=LBNDKG8XDTND",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8759,7 +8793,7 @@
         "code": "NB6VKHQWVANZ",
         "link": "https://genshin.hoyoverse.com/gift?code=NB6VKHQWVANZ",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8781,7 +8815,7 @@
         "code": "BSNUJGQFUTPM",
         "link": "https://genshin.hoyoverse.com/gift?code=BSNUJGQFUTPM",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8803,7 +8837,7 @@
         "code": "JARHE4CR6A52",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8825,7 +8859,7 @@
         "code": "HS8HXMCR6A46",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8847,7 +8881,7 @@
         "code": "SAQHWLVRPTPS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8869,7 +8903,7 @@
         "code": "DSPVUN2BKH5M",
         "link": "https://genshin.hoyoverse.com/gift?code=DSPVUN2BKH5M",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8891,7 +8925,7 @@
         "code": "CB7UU6KT2H59",
         "link": "https://genshin.hoyoverse.com/gift?code=CB7UU6KT2H59",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8913,7 +8947,7 @@
         "code": "NTPVU7JTJYPD",
         "link": "https://genshin.hoyoverse.com/gift?code=NTPVU7JTJYPD",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8935,7 +8969,7 @@
         "code": "PT8SG36HK4X6",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8957,7 +8991,7 @@
         "code": "SS9SYKNHKLHS",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -8979,7 +9013,7 @@
         "code": "QAQTHJNY35HW",
         "link": "",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9001,7 +9035,7 @@
         "code": "GENSHINGALAXY",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGALAXY",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -9035,7 +9069,7 @@
         "code": "GENSHINEPIC",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINEPIC",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -9069,7 +9103,7 @@
         "code": "LS6T4L9ZZ7TH",
         "link": "https://genshin.hoyoverse.com/gift?code=LS6T4L9ZZ7TH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9091,7 +9125,7 @@
         "code": "GBNA9J5H9Y4H",
         "link": "https://genshin.hoyoverse.com/gift?code=GBNA9J5H9Y4H",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9113,7 +9147,7 @@
         "code": "AS6BQKLY9GLD",
         "link": "https://genshin.hoyoverse.com/gift?code=AS6BQKLY9GLD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9135,7 +9169,7 @@
         "code": "SBNBUK67M37Z",
         "link": "https://genshin.hoyoverse.com/gift?code=SBNBUK67M37Z",
         "server": "All",
-        "status": "Unknown",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9157,7 +9191,7 @@
         "code": "GS6ACJ775KNV",
         "link": "https://genshin.hoyoverse.com/gift?code=GS6ACJ775KNV",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9179,7 +9213,7 @@
         "code": "UTNBBGSZ3NQM",
         "link": "https://genshin.hoyoverse.com/gift?code=UTNBBGSZ3NQM",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9201,7 +9235,7 @@
         "code": "8A6ABHTH2N9Z",
         "link": "https://genshin.hoyoverse.com/gift?code=8A6ABHTH2N9Z",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9223,7 +9257,7 @@
         "code": "WTNTBYSZJNRD",
         "link": "https://genshin.hoyoverse.com/gift?code=WTNTBYSZJNRD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9245,7 +9279,7 @@
         "code": "FS6SU367M279",
         "link": "https://genshin.hoyoverse.com/gift?code=FS6SU367M279",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9267,7 +9301,7 @@
         "code": "4BNSD3675J8D",
         "link": "https://genshin.hoyoverse.com/gift?code=4BNSD3675J8D",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9289,7 +9323,7 @@
         "code": "ATPTUJPP53QH",
         "link": "https://genshin.hoyoverse.com/gift?code=ATPTUJPP53QH",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9311,7 +9345,7 @@
         "code": "2T7E9CPA7YJE",
         "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9333,7 +9367,7 @@
         "code": "EBPWQU6SNZ22",
         "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9355,7 +9389,7 @@
         "code": "CBNXRD6S7H3N",
         "link": "#cite_note-2021-04-16_(CN)-34",
         "server": "China",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9377,7 +9411,7 @@
         "code": "TT7BVJNPL249",
         "link": "https://genshin.hoyoverse.com/gift?code=TT7BVJNPL249",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9395,7 +9429,7 @@
         "code": "PSNTC8FEQK4D",
         "link": "https://genshin.hoyoverse.com/gift?code=PSNTC8FEQK4D",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9417,7 +9451,7 @@
         "code": "ET7ADQFF8KJR",
         "link": "https://genshin.hoyoverse.com/gift?code=ET7ADQFF8KJR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9439,7 +9473,7 @@
         "code": "KTNSCQWW922M",
         "link": "https://genshin.hoyoverse.com/gift?code=KTNSCQWW922M",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9461,7 +9495,7 @@
         "code": "jsSK8n23jzR",
         "link": "https://genshin.hoyoverse.com/gift?code=jsSK8n23jzR",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9483,7 +9517,7 @@
         "code": "dU2mhjQL1ZT",
         "link": "https://genshin.hoyoverse.com/gift?code=dU2mhjQL1ZT",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9505,7 +9539,7 @@
         "code": "nBEm3myAL2b",
         "link": "https://genshin.hoyoverse.com/gift?code=nBEm3myAL2b",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9527,7 +9561,7 @@
         "code": "153YuSaenh",
         "link": "https://genshin.hoyoverse.com/gift?code=153YuSaenh",
         "server": "All",
-        "status": "Unknown",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9549,7 +9583,7 @@
         "code": "CUUPMBJSVD",
         "link": "https://genshin.hoyoverse.com/gift?code=CUUPMBJSVD",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d750",
@@ -9567,7 +9601,7 @@
         "code": "GSIMPTQ125",
         "link": "https://genshin.hoyoverse.com/gift?code=GSIMPTQ125",
         "server": "All",
-        "status": "Unknown",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9589,7 +9623,7 @@
         "code": "G3tQq6TOqmE",
         "link": "https://genshin.hoyoverse.com/gift?code=G3tQq6TOqmE",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9611,7 +9645,7 @@
         "code": "5KVeIbSxDUU",
         "link": "https://genshin.hoyoverse.com/gift?code=5KVeIbSxDUU",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9633,7 +9667,7 @@
         "code": "eATDgIXLD56",
         "link": "https://genshin.hoyoverse.com/gift?code=eATDgIXLD56",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7100",
@@ -9655,7 +9689,7 @@
         "code": "GOLNXLAKC58",
         "link": "https://genshin.hoyoverse.com/gift?code=GOLNXLAKC58",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d750",
@@ -9673,7 +9707,7 @@
         "code": "GENSHIN1111",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN1111",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9695,7 +9729,7 @@
         "code": "GenshinZHB30",
         "link": "https://genshin.hoyoverse.com/gift?code=GenshinZHB30",
         "server": "All",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d7160",
@@ -9713,7 +9747,7 @@
         "code": "GENSHINMHY0M",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINMHY0M",
         "server": "America",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9731,7 +9765,7 @@
         "code": "GENSHINMHY0I",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINMHY0I",
         "server": "Asia",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9749,7 +9783,7 @@
         "code": "GENSHINMHY0O",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINMHY0O",
         "server": "Europe",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9767,7 +9801,7 @@
         "code": "GENSHIN1006A",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN1006A",
         "server": "America",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9789,7 +9823,7 @@
         "code": "GENSHIN1006S",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN1006S",
         "server": "Asia",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9811,7 +9845,7 @@
         "code": "GENSHIN1006U",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN1006U",
         "server": "Europe",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d730",
@@ -9833,7 +9867,7 @@
         "code": "GENSHIN0928N",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN0928N",
         "server": "America",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9855,7 +9889,7 @@
         "code": "GENSHIN0928E",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN0928E",
         "server": "Asia",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -9877,7 +9911,7 @@
         "code": "GENSHIN0928A",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN0928A",
         "server": "Europe",
-        "status": "Expired",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem \u00d760",

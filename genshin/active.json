@@ -1,9 +1,43 @@
 [
     {
+        "code": "genshin52x8399",
+        "link": "https://genshin.hoyoverse.com/gift?code=genshin52x8399",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Kindling \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Vayuda Turquoise Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 11, 2024",
+            "valid": "November 21, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "PAGG9M78TJBQ",
         "link": "https://genshin.hoyoverse.com/gift?code=PAGG9M78TJBQ",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -37,7 +71,7 @@
         "code": "MTLF6DKA7PQZ",
         "link": "https://genshin.hoyoverse.com/gift?code=MTLF6DKA7PQZ",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d730,000",
@@ -67,7 +101,7 @@
         "code": "HVQAUTYB8NKE",
         "link": "https://genshin.hoyoverse.com/gift?code=HVQAUTYB8NKE",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d720,000",
@@ -93,7 +127,7 @@
         "code": "AEXK6S4U93CF",
         "link": "https://genshin.hoyoverse.com/gift?code=AEXK6S4U93CF",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -123,7 +157,7 @@
         "code": "SVMCJ1398A18",
         "link": "https://genshin.hoyoverse.com/gift?code=SVMCJ1398A18",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -157,7 +191,7 @@
         "code": "PPBL281426WC",
         "link": "https://genshin.hoyoverse.com/gift?code=PPBL281426WC",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Kalpalata Lotus \u00d73",
@@ -187,7 +221,7 @@
         "code": "EMVDL6W28D8A",
         "link": "https://genshin.hoyoverse.com/gift?code=EMVDL6W28D8A",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -221,7 +255,7 @@
         "code": "UTLO4OA55PA7",
         "link": "https://genshin.hoyoverse.com/gift?code=UTLO4OA55PA7",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Mora \u00d710,000",
@@ -255,7 +289,7 @@
         "code": "WTXV36M1J6CO",
         "link": "https://genshin.hoyoverse.com/gift?code=WTXV36M1J6CO",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -285,7 +319,7 @@
         "code": "SBUEMJB449D9",
         "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -315,7 +349,7 @@
         "code": "SBUE3NT47K26",
         "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -345,7 +379,7 @@
         "code": "HVDLLZ29Y26W",
         "link": "https://genshin.hoyoverse.com/gift?code=HVDLLZ29Y26W",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Brilliant Chrysanthemum \u00d73",
@@ -375,7 +409,7 @@
         "code": "LA5E77CLZX5V",
         "link": "https://genshin.hoyoverse.com/gift?code=LA5E77CLZX5V",
         "server": "All",
-        "status": "Valid",
+        "status": "active",
         "rewards": [
             {
                 "name": "Primogem \u00d760",
@@ -397,7 +431,7 @@
         "code": "GENSHINGIFT",
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT",
         "server": "All",
-        "status": "Indefinite",
+        "status": "active",
         "rewards": [
             {
                 "name": "Primogem \u00d750",

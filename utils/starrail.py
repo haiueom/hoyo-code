@@ -3,7 +3,6 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
-from datetime import datetime
 
 
 @dataclass
@@ -21,13 +20,13 @@ class Duration:
 
 
 @dataclass
-class Codes:
+class Code:
     code: str = ""
     link: str = ""
     server: str = ""
     status: str = ""
-    rewards: list[Reward] = None
-    duration: Duration = None
+    rewards: list[Reward] = list
+    duration: Duration = dict
 
 
 def extract_reward_info(reward_cell) -> Reward:
@@ -60,29 +59,18 @@ def extract_duration_info(duration_text) -> Duration:
 
 def extract_status_info(duration_info) -> str:
     if duration_info and duration_info.valid:
-        if duration_info.valid == "(indefinite)" or duration_info.valid == "Unknown":
-            return "Indefinite"
-        else:
-            try:
-                valid_until = datetime.strptime(duration_info.valid, "%B %d, %Y")
-                current_date = datetime.now()
-                return "Valid" if valid_until >= current_date else "Expired"
-            except Exception as e:
-                print(e)
-                return "Unknown"
-    elif duration_info and duration_info.expired:
-        return "Expired"
+        return "active"
     else:
-        return "Unknown"
+        return "expired"
 
 
-def parse_row(row) -> list[Codes]:
+def parse_row(row) -> list[Code]:
     cols = row.find_all("td")
     if len(cols) >= 2:
         codes = [code.text for code in cols[0].find_all("code")]
         if codes:
             return [
-                Codes(
+                Code(
                     code=code,
                     link=(
                         cols[0].find_all("a")[1].get("href")
@@ -102,12 +90,20 @@ def parse_row(row) -> list[Codes]:
     return []
 
 
-def write_json(file, data) -> None:
+def write_json(file: str, data: list[Code]) -> None:
     with open(file, "w+") as f:
         json.dump(data, f, indent=4, default=lambda o: o.__dict__)
 
 
-def scrape_all() -> list[Codes]:
+def write_txt(file: str, data: list[Code]) -> None:
+    with open(file, "w+") as f:
+        for i, entry in enumerate(data):
+            f.write(entry.code)
+            if i < len(data) - 1:
+                f.write("\n")
+
+
+def scrape_all() -> list[Code]:
     URL = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"
     page = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(page.content, "html.parser")
@@ -119,15 +115,25 @@ def scrape_all() -> list[Codes]:
 
 
 def main() -> None:
-    all = scrape_all()
-    active = [
-        code for code in all if code.status == "Valid" or code.status == "Indefinite"
-    ]
-    expired = [code for code in all if code.status == "Expired"]
-    write_json("starrail/active.json", active)
-    write_json("starrail/expired.json", expired)
-    write_json("starrail/all.json", all)
-    return print("Starrail done!")
+    try:
+        all_codes = scrape_all()
+        active = [code for code in all_codes if code.status == "active"]
+        expired = [code for code in all_codes if code.status == "expired"]
+
+        write_json("starrail/all.json", all_codes)
+        write_txt("starrail/all.txt", all_codes)
+        print(f"✅ Starrail: {len(all_codes)} codes")
+
+        write_json("starrail/active.json", active)
+        write_txt("starrail/active.txt", active)
+        print(f"✅ Starrail: {len(active)} active codes")
+
+        write_json("starrail/expired.json", expired)
+        write_txt("starrail/expired.txt", expired)
+        print(f"✅ Starrail: {len(expired)} expired codes")
+    except:
+        print("❎ Starrail: Error retrieving data")
+
 
 if __name__ == "__main__":
     main()

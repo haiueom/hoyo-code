@@ -5,6 +5,7 @@ from utils.genshin import main as genshin
 from utils.honkai import main as honkai
 from utils.starrail import main as starrail
 
+
 def check_dirs():
     if not os.path.exists("genshin"):
         os.makedirs("genshin")
@@ -12,6 +13,7 @@ def check_dirs():
         os.makedirs("honkai")
     if not os.path.exists("starrail"):
         os.makedirs("starrail")
+
 
 def main():
     check_dirs()
@@ -24,7 +26,8 @@ def main():
 
         concurrent.futures.wait(futures)
 
-    print("All done!")
+    print("✅ Data updated")
+
 
 if __name__ == "__main__":
     main()

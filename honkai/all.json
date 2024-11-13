@@ -1,9 +1,125 @@
 [
     {
+        "code": "8AV7CPH0SA",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Asterite\u00a0\u00d7500",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 28, 24",
+            "note": "Castle Encounters, Trick or Treat?"
+        }
+    },
+    {
+        "code": "COETTFFR36",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Soda\u00a0\u00d73",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Aqua_Vitae_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 28, 24",
+            "note": "Castle Encounters, Trick or Treat?"
+        }
+    },
+    {
+        "code": "MSPBJZBLNTR2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 23, 24",
+            "note": "Surprise reward"
+        }
+    },
+    {
+        "code": "VitaVSLeylah",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stamina Potion\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 22, 24",
+            "note": "Surprise reward"
+        }
+    },
+    {
+        "code": "BADWOMEN",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d7350",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Oct 10, 24",
+            "note": "7.8 Hyperion Lounge"
+        }
+    },
+    {
+        "code": "TERIRIRETURN",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d7350",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Aug 30, 24",
+            "note": "7.7 Hyperion Lounge"
+        }
+    },
+    {
+        "code": "SHADOWSHOW",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Jovial Deception: Shadowdimmer Trial Card (3-Day)\u00a0\u00d71",
+                "image": ""
+            },
+            {
+                "name": "Asterite\u00a0\u00d72888",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Jul 19, 24",
+            "note": "Surprise reward"
+        }
+    },
+    {
         "code": "V75GIFT",
-        "date": "Jul 19, 24",
-        "status": "Valid",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -17,25 +133,33 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 19, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "LITTLEQUE",
-        "date": "Jul 18, 24",
-        "status": "Expired",
-        "note": "7.6 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7350",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 18, 24",
+            "note": "7.6 Hyperion Lounge"
+        }
     },
     {
         "code": "HONKAI24",
-        "date": "Jun 6, 24",
-        "status": "Valid",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -49,37 +173,49 @@
                 "name": "Deepspace Anchor: First Light Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Deepspace_Anchor_-_First_Light_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 6, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "LOLLIPOP",
-        "date": "May 31, 24",
-        "status": "Expired",
-        "note": "7.5 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7350",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 31, 24",
+            "note": "7.5 Hyperion Lounge"
+        }
     },
     {
         "code": "2B6TFBU5CUYB",
-        "date": "May 11, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 11, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "BANQUETROSE",
-        "date": "Apr 26, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d72888",
@@ -89,49 +225,65 @@
                 "name": "Mad Pleasure: Shadowbringer Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0b/Mad_Pleasure_-_Shadowbringer_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 26, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "PLEASURE",
-        "date": "Apr 19, 24",
-        "status": "Expired",
-        "note": "7.4 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7350",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 19, 24",
+            "note": "7.4 Hyperion Lounge"
+        }
     },
     {
         "code": "SSNTEX9W8UJB",
-        "date": "Mar 29, 24",
-        "status": "Expired",
-        "note": "Part 2 Retweet Event #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 29, 24",
+            "note": "Part 2 Retweet Event #2"
+        }
     },
     {
         "code": "WB6AWERE8VZP",
-        "date": "Mar 8, 24",
-        "status": "Expired",
-        "note": "Part 2 Retweet Event #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 8, 24",
+            "note": "Part 2 Retweet Event #1"
+        }
     },
     {
         "code": "PART2GIFT",
-        "date": "Mar 7, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -145,13 +297,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 7, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "TRIP2MARS",
-        "date": "Mar 7, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -165,49 +321,65 @@
                 "name": "Deepspace Anchor: First Light Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Deepspace_Anchor_-_First_Light_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 7, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HEADTOMARS229",
-        "date": "Feb 24, 24",
-        "status": "Expired",
-        "note": "Part 2 Special Program",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7150",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 24, 24",
+            "note": "Part 2 Special Program"
+        }
     },
     {
         "code": "MARSWISHES",
-        "date": "Feb 24, 24",
-        "status": "Expired",
-        "note": "Part 2 Special Program",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 24, 24",
+            "note": "Part 2 Special Program"
+        }
     },
     {
         "code": "MARSBONUS",
-        "date": "Feb 24, 24",
-        "status": "Expired",
-        "note": "Part 2 Special Program",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 24, 24",
+            "note": "Part 2 Special Program"
+        }
     },
     {
         "code": "VER72GIFT",
-        "date": "Jan 23, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -221,13 +393,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 23, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "KFPHOENIX",
-        "date": "Jan 21, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -241,25 +417,33 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 21, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "FENGHUANG",
-        "date": "Jan 12, 24",
-        "status": "Expired",
-        "note": "7.2 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 12, 24",
+            "note": "7.2 Hyperion Lounge"
+        }
     },
     {
         "code": "VER71GIFT",
-        "date": "Jan 9, 24",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -273,13 +457,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 9, 24",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HONKAI23",
-        "date": "Dec 9, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -293,13 +481,17 @@
                 "name": "Herrscher of Human: Ego Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/cc/Herrscher_of_Human_-_Ego_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 9, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "YATTASENTI",
-        "date": "Dec 9, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -313,25 +505,33 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 9, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "STARBOUND",
-        "date": "Dec 1, 23",
-        "status": "Expired",
-        "note": "7.1 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 1, 23",
+            "note": "7.1 Hyperion Lounge"
+        }
     },
     {
         "code": "LUNA888",
-        "date": "Oct 26, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -345,13 +545,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 26, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "REDMOON",
-        "date": "Oct 26, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -365,37 +569,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 26, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "CRIMSONLOVE",
-        "date": "Oct 20, 23",
-        "status": "Expired",
-        "note": "7.0 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 20, 23",
+            "note": "7.0 Hyperion Lounge"
+        }
     },
     {
         "code": "MAGICALGIRL",
-        "date": "Sep 08, 23",
-        "status": "Expired",
-        "note": "6.9 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 08, 23",
+            "note": "6.9 Hyperion Lounge"
+        }
     },
     {
         "code": "VERSEELE",
-        "date": "Aug 03, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -409,13 +625,17 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 03, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "REBIRTH",
-        "date": "Aug 03, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -429,37 +649,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 03, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "KIARECTNOONH",
-        "date": "Jul 29, 23",
-        "status": "Expired",
-        "note": "Forest Capriccio Online Concert",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 29, 23",
+            "note": "Forest Capriccio Online Concert"
+        }
     },
     {
         "code": "RHYTHMOFLIFE",
-        "date": "Jul 28, 23",
-        "status": "Expired",
-        "note": "6.8 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 28, 23",
+            "note": "6.8 Hyperion Lounge"
+        }
     },
     {
         "code": "KIRANOW",
-        "date": "Jun 30, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -473,13 +705,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 30, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "SHIGURE",
-        "date": "Jun 30, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -493,25 +729,33 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 30, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "STARDANCE",
-        "date": "Jun 23, 23",
-        "status": "Expired",
-        "note": "6.7 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 23, 23",
+            "note": "6.7 Hyperion Lounge"
+        }
     },
     {
         "code": "ASHKJHDU",
-        "date": "May 18, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -525,13 +769,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 18, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "AIDE0017",
-        "date": "May 18, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -545,25 +793,33 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 18, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "LASTSNOW",
-        "date": "May 11, 23",
-        "status": "Expired",
-        "note": "6.6 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 11, 23",
+            "note": "6.6 Hyperion Lounge"
+        }
     },
     {
         "code": "NEWCHAP",
-        "date": "Apr 06, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -577,13 +833,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 06, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "SUSANNAH",
-        "date": "Apr 06, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -597,97 +857,129 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 06, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "NABOBESS",
-        "date": "Mar 31, 23",
-        "status": "Expired",
-        "note": "6.5 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 31, 23",
+            "note": "6.5 Hyperion Lounge"
+        }
     },
     {
         "code": "WA7SXW3PJQGK",
-        "date": "Mar 26, 23",
-        "status": "Expired",
-        "note": "5th Anniversary Reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 26, 23",
+            "note": "5th Anniversary Reward"
+        }
     },
     {
         "code": "PAPAFFJN29Y7",
-        "date": "Mar 26, 23",
-        "status": "Expired",
-        "note": "5th Anniversary Reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 26, 23",
+            "note": "5th Anniversary Reward"
+        }
     },
     {
         "code": "5SPTFE372QHX",
-        "date": "Mar 20, 23",
-        "status": "Expired",
-        "note": "Luna Garden Party 3rd Stop: Chat Lobby",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 20, 23",
+            "note": "Luna Garden Party 3rd Stop: Chat Lobby"
+        }
     },
     {
         "code": "7BNTWWJPJRGT",
-        "date": "Mar 09, 23",
-        "status": "Expired",
-        "note": "Luna Garden Party 2nd Stop: Graffiti Corner",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 09, 23",
+            "note": "Luna Garden Party 2nd Stop: Graffiti Corner"
+        }
     },
     {
         "code": "VAPTEF37K9XP",
-        "date": "Mar 03, 23",
-        "status": "Expired",
-        "note": "Anniversary surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 03, 23",
+            "note": "Anniversary surprise reward"
+        }
     },
     {
         "code": "ICHLIEBEDICH",
-        "date": "Mar 01, 23",
-        "status": "Expired",
-        "note": "Anniversary surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 01, 23",
+            "note": "Anniversary surprise reward"
+        }
     },
     {
         "code": "VERKIANA",
-        "date": "Feb 18, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -701,13 +993,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 18, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "MKFINAL",
-        "date": "Feb 16, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -721,13 +1017,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 16, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HAPPYHONKAIANNI",
-        "date": "Feb 10, 23",
-        "status": "Expired",
-        "note": "Anniversary surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d75000",
@@ -737,13 +1037,17 @@
                 "name": "Booster\u00a0\u00d73",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/11/Booster_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 23",
+            "note": "Anniversary surprise reward"
+        }
     },
     {
         "code": "MEONHONKAIANNI",
-        "date": "Feb 10, 23",
-        "status": "Expired",
-        "note": "Anniversary surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d73000",
@@ -753,37 +1057,49 @@
                 "name": "Stamina Potion\u00a0\u00d73",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 23",
+            "note": "Anniversary surprise reward"
+        }
     },
     {
         "code": "MEONHONKAIANNI2",
-        "date": "Feb 10, 23",
-        "status": "Expired",
-        "note": "Anniversary surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7160",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 23",
+            "note": "Anniversary surprise reward"
+        }
     },
     {
         "code": "TOTHEFUTURE",
-        "date": "Feb 10, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "BRONYA321",
-        "date": "Jan 12, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -797,13 +1113,17 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 12, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "TRUTH63",
-        "date": "Jan 12, 23",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -817,37 +1137,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 12, 23",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "TRUTH",
-        "date": "Jan 5, 23",
-        "status": "Expired",
-        "note": "6.3 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 5, 23",
+            "note": "6.3 Hyperion Lounge"
+        }
     },
     {
         "code": "2TNBFZQZ59SB",
-        "date": "Jan 1, 23",
-        "status": "Expired",
-        "note": "Happy New Year!",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 1, 23",
+            "note": "Happy New Year!"
+        }
     },
     {
         "code": "AICHAN010",
-        "date": "Dec 9, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -861,13 +1193,17 @@
                 "name": "Miss Pink\u266a Outfit Trial Card (3-day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3f/Miss_Pink%E2%99%AA_Outfit_Trial_Card_%283-day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 9, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HYPRN62AI",
-        "date": "Dec 8, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -881,25 +1217,33 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 8, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "SUPERAI",
-        "date": "Dec 2, 22",
-        "status": "Expired",
-        "note": "6.2 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 2, 22",
+            "note": "6.2 Hyperion Lounge"
+        }
     },
     {
         "code": "JHSGFDSVV",
-        "date": "Nov 28, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -913,37 +1257,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 28, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "NIGHTWALKERS",
-        "date": "Nov 9, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 9, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "MIDNIGHTCARNIVAL",
-        "date": "Nov 6, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Booster\u00a0\u00d72",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/11/Booster_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 6, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "LISUSHANG",
-        "date": "Oct 27, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -957,25 +1313,33 @@
                 "name": "Battlesuit Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 27, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "TAIXUAN",
-        "date": "Oct 21, 22",
-        "status": "Expired",
-        "note": "6.1 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 21, 22",
+            "note": "6.1 Hyperion Lounge"
+        }
     },
     {
         "code": "60AHDASFBLAFL",
-        "date": "Sep 16, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -989,13 +1353,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 16, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "ARROWOFNOVAE",
-        "date": "Sep 15, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1009,25 +1377,33 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 15, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "TRUELOVE",
-        "date": "Sep 9, 22",
-        "status": "Expired",
-        "note": "6.0 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 9, 22",
+            "note": "6.0 Hyperion Lounge"
+        }
     },
     {
         "code": "DREAMYEUPHONY",
-        "date": "Aug 27, 22",
-        "status": "Expired",
-        "note": "Dreamy Euphony Concert",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d768888",
@@ -1041,13 +1417,17 @@
                 "name": "Stamina Potion\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 27, 22",
+            "note": "Dreamy Euphony Concert"
+        }
     },
     {
         "code": "JKABCNFNL59LK",
-        "date": "Aug 21, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1061,37 +1441,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 21, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "REACHFORZENITH",
-        "date": "Aug 4, 22",
-        "status": "Expired",
-        "note": "5.9 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 4, 22",
+            "note": "5.9 Hyperion Lounge"
+        }
     },
     {
         "code": "SUMMERWIZVALKS",
-        "date": "Aug 2, 22",
-        "status": "Expired",
-        "note": "TikTok follower benefits",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 2, 22",
+            "note": "TikTok follower benefits"
+        }
     },
     {
         "code": "JKSSDNFNL58LK",
-        "date": "July 02, 22",
-        "status": "Expired",
-        "note": "YouTube Ad",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1105,37 +1497,49 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 02, 22",
+            "note": "YouTube Ad"
+        }
     },
     {
         "code": "PAINTTHEWORLD",
-        "date": "June 23, 22",
-        "status": "Expired",
-        "note": "5.8 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 23, 22",
+            "note": "5.8 Hyperion Lounge"
+        }
     },
     {
         "code": "QB6BY964E34B",
-        "date": "June 21, 22",
-        "status": "Expired",
-        "note": "Twitch Follower Benefits",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 21, 22",
+            "note": "Twitch Follower Benefits"
+        }
     },
     {
         "code": "CTNTH8T52RXJ",
-        "date": "May 21, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1149,13 +1553,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 21, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "APONIAV57",
-        "date": "May 21, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1169,49 +1577,65 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 21, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "QSNSYQNLEKG7",
-        "date": "May 14, 22",
-        "status": "Expired",
-        "note": "5.7 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 14, 22",
+            "note": "5.7 Special Stream"
+        }
     },
     {
         "code": "UTPAHQPLWK2B",
-        "date": "May 14, 22",
-        "status": "Expired",
-        "note": "5.7 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 14, 22",
+            "note": "5.7 Special Stream"
+        }
     },
     {
         "code": "GOLDENAGE",
-        "date": "May 12, 22",
-        "status": "Expired",
-        "note": "5.7 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 12, 22",
+            "note": "5.7 Hyperion Lounge"
+        }
     },
     {
         "code": "CTNTH8T52XR3",
-        "date": "Apr 06, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1225,109 +1649,145 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 06, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "CUTECAT",
-        "date": "Apr 02, 22",
-        "status": "Expired",
-        "note": "5.6 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 02, 22",
+            "note": "5.6 Special Stream"
+        }
     },
     {
         "code": "PARDOFELIS1",
-        "date": "Apr 02, 22",
-        "status": "Expired",
-        "note": "5.6 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 02, 22",
+            "note": "5.6 Special Stream"
+        }
     },
     {
         "code": "CAN",
-        "date": "Apr 01, 22",
-        "status": "Expired",
-        "note": "5.6 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 01, 22",
+            "note": "5.6 Hyperion Lounge"
+        }
     },
     {
         "code": "GALACTICVOYAGE",
-        "date": "Mar 24, 22",
-        "status": "Expired",
-        "note": "4th-Anniversary Galactic Voyage",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 24, 22",
+            "note": "4th-Anniversary Galactic Voyage"
+        }
     },
     {
         "code": "FANDOMCARNIVAL",
-        "date": "Mar 23, 22",
-        "status": "Expired",
-        "note": "TikTok Reward #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 23, 22",
+            "note": "TikTok Reward #2"
+        }
     },
     {
         "code": "STARGATERUNNER2022",
-        "date": "Mar 22, 22",
-        "status": "Expired",
-        "note": "Speedrun Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 22, 22",
+            "note": "Speedrun Event"
+        }
     },
     {
         "code": "HI3SPRING",
-        "date": "Mar 22, 22",
-        "status": "Expired",
-        "note": "[Spring Clues] Puzzle Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 22, 22",
+            "note": "[Spring Clues] Puzzle Event"
+        }
     },
     {
         "code": "LOVESTAN",
-        "date": "Mar 22, 22",
-        "status": "Expired",
-        "note": "[Spring Clues] Puzzle Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 22, 22",
+            "note": "[Spring Clues] Puzzle Event"
+        }
     },
     {
         "code": "HOLYBLADE",
-        "date": "Feb 27, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1341,25 +1801,33 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 27, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "HONKAIONTIKTOK",
-        "date": "Feb 26, 22",
-        "status": "Expired",
-        "note": "TikTok Reward #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 26, 22",
+            "note": "TikTok Reward #1"
+        }
     },
     {
         "code": "CBNSH9BMJW33",
-        "date": "Feb 26, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1373,25 +1841,33 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 26, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "YTPTHQAL3WLB",
-        "date": "Feb 24, 22",
-        "status": "Expired",
-        "note": "Anniversary Love Wall",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 24, 22",
+            "note": "Anniversary Love Wall"
+        }
     },
     {
         "code": "ARAHATO2022",
-        "date": "Feb 24, 22",
-        "status": "Expired",
-        "note": "Arahato \u03b1 Surprise Bundle",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d720",
@@ -1401,85 +1877,113 @@
                 "name": "Limited Arahato \u03b1 Disk\u00a0\u00d7150",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/17/Limited_Arahato_%CE%B1_Disk_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 24, 22",
+            "note": "Arahato \u03b1 Surprise Bundle"
+        }
     },
     {
         "code": "8ANSY9BLJXL3",
-        "date": "Feb 20, 22",
-        "status": "Expired",
-        "note": "5.5 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 20, 22",
+            "note": "5.5 Special Stream"
+        }
     },
     {
         "code": "NTNSH9S5KXMX",
-        "date": "Feb 20, 22",
-        "status": "Expired",
-        "note": "5.5 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 20, 22",
+            "note": "5.5 Special Stream"
+        }
     },
     {
         "code": "PTNAHRBLKWKP",
-        "date": "Feb 18, 22",
-        "status": "Expired",
-        "note": "Anniversary Love Wall",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 18, 22",
+            "note": "Anniversary Love Wall"
+        }
     },
     {
         "code": "TIANYUAN",
-        "date": "Feb 18, 22",
-        "status": "Expired",
-        "note": "5.5 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 18, 22",
+            "note": "5.5 Hyperion Lounge"
+        }
     },
     {
         "code": "HONKAISPRING",
-        "date": "Feb 17, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 17, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "LYLESDGS",
-        "date": "Jan 24, 22",
-        "status": "Expired",
-        "note": "St. Freya Quiz Rewards",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 24, 22",
+            "note": "St. Freya Quiz Rewards"
+        }
     },
     {
         "code": "TIMIDOICICLE",
-        "date": "Jan 23, 22",
-        "status": "Expired",
-        "note": "St. Freya Quiz Rewards",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stamina Potion\u00a0\u00d72",
@@ -1489,25 +1993,33 @@
                 "name": "Asterite\u00a0\u00d72888",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 23, 22",
+            "note": "St. Freya Quiz Rewards"
+        }
     },
     {
         "code": "BRONYA0019BC",
-        "date": "Jan 22, 22",
-        "status": "Expired",
-        "note": "St. Freya Quiz Rewards",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 22, 22",
+            "note": "St. Freya Quiz Rewards"
+        }
     },
     {
         "code": "BRONYA123",
-        "date": "Jan 16, 22",
-        "status": "Expired",
-        "note": "5.4 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1521,13 +2033,17 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 16, 22",
+            "note": "5.4 Promo"
+        }
     },
     {
         "code": "TT6SH8A5JWXF",
-        "date": "Jan 15, 22",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1541,49 +2057,65 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 15, 22",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "APHO2",
-        "date": "Jan 08, 22",
-        "status": "Expired",
-        "note": "5.4 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 08, 22",
+            "note": "5.4 Special Stream"
+        }
     },
     {
         "code": "SILVERWING1",
-        "date": "Jan 08, 22",
-        "status": "Expired",
-        "note": "5.4 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 08, 22",
+            "note": "5.4 Special Stream"
+        }
     },
     {
         "code": "BRONYANEX",
-        "date": "Jan 06, 22",
-        "status": "Expired",
-        "note": "5.4 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 06, 22",
+            "note": "5.4 Hyperion Lounge"
+        }
     },
     {
         "code": "GT7SGQSL3ECX",
-        "date": "Dec 05, 21",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1597,13 +2129,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 05, 21",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "SWEETGIRL",
-        "date": "Dec 02, 21",
-        "status": "Expired",
-        "note": "5.3 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1617,49 +2153,65 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 02, 21",
+            "note": "5.3 Promo"
+        }
     },
     {
         "code": "9B7AG9TM3FCK",
-        "date": "Nov 27, 21",
-        "status": "Expired",
-        "note": "5.3 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 27, 21",
+            "note": "5.3 Special Stream"
+        }
     },
     {
         "code": "BA7AH9A43WD7",
-        "date": "Nov 27, 21",
-        "status": "Expired",
-        "note": "5.3 Special Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 27, 21",
+            "note": "5.3 Special Stream"
+        }
     },
     {
         "code": "PB6BY9BLKXCB",
-        "date": "Nov 25, 21",
-        "status": "Expired",
-        "note": "5.3 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 25, 21",
+            "note": "5.3 Hyperion Lounge"
+        }
     },
     {
         "code": "OUROBOROS",
-        "date": "Oct 21, 21",
-        "status": "Expired",
-        "note": "5.2 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d79999",
@@ -1673,49 +2225,65 @@
                 "name": "Starless Rift\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 21, 21",
+            "note": "5.2 Promo"
+        }
     },
     {
         "code": "MT6TGQB4JFTT",
-        "date": "Oct 16, 21",
-        "status": "Expired",
-        "note": "5.2 Livestream #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 16, 21",
+            "note": "5.2 Livestream #2"
+        }
     },
     {
         "code": "ST7SG8ALJG87",
-        "date": "Oct 16, 21",
-        "status": "Expired",
-        "note": "5.2 Livestream #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 16, 21",
+            "note": "5.2 Livestream #1"
+        }
     },
     {
         "code": "QB6SHRSLJZQ3",
-        "date": "Oct 14, 21",
-        "status": "Expired",
-        "note": "5.2 Hyperion Lounge",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 14, 21",
+            "note": "5.2 Hyperion Lounge"
+        }
     },
     {
         "code": "EAPTY8TL2ZRB",
-        "date": "Sep 18, 21",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1729,13 +2297,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 18, 21",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "MISSPINKELF",
-        "date": "Sep 17, 21",
-        "status": "Expired",
-        "note": "5.1 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Herrscher of Flamescion Trial Card (3 Days)\u00a0\u00d71",
@@ -1749,49 +2321,65 @@
                 "name": "Coins\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 17, 21",
+            "note": "5.1 Promo"
+        }
     },
     {
         "code": "ELYSIA02",
-        "date": "Sep 10, 21",
-        "status": "Expired",
-        "note": "5.1 Livestream #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 10, 21",
+            "note": "5.1 Livestream #2"
+        }
     },
     {
         "code": "MOTHS10",
-        "date": "Sep 10, 21",
-        "status": "Expired",
-        "note": "5.1 Livestream #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 10, 21",
+            "note": "5.1 Livestream #1"
+        }
     },
     {
         "code": "RTPAZ8A4KZ7F",
-        "date": "Sep 10, 21",
-        "status": "Expired",
-        "note": "Hyperion Lounge Video",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 10, 21",
+            "note": "Hyperion Lounge Video"
+        }
     },
     {
         "code": "EAPAG8TLKG2T",
-        "date": "Aug 18, 21",
-        "status": "Expired",
-        "note": "Bronya's birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -1805,13 +2393,17 @@
                 "name": "SSS Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/SSS_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 18, 21",
+            "note": "Bronya's birthday"
+        }
     },
     {
         "code": "OOHSUMMER",
-        "date": "Aug 12, 21",
-        "status": "Expired",
-        "note": "5.0 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Herrscher of Flamescion Trial Card (3 Days)\u00a0\u00d71",
@@ -1825,49 +2417,65 @@
                 "name": "Mithril\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Mithril_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 12, 21",
+            "note": "5.0 Promo"
+        }
     },
     {
         "code": "7APTHQT52HLP",
-        "date": "Aug 7, 21",
-        "status": "Expired",
-        "note": "5.0 Livestream (Selephim #2)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 7, 21",
+            "note": "5.0 Livestream (Selephim #2)"
+        }
     },
     {
         "code": "BB7SY8T52Y5K",
-        "date": "Aug 7, 21",
-        "status": "Expired",
-        "note": "5.0 Livestream (Selephim #1)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 7, 21",
+            "note": "5.0 Livestream (Selephim #1)"
+        }
     },
     {
         "code": "EUUYGC4WRF",
-        "date": "Aug 5, 21",
-        "status": "Expired",
-        "note": "5.0 Livestream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 5, 21",
+            "note": "5.0 Livestream"
+        }
     },
     {
         "code": "XAPAGQSMKHJ7",
-        "date": "Jul 30, 21",
-        "status": "Expired",
-        "note": "HoYoLAB 50000",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -1877,25 +2485,33 @@
                 "name": "Asterite\u00a0\u00d7500",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 30, 21",
+            "note": "HoYoLAB 50000"
+        }
     },
     {
         "code": "GVYEGG5NPX",
-        "date": "Jul 11, 21",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 11, 21",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "ICHLIEBEIDCH",
-        "date": "Jul 10, 21",
-        "status": "Expired",
-        "note": "4.9 Promo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "SSS Trial Card Option\u00a0\u00d71",
@@ -1909,61 +2525,81 @@
                 "name": "Mithril\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Mithril_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 10, 21",
+            "note": "4.9 Promo"
+        }
     },
     {
         "code": "2B7TZ8TMJZGF",
-        "date": "Jul 9, 21",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 9, 21",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "BSPBHRS5KY33",
-        "date": "Jul 3, 21",
-        "status": "Expired",
-        "note": "4.9 Livestream #2 (Selephim)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 3, 21",
+            "note": "4.9 Livestream #2 (Selephim)"
+        }
     },
     {
         "code": "WSNSZRA4JZ3F",
-        "date": "Jul 3, 21",
-        "status": "Expired",
-        "note": "4.9 Livestream (Selephim)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jul 3, 21",
+            "note": "4.9 Livestream (Selephim)"
+        }
     },
     {
         "code": "TB6BZQT43YZT",
-        "date": "Jun 29, 21",
-        "status": "Expired",
-        "note": "4.9 Livestream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 29, 21",
+            "note": "4.9 Livestream"
+        }
     },
     {
         "code": "SEELECUTE",
-        "date": "Jun 02, 21",
-        "status": "Expired",
-        "note": "Seele Gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Herrscher of the Void Trial Card (3-Day)\u00a0\u00d71",
@@ -1977,73 +2613,97 @@
                 "name": "Mithril\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Mithril_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jun 02, 21",
+            "note": "Seele Gift"
+        }
     },
     {
         "code": "GMUGGG2X7X",
-        "date": "May 22, 21",
-        "status": "Expired",
-        "note": "4.8 livestream #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7150",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 22, 21",
+            "note": "4.8 livestream #1"
+        }
     },
     {
         "code": "WUUEHCKWMX",
-        "date": "Apr 23, 21",
-        "status": "Expired",
-        "note": "Sheshounet's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 23, 21",
+            "note": "Sheshounet's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "GMUGHCLS5X",
-        "date": "Apr 18, 21",
-        "status": "Expired",
-        "note": "4.7 livestream #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 18, 21",
+            "note": "4.7 livestream #2"
+        }
     },
     {
         "code": "ELUY8G2T9P",
-        "date": "Apr 18, 21",
-        "status": "Expired",
-        "note": "4.7 livestream #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 18, 21",
+            "note": "4.7 livestream #1"
+        }
     },
     {
         "code": "YVUGGCJX9X",
-        "date": "Apr 13, 21",
-        "status": "Expired",
-        "note": "Mei's Birthday Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 13, 21",
+            "note": "Mei's Birthday Quiz"
+        }
     },
     {
         "code": "YVYGGGLT37",
-        "date": "Mar 28,21",
-        "status": "Expired",
-        "note": "Theresa's Birthday Surprise",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2053,205 +2713,273 @@
                 "name": "TeRiRi's Treasure Map\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/10/TeRiRi%27s_Treasure_Map_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 28,21",
+            "note": "Theresa's Birthday Surprise"
+        }
     },
     {
         "code": "GUYW9CKPP7",
-        "date": "Mar 22, 21",
-        "status": "Expired",
-        "note": "3rd Anniversary Video",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 22, 21",
+            "note": "3rd Anniversary Video"
+        }
     },
     {
         "code": "EVUEGCKP7F",
-        "date": "Mar 14, 21",
-        "status": "Expired",
-        "note": "Anniversary Rave",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 14, 21",
+            "note": "Anniversary Rave"
+        }
     },
     {
         "code": "GLUYHCMP3P",
-        "date": "Mar 7, 21",
-        "status": "Expired",
-        "note": "Shenzhou Showdown",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 7, 21",
+            "note": "Shenzhou Showdown"
+        }
     },
     {
         "code": "GUUE8C5T5F",
-        "date": "Mar 5, 21",
-        "status": "Expired",
-        "note": "God of High School Ad",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 5, 21",
+            "note": "God of High School Ad"
+        }
     },
     {
         "code": "WLUGHCMSMF",
-        "date": "Mar 2, 21",
-        "status": "Expired",
-        "note": "Honkai Lucky Trip #3",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7140",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 2, 21",
+            "note": "Honkai Lucky Trip #3"
+        }
     },
     {
         "code": "GMUWGCKTM7",
-        "date": "Feb 26, 21",
-        "status": "Expired",
-        "note": "Honkai Lucky Trip #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 26, 21",
+            "note": "Honkai Lucky Trip #2"
+        }
     },
     {
         "code": "YLYEGC5N97",
-        "date": "Mar 1, 21",
-        "status": "Expired",
-        "note": "Red queens gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 1, 21",
+            "note": "Red queens gift"
+        }
     },
     {
         "code": "GUUE8C5T5F",
-        "date": "Feb 28, 21",
-        "status": "Expired",
-        "note": "ShaunTrack Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 28, 21",
+            "note": "ShaunTrack Sponsorship (YouTube)"
+        }
     },
     {
         "code": "EUYW9G5SPF",
-        "date": "Feb 27, 21",
-        "status": "Expired",
-        "note": "4.6 livestream #2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 27, 21",
+            "note": "4.6 livestream #2"
+        }
     },
     {
         "code": "YLUGHG3SP7",
-        "date": "Feb 27, 21",
-        "status": "Expired",
-        "note": "4.6 livestream #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 27, 21",
+            "note": "4.6 livestream #1"
+        }
     },
     {
         "code": "GUYY8C5S5P",
-        "date": "Feb 26, 21",
-        "status": "Expired",
-        "note": "Lounge of Hyperion Youtube Video",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 26, 21",
+            "note": "Lounge of Hyperion Youtube Video"
+        }
     },
     {
         "code": "GMUWGCKTM7",
-        "date": "Feb 26, 21",
-        "status": "Expired",
-        "note": "Honkai Lucky Trip #1",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 26, 21",
+            "note": "Honkai Lucky Trip #1"
+        }
     },
     {
         "code": "YUYE8C3K3P",
-        "date": "Feb 19, 21",
-        "status": "Expired",
-        "note": "Spring Festival Community Commenting Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7300",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 19, 21",
+            "note": "Spring Festival Community Commenting Event"
+        }
     },
     {
         "code": "EUYYGCMJ7F",
-        "date": "Feb 10, 21",
-        "status": "Expired",
-        "note": "Feathers of Memories FB Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 21",
+            "note": "Feathers of Memories FB Event"
+        }
     },
     {
         "code": "EUUG9AUNP7",
-        "date": "Feb 7, 21",
-        "status": "Expired",
-        "note": "Operation Paint Twitter Part 2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 7, 21",
+            "note": "Operation Paint Twitter Part 2"
+        }
     },
     {
         "code": "EVYYHACPMF",
-        "date": "Feb 6, 21",
-        "status": "Expired",
-        "note": "Operation Paint Twitter",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 6, 21",
+            "note": "Operation Paint Twitter"
+        }
     },
     {
         "code": "YLUGHAAWKX",
-        "date": "Jan 30, 21",
-        "status": "Expired",
-        "note": "Asuka Gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Battlesuit Trial Card (3-Day)\u00a0\u00d71",
@@ -2265,85 +2993,113 @@
                 "name": "Mithril\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Mithril_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 30, 21",
+            "note": "Asuka Gift"
+        }
     },
     {
         "code": "WLYW9ASN7F",
-        "date": "Jan 24, 21",
-        "status": "Expired",
-        "note": "Legendary Speed FB Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 24, 21",
+            "note": "Legendary Speed FB Event"
+        }
     },
     {
         "code": "GLYW8EUXMP",
-        "date": "Jan 24, 21",
-        "status": "Expired",
-        "note": "Legendary Speed FB Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 24, 21",
+            "note": "Legendary Speed FB Event"
+        }
     },
     {
         "code": "GLYGHASP7P",
-        "date": "Jan 24, 21",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 24, 21",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "YUYG8EUTPF",
-        "date": "Jan 16, 21",
-        "status": "Expired",
-        "note": "4.5 livestream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 16, 21",
+            "note": "4.5 livestream"
+        }
     },
     {
         "code": "EVUGGACW5P",
-        "date": "Jan 16, 21",
-        "status": "Expired",
-        "note": "4.5 livestream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 16, 21",
+            "note": "4.5 livestream"
+        }
     },
     {
         "code": "YUYW8AUW5X",
-        "date": "Jan 15, 21",
-        "status": "Expired",
-        "note": "v4.5 [Blazing Hope] Update Preview",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 15, 21",
+            "note": "v4.5 [Blazing Hope] Update Preview"
+        }
     },
     {
         "code": "EUYWGEUT7P",
-        "date": "Jan 1, 21",
-        "status": "Expired",
-        "note": "New Year Gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Herrscher of the Void Trial Card (3-Day)\u00a0\u00d71",
@@ -2357,97 +3113,129 @@
                 "name": "Mithril\u00a0\u00d79999",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Mithril_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 1, 21",
+            "note": "New Year Gift"
+        }
     },
     {
         "code": "ELYW9AATRX",
-        "date": "Jan 1, 21",
-        "status": "Expired",
-        "note": "A token of gratitude for a birthday wish",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 1, 21",
+            "note": "A token of gratitude for a birthday wish"
+        }
     },
     {
         "code": "ELUG8AAS7X",
-        "date": "Dec 24, 20",
-        "status": "Expired",
-        "note": "Christmas gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d72000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 24, 20",
+            "note": "Christmas gift"
+        }
     },
     {
         "code": "WVYYGABPMX",
-        "date": "Dec 19, 20",
-        "status": "Expired",
-        "note": "Surprise reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 19, 20",
+            "note": "Surprise reward"
+        }
     },
     {
         "code": "GMYG9ASJ57",
-        "date": "Dec 12, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.4 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 12, 20",
+            "note": "Official Beta v4.4 Stream"
+        }
     },
     {
         "code": "GLYWHEAT5F",
-        "date": "Dec 12, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.4 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 12, 20",
+            "note": "Official Beta v4.4 Stream"
+        }
     },
     {
         "code": "WMUGHEVNP7",
-        "date": "Dec 9, 20",
-        "status": "Expired",
-        "note": "v4.4 [Aurelia Invicta] Version Preview",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 9, 20",
+            "note": "v4.4 [Aurelia Invicta] Version Preview"
+        }
     },
     {
         "code": "WLYW8ATPKX",
-        "date": "Dec 7, 20",
-        "status": "Expired",
-        "note": "Kiana's Return Gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 7, 20",
+            "note": "Kiana's Return Gift"
+        }
     },
     {
         "code": "GMUEGEVWMP",
-        "date": "Nov 26, 20",
-        "status": "Expired",
-        "note": "Thanksgiving Twitter Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Thanksgiving Turkey\u00a0\u00d71",
@@ -2461,25 +3249,33 @@
                 "name": "Black Friday Coupon Bundle\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6c/Black_Friday_Coupon_Bundle.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 26, 20",
+            "note": "Thanksgiving Twitter Event"
+        }
     },
     {
         "code": "GMUGGEVP37",
-        "date": "Oct 31, 20",
-        "status": "Expired",
-        "note": "Voice Makers Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 31, 20",
+            "note": "Voice Makers Sponsorship (YouTube)"
+        }
     },
     {
         "code": "YUUY8AVW7F",
-        "date": "Oct 31, 20",
-        "status": "Expired",
-        "note": "Returnee Reward",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2489,145 +3285,193 @@
                 "name": "S-rank Trial Card Option\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d5/S-rank_Trial_Card_Option_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 31, 20",
+            "note": "Returnee Reward"
+        }
     },
     {
         "code": "GUYXDWUX5X",
-        "date": "Oct 30, 20",
-        "status": "Expired",
-        "note": "Ai-chan's Surprise",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 30, 20",
+            "note": "Ai-chan's Surprise"
+        }
     },
     {
         "code": "YLUE8ABW5X",
-        "date": "Oct 24, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.3 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 24, 20",
+            "note": "Official Beta v4.3 Stream"
+        }
     },
     {
         "code": "GMYYGAVN57",
-        "date": "Oct 24, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.3 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 24, 20",
+            "note": "Official Beta v4.3 Stream"
+        }
     },
     {
         "code": "ELYW8ABTPX",
-        "date": "Oct 23, 20",
-        "status": "Expired",
-        "note": "v4.3 [Rhythms of Neon] Version Preview",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 23, 20",
+            "note": "v4.3 [Rhythms of Neon] Version Preview"
+        }
     },
     {
         "code": "WVYG9ETKPP",
-        "date": "Oct 18, 20",
-        "status": "Expired",
-        "note": "Seele's Birthday Gift",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 18, 20",
+            "note": "Seele's Birthday Gift"
+        }
     },
     {
         "code": "GUYF4WUJPX",
-        "date": "Oct 3, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 6)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 3, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 6)"
+        }
     },
     {
         "code": "GLYH4SUJP7",
-        "date": "Oct 2, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 5)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 2, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 5)"
+        }
     },
     {
         "code": "YMYFCWUJRX",
-        "date": "Oct 1, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 4)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Mooncake Giftbox\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Mooncake_Giftbox_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 1, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 4)"
+        }
     },
     {
         "code": "YLUX5WAKR7",
-        "date": "Sep 30, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 3)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 30, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 3)"
+        }
     },
     {
         "code": "YVUZ4SSK7F",
-        "date": "Sep 29, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 2)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 29, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 2)"
+        }
     },
     {
         "code": "GVUH4WUS37",
-        "date": "Sep 28, 20",
-        "status": "Expired",
-        "note": "Hyperion Highlights Sharing Event (Day 1)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 28, 20",
+            "note": "Hyperion Highlights Sharing Event (Day 1)"
+        }
     },
     {
         "code": "GVUYGATTM7",
-        "date": "Sep 20, 20",
-        "status": "Expired",
-        "note": "Jimmy Zhang's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2637,25 +3481,33 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 20, 20",
+            "note": "Jimmy Zhang's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "WVYY9ADJ7H",
-        "date": "Sep 12, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.2 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d71000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 12, 20",
+            "note": "Official Beta v4.2 Stream"
+        }
     },
     {
         "code": "WVYYGETS7R",
-        "date": "Sep 12, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.2 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2665,49 +3517,65 @@
                 "name": "Asterite\u00a0\u00d7500",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sep 12, 20",
+            "note": "Official Beta v4.2 Stream"
+        }
     },
     {
         "code": "GLYHDWAJ97",
-        "date": "Aug 18, 20",
-        "status": "Expired",
-        "note": "Bronya's Birthday Facebook Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 18, 20",
+            "note": "Bronya's Birthday Facebook Event"
+        }
     },
     {
         "code": "WVYZCSCT9F",
-        "date": "Aug 18, 20",
-        "status": "Expired",
-        "note": "Bronya's Birthday Facebook Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stamina Potion\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 18, 20",
+            "note": "Bronya's Birthday Facebook Event"
+        }
     },
     {
         "code": "YLYZ4SBXPF",
-        "date": "Aug 9, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.1 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 9, 20",
+            "note": "Official Beta v4.1 Stream"
+        }
     },
     {
         "code": "ELUX4WTX3G",
-        "date": "Aug 8, 20",
-        "status": "Expired",
-        "note": "Rainych Ran's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2717,13 +3585,17 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 8, 20",
+            "note": "Rainych Ran's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "WMUFDSVPMF",
-        "date": "Aug 6, 20",
-        "status": "Expired",
-        "note": "Success of HoT worldwide",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2733,13 +3605,17 @@
                 "name": "Herrscher of Thunder Trial Card (3-Day)\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ab/Herrscher_of_Thunder_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 6, 20",
+            "note": "Success of HoT worldwide"
+        }
     },
     {
         "code": "GVUZ5WDP7X",
-        "date": "Aug 6, 20",
-        "status": "Expired",
-        "note": "The Anime Man's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2749,109 +3625,145 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 6, 20",
+            "note": "The Anime Man's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "GUYHDWTPP7",
-        "date": "Aug 6, 20",
-        "status": "Expired",
-        "note": "Herrscher Personality Test",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 6, 20",
+            "note": "Herrscher Personality Test"
+        }
     },
     {
         "code": "EUUF4WBX37",
-        "date": "Aug 1, 20",
-        "status": "Expired",
-        "note": "v4.1 \"Leaks\" by Ai-chan",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 1, 20",
+            "note": "v4.1 \"Leaks\" by Ai-chan"
+        }
     },
     {
         "code": "GLUF4SVSPF",
-        "date": "July 23, 20",
-        "status": "Expired",
-        "note": "Summer Outfits Supply card",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Paradise Pass\u00a0\u00d73",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c3/Paradise_Pass_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 23, 20",
+            "note": "Summer Outfits Supply card"
+        }
     },
     {
         "code": "YUYX5STJR7",
-        "date": "July 22, 20",
-        "status": "Expired",
-        "note": "Yae Sakura's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 22, 20",
+            "note": "Yae Sakura's Birthday"
+        }
     },
     {
         "code": "EUYX5SVJ3F",
-        "date": "July 17, 20",
-        "status": "Expired",
-        "note": "Cooking with Valkyries S2 premiere",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 17, 20",
+            "note": "Cooking with Valkyries S2 premiere"
+        }
     },
     {
         "code": "GMYHDSVS9P",
-        "date": "June 24, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.0 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 24, 20",
+            "note": "Official Beta v4.0 Stream"
+        }
     },
     {
         "code": "EMYZ5S2WKF",
-        "date": "June 24, 20",
-        "status": "Expired",
-        "note": "Official Beta v4.0 Stream",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 24, 20",
+            "note": "Official Beta v4.0 Stream"
+        }
     },
     {
         "code": "ELYF4W4WPP",
-        "date": "June 11, 20",
-        "status": "Expired",
-        "note": "Dancing with Himeko FB Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 11, 20",
+            "note": "Dancing with Himeko FB Event"
+        }
     },
     {
         "code": "GVYZ5S4PRF",
-        "date": "May 25, 20",
-        "status": "Expired",
-        "note": "RDCworld1's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2861,13 +3773,17 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 25, 20",
+            "note": "RDCworld1's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "EUYZ4S4P3F",
-        "date": "May 23, 20",
-        "status": "Expired",
-        "note": "TheLazyPeon's Sponsorship (YouTube)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2877,13 +3793,17 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 23, 20",
+            "note": "TheLazyPeon's Sponsorship (YouTube)"
+        }
     },
     {
         "code": "WLUH4W2X77",
-        "date": "Apr 20, 20",
-        "status": "Expired",
-        "note": "Gigguk's Sponsorship (Twitter)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -2893,61 +3813,81 @@
                 "name": "Asterite\u00a0\u00d7200",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 20, 20",
+            "note": "Gigguk's Sponsorship (Twitter)"
+        }
     },
     {
         "code": "WVYZDSJTKY",
-        "date": "Apr 13, 20",
-        "status": "Expired",
-        "note": "Mei's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d7100000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 13, 20",
+            "note": "Mei's Birthday"
+        }
     },
     {
         "code": "EVYX4SLP5X",
-        "date": "Apr 13, 20",
-        "status": "Expired",
-        "note": "Mei's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 13, 20",
+            "note": "Mei's Birthday"
+        }
     },
     {
         "code": "YVYFDS2N98",
-        "date": "Apr 13, 20",
-        "status": "Expired",
-        "note": "Mei's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stamina Potion\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 13, 20",
+            "note": "Mei's Birthday"
+        }
     },
     {
         "code": "GMYZCW4JP8",
-        "date": "Apr 11, 20",
-        "status": "Expired",
-        "note": "Easter Riddle",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 11, 20",
+            "note": "Easter Riddle"
+        }
     },
     {
         "code": "WLYHCW4SMP",
-        "date": "Mar 31, 20",
-        "status": "Expired",
-        "note": "2nd Anniversary Social Media",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
@@ -2957,409 +3897,545 @@
                 "name": "Coins\u00a0\u00d7100000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 31, 20",
+            "note": "2nd Anniversary Social Media"
+        }
     },
     {
         "code": "WVYXDW2K3F",
-        "date": "Mar 30, 20",
-        "status": "Expired",
-        "note": "2nd Anniversary Social Media",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 30, 20",
+            "note": "2nd Anniversary Social Media"
+        }
     },
     {
         "code": "YMUZCS2K7P",
-        "date": "Mar 29, 20",
-        "status": "Expired",
-        "note": "2nd Anniversary",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d750",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 29, 20",
+            "note": "2nd Anniversary"
+        }
     },
     {
         "code": "WVYFCS4K5X",
-        "date": "Mar 28, 20",
-        "status": "Expired",
-        "note": "Theresa's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 28, 20",
+            "note": "Theresa's Birthday"
+        }
     },
     {
         "code": "EMUH4W3NRP",
-        "date": "Feb 17, 20",
-        "status": "Expired",
-        "note": "3.7 Version Ai-chan's Quiz (Social Networks)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 17, 20",
+            "note": "3.7 Version Ai-chan's Quiz (Social Networks)"
+        }
     },
     {
         "code": "EMYFDW3P7Y",
-        "date": "Feb 09, 20",
-        "status": "Expired",
-        "note": "Fu Hua's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 09, 20",
+            "note": "Fu Hua's Birthday"
+        }
     },
     {
         "code": "EUUH4WKW3P",
-        "date": "Dec 06, 19",
-        "status": "Expired",
-        "note": "Kiana's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 06, 19",
+            "note": "Kiana's Birthday"
+        }
     },
     {
         "code": "HMUECECT58",
-        "date": "Nov 28, 19",
-        "status": "Expired",
-        "note": "Thanksgiving FB Event",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 28, 19",
+            "note": "Thanksgiving FB Event"
+        }
     },
     {
         "code": "YVUHDW3P9X",
-        "date": "Nov 18, 19",
-        "status": "Expired",
-        "note": "???",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 18, 19",
+            "note": "???"
+        }
     },
     {
         "code": "YQENGWVTPX",
-        "date": "Nov 18, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz (Seele)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 18, 19",
+            "note": "Ai-chan's Quiz (Seele)"
+        }
     },
     {
         "code": "YLGQ8Y2N37",
-        "date": "Aug 26, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz (HoR)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 26, 19",
+            "note": "Ai-chan's Quiz (HoR)"
+        }
     },
     {
         "code": "GUWNGGUKMX",
-        "date": "July 22, 19",
-        "status": "Expired",
-        "note": "Yae Sakura's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 22, 19",
+            "note": "Yae Sakura's Birthday"
+        }
     },
     {
         "code": "EMS89GDN3X",
-        "date": "July 6, 19",
-        "status": "Expired",
-        "note": "AX/Japan Expo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 6, 19",
+            "note": "AX/Japan Expo"
+        }
     },
     {
         "code": "YMSNGGBX5X",
-        "date": "July 5, 19",
-        "status": "Expired",
-        "note": "AX/Japan Expo",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 5, 19",
+            "note": "AX/Japan Expo"
+        }
     },
     {
         "code": "WLS8HGCW5P",
-        "date": "July 1, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz (Cooking)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 1, 19",
+            "note": "Ai-chan's Quiz (Cooking)"
+        }
     },
     {
         "code": "ELWQHCVWM7",
-        "date": "May 27, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz (Twins)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 27, 19",
+            "note": "Ai-chan's Quiz (Twins)"
+        }
     },
     {
         "code": "GUWQ8GBN5P",
-        "date": "May 6, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz (Bronya)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 6, 19",
+            "note": "Ai-chan's Quiz (Bronya)"
+        }
     },
     {
         "code": "YVS8HCBSKX",
-        "date": "Apr 28, 19",
-        "status": "Expired",
-        "note": "Q&A 3.0 Update",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 28, 19",
+            "note": "Q&A 3.0 Update"
+        }
     },
     {
         "code": "WVS68GTJKP",
-        "date": "Apr 25, 19",
-        "status": "Expired",
-        "note": "Ai-chan's Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 25, 19",
+            "note": "Ai-chan's Quiz"
+        }
     },
     {
         "code": "EMS68GDJMX",
-        "date": "Apr 19, 19",
-        "status": "Expired",
-        "note": "Deep Enigma Patch Preview",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 19, 19",
+            "note": "Deep Enigma Patch Preview"
+        }
     },
     {
         "code": "GVW8HGTKMP",
-        "date": "Apr 15, 19",
-        "status": "Expired",
-        "note": "Ai-chan Quiz (Rita)",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Apr 15, 19",
+            "note": "Ai-chan Quiz (Rita)"
+        }
     },
     {
         "code": "WMS68CBT37",
-        "date": "Mar 28, 19",
-        "status": "Expired",
-        "note": "30k Discord subscribers",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 28, 19",
+            "note": "30k Discord subscribers"
+        }
     },
     {
         "code": "EUS8GC2K9Y",
-        "date": "Mar 10, 19",
-        "status": "Expired",
-        "note": "Ai-Chan's Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Mar 10, 19",
+            "note": "Ai-Chan's Quiz"
+        }
     },
     {
         "code": "EUWQ8GLWMX",
-        "date": "Feb 20, 19",
-        "status": "Expired",
-        "note": "Anniversary Script Example 4",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d715000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 20, 19",
+            "note": "Anniversary Script Example 4"
+        }
     },
     {
         "code": "YLWN9G2XRP",
-        "date": "Feb 18, 19",
-        "status": "Expired",
-        "note": "Anniversary Script Example 3",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stamina Potion\u00a0\u00d71",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 18, 19",
+            "note": "Anniversary Script Example 3"
+        }
     },
     {
         "code": "EMSQ8C2N3X",
-        "date": "Feb 17, 19",
-        "status": "Expired",
-        "note": "Anniversary Script Example 2",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 17, 19",
+            "note": "Anniversary Script Example 2"
+        }
     },
     {
         "code": "YLSN8CLW37",
-        "date": "Feb 14, 19",
-        "status": "Expired",
-        "note": "Anniversary Script Example",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 14, 19",
+            "note": "Anniversary Script Example"
+        }
     },
     {
         "code": "WMW8GGDT57",
-        "date": "Feb 11, 19",
-        "status": "Expired",
-        "note": "FB Sticker Request",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7120",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 11, 19",
+            "note": "FB Sticker Request"
+        }
     },
     {
         "code": "GLWNHCJPPP",
-        "date": "Feb 10, 19",
-        "status": "Expired",
-        "note": "Fu Hua's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Feb 10, 19",
+            "note": "Fu Hua's Birthday"
+        }
     },
     {
         "code": "ELWQ9CJP9X",
-        "date": "Jan 27, 19",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 27, 19",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "WMW69CLW9P",
-        "date": "Jan 20, 19",
-        "status": "Expired",
-        "note": "Mysterious Facebook Code",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Jan 20, 19",
+            "note": "Mysterious Facebook Code"
+        }
     },
     {
         "code": "WLSN9G2SM7",
-        "date": "Dec 23, 18",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 23, 18",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "WMWQ8CLT37",
-        "date": "Dec 7, 18",
-        "status": "Expired",
-        "note": "Kiana's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Dec 7, 18",
+            "note": "Kiana's Birthday"
+        }
     },
     {
         "code": "EUSQ9G2J9X",
-        "date": "Nov 26, 18",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Nov 26, 18",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "WMSR5SSS77",
-        "date": "Oct 31, 18",
-        "status": "Expired",
-        "note": "25k Discord subscribers",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
@@ -3369,25 +4445,33 @@
                 "name": "Coins\u00a0\u00d7100000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 31, 18",
+            "note": "25k Discord subscribers"
+        }
     },
     {
         "code": "GMWPDSUK9F",
-        "date": "Oct 25, 18",
-        "status": "Expired",
-        "note": "Ai-chan's Birthday present",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Oct 25, 18",
+            "note": "Ai-chan's Birthday present"
+        }
     },
     {
         "code": "YLW95SCK5P",
-        "date": "Sept 23, 18",
-        "status": "Expired",
-        "note": "Compensation for Ai-chan Quiz from Sept 23",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d730",
@@ -3397,37 +4481,49 @@
                 "name": "Coins\u00a0\u00d730000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 23, 18",
+            "note": "Compensation for Ai-chan Quiz from Sept 23"
+        }
     },
     {
         "code": "EUW7CSDWKF",
-        "date": "Sept 23, 18",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 23, 18",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "YVS95WVPKP",
-        "date": "Sept 5, 18",
-        "status": "Expired",
-        "note": "Homecoming Fair Opening",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 5, 18",
+            "note": "Homecoming Fair Opening"
+        }
     },
     {
         "code": "YLWRCSDNR7",
-        "date": "Sept 2, 18",
-        "status": "Expired",
-        "note": "SacAnime Convention",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
@@ -3437,13 +4533,17 @@
                 "name": "Coins\u00a0\u00d750000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 2, 18",
+            "note": "SacAnime Convention"
+        }
     },
     {
         "code": "YMWRCWVX7X",
-        "date": "Sept 2, 18",
-        "status": "Expired",
-        "note": "SacAnime Convention",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d7100",
@@ -3453,85 +4553,113 @@
                 "name": "Coins\u00a0\u00d750000",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 2, 18",
+            "note": "SacAnime Convention"
+        }
     },
     {
         "code": "YMWP4SBNRX",
-        "date": "Sept 2, 18",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Sept 2, 18",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "WLSRDSDP77",
-        "date": "Aug 17, 18",
-        "status": "Expired",
-        "note": "Bronya's Birthday",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 17, 18",
+            "note": "Bronya's Birthday"
+        }
     },
     {
         "code": "GVS94WDX5F",
-        "date": "Aug 15, 18",
-        "status": "Expired",
-        "note": "Shamash Videos",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "Aug 15, 18",
+            "note": "Shamash Videos"
+        }
     },
     {
         "code": "YLSRDWBP57",
-        "date": "July 27, 18",
-        "status": "Expired",
-        "note": "Ai-Chan Quiz",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d780",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 27, 18",
+            "note": "Ai-Chan Quiz"
+        }
     },
     {
         "code": "EVS7DS3S9F",
-        "date": "July 22, 18",
-        "status": "Expired",
-        "note": "Celebration Crystals",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "July 22, 18",
+            "note": "Celebration Crystals"
+        }
     },
     {
         "code": "EMWPCWKJ5P",
-        "date": "June 27, 18",
-        "status": "Expired",
-        "note": "Secret Facebook Code",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "June 27, 18",
+            "note": "Secret Facebook Code"
+        }
     },
     {
         "code": "YVSYHGCWPP",
-        "date": "May 18, 18",
-        "status": "Expired",
-        "note": "Crunchyroll",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins\u00a0\u00d720000",
@@ -3541,6 +4669,10 @@
                 "name": "Reinforced 50% Captain EXP Chip\u00a0\u00d72",
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/01/Enhanced_50%25_Captain_EXP_Chip_%28Icon%29.png/revision/latest"
             }
-        ]
+        ],
+        "duration": {
+            "discovered": "May 18, 18",
+            "note": "Crunchyroll"
+        }
     }
 ]
