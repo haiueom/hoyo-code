@@ -1,5 +1,27 @@
 [
     {
+        "code": "4AKKCZQF92P3",
+        "link": "https://hsr.hoyoverse.com/gift?code=4AKKCZQF92P3",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "\"Dreamlight\" Mixed Sweets \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 3, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HBKKDH9FR3NX",
         "link": "https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX",
         "server": "All",

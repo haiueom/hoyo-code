@@ -44,10 +44,32 @@
         }
     },
     {
+        "code": "STARRAILGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "4AKKCZQF92P3",
         "link": "https://hsr.hoyoverse.com/gift?code=4AKKCZQF92P3",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lost Crystal \u00d73",
@@ -60,7 +82,7 @@
         ],
         "duration": {
             "discovered": "November 3, 2024",
-            "valid": "Unknown",
+            "valid": null,
             "expired": null,
             "notes": null
         }
@@ -84,28 +106,6 @@
             "discovered": "October 31, 2024",
             "valid": null,
             "expired": "November 7, 2024",
-            "notes": null
-        }
-    },
-    {
-        "code": "STARRAILGIFT",
-        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "April 26, 2023",
-            "valid": "(indefinite)",
-            "expired": null,
             "notes": null
         }
     },
