@@ -1,5 +1,35 @@
 [
     {
+        "code": "MTLF6DKA7PQZ",
+        "link": "https://genshin.hoyoverse.com/gift?code=MTLF6DKA7PQZ",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Tatacos \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Tatacos.png/revision/latest"
+            },
+            {
+                "name": "Grainfruit Chips \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Grainfruit_Chips.png/revision/latest"
+            },
+            {
+                "name": "Cup O' Grainfruit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Cup_O%27_Grainfruit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 1, 2024",
+            "valid": null,
+            "expired": "November 15, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "JS45ETDJLKMD",
         "link": "https://genshin.hoyoverse.com/gift?code=JS45ETDJLKMD",
         "server": "All",
