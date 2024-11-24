@@ -3,7 +3,7 @@
         "code": "DSJKDYQF82J3",
         "link": "https://hsr.hoyoverse.com/gift?code=DSJKDYQF82J3",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d7100",
@@ -16,8 +16,8 @@
         ],
         "duration": {
             "discovered": "November 22, 2024",
-            "valid": "November 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "November 23, 2024",
             "notes": null
         }
     },
@@ -25,7 +25,7 @@
         "code": "MTJ2CG9XRK2F",
         "link": "https://hsr.hoyoverse.com/gift?code=MTJ2CG9XRK2F",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d7100",
@@ -38,8 +38,8 @@
         ],
         "duration": {
             "discovered": "November 22, 2024",
-            "valid": "November 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "November 23, 2024",
             "notes": null
         }
     },
@@ -47,7 +47,7 @@
         "code": "UAJJDY9E8JJT",
         "link": "https://hsr.hoyoverse.com/gift?code=UAJJDY9E8JJT",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d7100",
@@ -60,8 +60,8 @@
         ],
         "duration": {
             "discovered": "November 22, 2024",
-            "valid": "November 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "November 23, 2024",
             "notes": null
         }
     },
