@@ -1,5 +1,539 @@
 [
     {
+        "code": "PAGG9M78TJBQ",
+        "link": "https://genshin.hoyoverse.com/gift?code=PAGG9M78TJBQ",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 2, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "PAGG36WC1699",
+        "link": "https://genshin.hoyoverse.com/gift?code=PAGG9M78TJBQ",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 2, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "HVQAUTYB8NKE",
+        "link": "https://genshin.hoyoverse.com/gift?code=HVQAUTYB8NKE",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d720,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d715",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 30, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "AEXK6S4U93CF",
+        "link": "https://genshin.hoyoverse.com/gift?code=AEXK6S4U93CF",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 30, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "SVMCJ1398A18",
+        "link": "https://genshin.hoyoverse.com/gift?code=SVMCJ1398A18",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 15, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "PPBL281426WC",
+        "link": "https://genshin.hoyoverse.com/gift?code=PPBL281426WC",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Kalpalata Lotus \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Kalpalata_Lotus.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 14, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "EMVDL6W28D8A",
+        "link": "https://genshin.hoyoverse.com/gift?code=EMVDL6W28D8A",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 14, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "EMVDUW5HW812",
+        "link": "https://genshin.hoyoverse.com/gift?code=EMVDL6W28D8A",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 14, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "UTLO4OA55PA7",
+        "link": "https://genshin.hoyoverse.com/gift?code=UTLO4OA55PA7",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 14, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "WTXV36M1J6CO",
+        "link": "https://genshin.hoyoverse.com/gift?code=WTXV36M1J6CO",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": null
+        }
+    },
+    {
+        "code": "SBUEMJB449D9",
+        "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "SBUE3NT47K26",
+        "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "SBUEE52V164A",
+        "link": "https://genshin.hoyoverse.com/gift?code=SBUEMJB449D9",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "HVDLLZ29Y26W",
+        "link": "https://genshin.hoyoverse.com/gift?code=HVDLLZ29Y26W",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "HVDLX51ZNOMF",
+        "link": "https://genshin.hoyoverse.com/gift?code=HVDLLZ29Y26W",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "HVDLKWNWA638",
+        "link": "https://genshin.hoyoverse.com/gift?code=HVDLLZ29Y26W",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Brilliant Chrysanthemum \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Brilliant_Chrysanthemum.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2024",
+            "valid": null,
+            "expired": "November 27, 2024",
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "genshin52x8399",
+        "link": "https://genshin.hoyoverse.com/gift?code=genshin52x8399",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Kindling \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Guide_to_Kindling.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Vayuda Turquoise Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 11, 2024",
+            "valid": null,
+            "expired": "November 21, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "MTLF6DKA7PQZ",
         "link": "https://genshin.hoyoverse.com/gift?code=MTLF6DKA7PQZ",
         "server": "All",
@@ -4962,7 +5496,7 @@
             "discovered": "September 26, 2023",
             "valid": null,
             "expired": "October 16, 2023",
-            "notes": "Facebook Messenger Quiz[12]"
+            "notes": "Facebook Messenger Quiz[13]"
         }
     },
     {
@@ -8923,7 +9457,7 @@
     },
     {
         "code": "2T7E9CPA7YJE",
-        "link": "#cite_note-2021-04-16_(CN)-34",
+        "link": "#cite_note-2021-04-16_(CN)-35",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -8945,7 +9479,7 @@
     },
     {
         "code": "EBPWQU6SNZ22",
-        "link": "#cite_note-2021-04-16_(CN)-34",
+        "link": "#cite_note-2021-04-16_(CN)-35",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -8967,7 +9501,7 @@
     },
     {
         "code": "CBNXRD6S7H3N",
-        "link": "#cite_note-2021-04-16_(CN)-34",
+        "link": "#cite_note-2021-04-16_(CN)-35",
         "server": "China",
         "status": "expired",
         "rewards": [
