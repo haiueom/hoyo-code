@@ -1,37 +1,5 @@
 [
     {
-        "code": "8AV7CPH0SA",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Asterite\u00a0\u00d7500",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Oct 28, 24",
-            "note": "Castle Encounters, Trick or Treat?"
-        }
-    },
-    {
-        "code": "COETTFFR36",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Soda\u00a0\u00d73",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Aqua_Vitae_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Oct 28, 24",
-            "note": "Castle Encounters, Trick or Treat?"
-        }
-    },
-    {
         "code": "VitaVSLeylah",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
