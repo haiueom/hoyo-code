@@ -1,5 +1,57 @@
 [
     {
+        "code": "WOVPRK19JGM41",
+        "link": "https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Dreamy Cone (Three Flavors) \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Item_Dreamy_Cone_%28Three_Flavors%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 1, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "STARRAILOSAKA",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILOSAKA",
+        "server": "Asia",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Adventure Log \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Lost Gold Fragment \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Crystal Lizard Satay \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Item_Crystal_Lizard_Satay.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 1, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "3A23UG9FR24T",
         "link": "https://hsr.hoyoverse.com/gift?code=3A23UG9FR24T",
         "server": "All",
