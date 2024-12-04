@@ -1,5 +1,49 @@
 [
     {
+        "code": "HAPPYSUNDAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Halovian Winged Burger \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 4, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "VBKJP473VCS3",
+        "link": "https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 4, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "WOVPRK19JGM41",
         "link": "https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41",
         "server": "All",
@@ -46,50 +90,6 @@
         ],
         "duration": {
             "discovered": "December 1, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "3A23UG9FR24T",
-        "link": "https://hsr.hoyoverse.com/gift?code=3A23UG9FR24T",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 5, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "RAPPAISHERE",
-        "link": "https://hsr.hoyoverse.com/gift?code=RAPPAISHERE",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Dazzling Ninja Provisions \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Item_Dazzling_Ninja_Provisions.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d720000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 3, 2024",
             "valid": "Unknown",
             "expired": null,
             "notes": null
