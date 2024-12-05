@@ -1,5 +1,27 @@
 [
     {
+        "code": "TINGYUNISBACK",
+        "link": "https://hsr.hoyoverse.com/gift?code=TINGYUNISBACK",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Immortal's Delight \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 5, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HAPPYSUNDAY",
         "link": "https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY",
         "server": "All",
@@ -2205,7 +2227,7 @@
     },
     {
         "code": "SOULN1Y30I",
-        "link": "#cite_note-soulcode-24",
+        "link": "#cite_note-soulcode-25",
         "server": "All",
         "status": "expired",
         "rewards": [
