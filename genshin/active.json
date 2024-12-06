@@ -90,7 +90,37 @@
             "discovered": "November 28, 2024",
             "valid": null,
             "expired": null,
-            "notes": null
+            "notes": "Using any of the codes will render the other(s) unusable."
+        }
+    },
+    {
+        "code": "SDKLR94C83AF",
+        "link": "https://genshin.hoyoverse.com/gift?code=SDKLSK67TZ1X",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Seasoned Fang \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Seasoned_Fang.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 28, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": "Using any of the codes will render the other(s) unusable."
         }
     },
     {
