@@ -1,5 +1,71 @@
 [
     {
+        "code": "4SLPH3BSFVH9",
+        "link": "https://genshin.hoyoverse.com/gift?code=4SLPH3BSFVH9",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 20, 2024",
+            "valid": "December 23, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "LT5NH2TTXUHM",
+        "link": "https://genshin.hoyoverse.com/gift?code=LT5NH2TTXUHM",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 20, 2024",
+            "valid": "December 23, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "UAMPGJASECZH",
+        "link": "https://genshin.hoyoverse.com/gift?code=UAMPGJASECZH",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 20, 2024",
+            "valid": "December 23, 2024",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "EAOL18BJ8S64",
         "link": "https://genshin.hoyoverse.com/gift?code=EAOL18BJ8S64",
         "server": "All",
