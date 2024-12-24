@@ -12,7 +12,7 @@
         ],
         "duration": {
             "discovered": "December 20, 2024",
-            "valid": null,
+            "valid": "December 27, 2024",
             "expired": null,
             "notes": null
         }
@@ -34,8 +34,8 @@
         ],
         "duration": {
             "discovered": "December 20, 2024",
-            "valid": "December 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "December 23, 2024",
             "notes": null
         }
     },
@@ -56,8 +56,8 @@
         ],
         "duration": {
             "discovered": "December 20, 2024",
-            "valid": "December 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "December 23, 2024",
             "notes": null
         }
     },
@@ -78,8 +78,8 @@
         ],
         "duration": {
             "discovered": "December 20, 2024",
-            "valid": "December 23, 2024",
-            "expired": null,
+            "valid": null,
+            "expired": "December 23, 2024",
             "notes": null
         }
     },
