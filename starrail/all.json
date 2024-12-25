@@ -1,5 +1,27 @@
 [
     {
+        "code": "HSRFUGUE1225",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRFUGUE1225",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Immortal's Delight \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "AS3J6MNJVCA7",
         "link": "https://hsr.hoyoverse.com/gift?code=AS3J6MNJVCA7",
         "server": "All",
