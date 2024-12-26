@@ -136,6 +136,40 @@
         }
     },
     {
+        "code": "GSYT667U",
+        "link": "https://genshin.hoyoverse.com/gift?code=GSXB7OA",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Guide to Contention \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Guide_to_Contention.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Agnidus Agate Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 23, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": "Found in ads located on X and YouTube.Using any of the codes will render the others unusable."
+        }
+    },
+    {
         "code": "GSMTCT96",
         "link": "https://genshin.hoyoverse.com/gift?code=GSXB7OA",
         "server": "All",
