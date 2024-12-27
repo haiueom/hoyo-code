@@ -358,24 +358,6 @@
         }
     },
     {
-        "code": "STANDWITHMAVUIKA",
-        "link": "https://genshin.hoyoverse.com/gift?code=STANDWITHMAVUIKA",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d730",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 20, 2024",
-            "valid": null,
-            "expired": "December 27, 2024",
-            "notes": null
-        }
-    },
-    {
         "code": "EAOL18BJ8S64",
         "link": "https://genshin.hoyoverse.com/gift?code=EAOL18BJ8S64",
         "server": "All",
@@ -575,6 +557,24 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "STANDWITHMAVUIKA",
+        "link": "https://genshin.hoyoverse.com/gift?code=STANDWITHMAVUIKA",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 20, 2024",
+            "valid": null,
+            "expired": "December 27, 2024",
+            "notes": null
         }
     },
     {
