@@ -1,5 +1,23 @@
 [
     {
+        "code": "RADIANTSUN",
+        "link": "#cite_note-1",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 23, 2024",
+            "valid": null,
+            "expired": "December 30, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "STANDWITHMAVUIKA",
         "link": "https://genshin.hoyoverse.com/gift?code=STANDWITHMAVUIKA",
         "server": "America, Europe, Asia, TW/HK/Macao",
@@ -5602,7 +5620,7 @@
             "discovered": "September 26, 2023",
             "valid": null,
             "expired": "October 16, 2023",
-            "notes": "Facebook Messenger Quiz[13]"
+            "notes": "Facebook Messenger Quiz[14]"
         }
     },
     {
@@ -9563,7 +9581,7 @@
     },
     {
         "code": "2T7E9CPA7YJE",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -9585,7 +9603,7 @@
     },
     {
         "code": "EBPWQU6SNZ22",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -9607,7 +9625,7 @@
     },
     {
         "code": "CBNXRD6S7H3N",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [

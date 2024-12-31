@@ -374,24 +374,6 @@
         }
     },
     {
-        "code": "RADIANTSUN",
-        "link": "#cite_note-4",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d730",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 23, 2024",
-            "valid": "December 30, 2024",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "EAOL18BJ8S64",
         "link": "https://genshin.hoyoverse.com/gift?code=EAOL18BJ8S64",
         "server": "All",

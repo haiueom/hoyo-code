@@ -374,24 +374,6 @@
         }
     },
     {
-        "code": "RADIANTSUN",
-        "link": "#cite_note-4",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d730",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 23, 2024",
-            "valid": "December 30, 2024",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "EAOL18BJ8S64",
         "link": "https://genshin.hoyoverse.com/gift?code=EAOL18BJ8S64",
         "server": "All",
@@ -591,6 +573,24 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "RADIANTSUN",
+        "link": "#cite_note-1",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 23, 2024",
+            "valid": null,
+            "expired": "December 30, 2024",
+            "notes": null
         }
     },
     {
@@ -6196,7 +6196,7 @@
             "discovered": "September 26, 2023",
             "valid": null,
             "expired": "October 16, 2023",
-            "notes": "Facebook Messenger Quiz[13]"
+            "notes": "Facebook Messenger Quiz[14]"
         }
     },
     {
@@ -10157,7 +10157,7 @@
     },
     {
         "code": "2T7E9CPA7YJE",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -10179,7 +10179,7 @@
     },
     {
         "code": "EBPWQU6SNZ22",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [
@@ -10201,7 +10201,7 @@
     },
     {
         "code": "CBNXRD6S7H3N",
-        "link": "#cite_note-2021-04-16_(CN)-35",
+        "link": "#cite_note-2021-04-16_(CN)-36",
         "server": "China",
         "status": "expired",
         "rewards": [
