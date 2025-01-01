@@ -1,5 +1,41 @@
 [
     {
+        "code": "HSRHOYOFAIR2025",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HSRSEASTHEDAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HSR320250115",
         "link": "https://hsr.hoyoverse.com/gift?code=HSR320250115",
         "server": "All",
@@ -100,6 +136,98 @@
             {
                 "name": "Immortal's Delight \u00d72",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "SUNDAYCALENDAR",
+        "link": "https://hsr.hoyoverse.com/gift?code=SUNDAYCALENDAR",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "STARRAILTREND2024",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Potato Fries Sundae \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "VCUB4T2V4L8N5",
+        "link": "https://hsr.hoyoverse.com/gift?code=VCUB4T2V4L8N5",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Refined Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "YF61G7F3P4Q2",
+        "link": "https://hsr.hoyoverse.com/gift?code=YF61G7F3P4Q2",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d730000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
         "duration": {
