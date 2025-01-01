@@ -1,5 +1,27 @@
 [
     {
+        "code": "MAVUIKAWISHES",
+        "link": "https://genshin.hoyoverse.com/gift?code=MAVUIKAWISHES",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hymn of Gathered Flame \u00d71",
+                "image": null
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "January 7, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "WEAV365PI953",
         "link": "https://genshin.hoyoverse.com/gift?code=WEAV365PI953",
         "server": "All",
