@@ -1,5 +1,71 @@
 [
     {
+        "code": "HSR320250115",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR320250115",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "January 2, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3AMPHOREUS",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3AMPHOREUS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "January 2, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3DAWEISGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3DAWEISGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": "January 2, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HSRFUGUE1225",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRFUGUE1225",
         "server": "All",
@@ -77,28 +143,6 @@
             },
             {
                 "name": "Credit \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 4, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "VBKJP473VCS3",
-        "link": "https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],

@@ -1,5 +1,27 @@
 [
     {
+        "code": "VBKJP473VCS3",
+        "link": "https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 31, 2024",
+            "valid": null,
+            "expired": "December 29, 2024",
+            "notes": null
+        }
+    },
+    {
         "code": "3A23UG9FR24T",
         "link": "https://hsr.hoyoverse.com/gift?code=3A23UG9FR24T",
         "server": "All",
