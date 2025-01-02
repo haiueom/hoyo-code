@@ -1,5 +1,115 @@
 [
     {
+        "code": "HSR320250115",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR320250115",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3WENGFALUOSI",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3WENGFALUOSI",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3DAWEIDELIWU",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3DAWEIDELIWU",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3AMPHOREUS",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3AMPHOREUS",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HSR3DAWEISGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSR3DAWEISGIFT",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "VBKJP473VCS3",
         "link": "https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3",
         "server": "All",
