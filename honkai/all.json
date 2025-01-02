@@ -1,5 +1,85 @@
 [
     {
+        "code": "HI3NEWYEAR",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Jan 1, 25",
+            "note": "Valkyries' New Year Gifts"
+        }
+    },
+    {
+        "code": "SONGQUESGIFT",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Advanced Skill Material\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/ff/Advanced_Skill_Material_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Dec 27, 24",
+            "note": "Valkyries' New Year Gifts"
+        }
+    },
+    {
+        "code": "DURANDALGIFT",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stamina Potion\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Dec 27, 24",
+            "note": "Valkyries' New Year Gifts"
+        }
+    },
+    {
+        "code": "SPARKLEGIFT",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Special Outfit Coupon\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d9/Special_Outfit_Coupon_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Dec 27, 24",
+            "note": "Valkyries' New Year Gifts"
+        }
+    },
+    {
+        "code": "KIANAGIFT",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Asterite\u00a0\u00d7300",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Dec 27, 24",
+            "note": "Valkyries' New Year Gifts"
+        }
+    },
+    {
         "code": "30KP7NTGCM",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
