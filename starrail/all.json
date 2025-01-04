@@ -3,7 +3,7 @@
         "code": "HSRHOYOFAIR2025",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d760",
@@ -12,8 +12,8 @@
         ],
         "duration": {
             "discovered": "January 1, 2025",
-            "valid": "Unknown",
-            "expired": null,
+            "valid": null,
+            "expired": "January 4, 2025",
             "notes": null
         }
     },
@@ -21,7 +21,7 @@
         "code": "HSRSEASTHEDAY",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d760",
@@ -30,8 +30,8 @@
         ],
         "duration": {
             "discovered": "January 1, 2025",
-            "valid": "Unknown",
-            "expired": null,
+            "valid": null,
+            "expired": "January 4, 2025",
             "notes": null
         }
     },
@@ -377,7 +377,7 @@
         "code": "STARRAILOSAKA",
         "link": "https://hsr.hoyoverse.com/gift?code=STARRAILOSAKA",
         "server": "Asia",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Adventure Log \u00d72",
@@ -394,8 +394,8 @@
         ],
         "duration": {
             "discovered": "December 1, 2024",
-            "valid": "Unknown",
-            "expired": null,
+            "valid": null,
+            "expired": "January 4, 2025",
             "notes": null
         }
     },

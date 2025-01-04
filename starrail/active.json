@@ -1,41 +1,5 @@
 [
     {
-        "code": "HSRHOYOFAIR2025",
-        "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d760",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 1, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "HSRSEASTHEDAY",
-        "link": "https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d760",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 1, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "HSRNEWYEAR2025",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRNEWYEAR2025",
         "server": "All",
@@ -254,32 +218,6 @@
             {
                 "name": "Credit \u00d720000",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 1, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "STARRAILOSAKA",
-        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILOSAKA",
-        "server": "Asia",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Adventure Log \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
-            },
-            {
-                "name": "Lost Gold Fragment \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
-            },
-            {
-                "name": "Crystal Lizard Satay \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Item_Crystal_Lizard_Satay.png/revision/latest"
             }
         ],
         "duration": {

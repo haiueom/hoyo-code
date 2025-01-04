@@ -1,5 +1,41 @@
 [
     {
+        "code": "HSRHOYOFAIR2025",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 4, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HSRSEASTHEDAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 4, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "HSR320250115",
         "link": "https://hsr.hoyoverse.com/gift?code=HSR320250115",
         "server": "All",
@@ -106,6 +142,32 @@
             "discovered": "January 1, 2025",
             "valid": null,
             "expired": "January 2, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "STARRAILOSAKA",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILOSAKA",
+        "server": "Asia",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Adventure Log \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Lost Gold Fragment \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Crystal Lizard Satay \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Item_Crystal_Lizard_Satay.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 1, 2024",
+            "valid": null,
+            "expired": "January 4, 2025",
             "notes": null
         }
     },
