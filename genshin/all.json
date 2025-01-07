@@ -60,8 +60,8 @@
         ],
         "duration": {
             "discovered": "January 1, 2025",
-            "valid": "January 7, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 7, 2025",
             "notes": null
         }
     },
