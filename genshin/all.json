@@ -1,13 +1,13 @@
 [
     {
-        "code": "ABEJDF",
-        "link": "https://genshin.hoyoverse.com/gift?code=ABEJDF",
+        "code": "NEWTEST",
+        "link": "https://genshin.hoyoverse.com/gift?code=NEWTEST",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Withering Purpurbloom \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest"
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
             }
         ],
         "duration": {
