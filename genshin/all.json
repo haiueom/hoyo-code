@@ -1,5 +1,67 @@
 [
     {
+        "code": "ABEJDF",
+        "link": "https://genshin.hoyoverse.com/gift?code=ABEJDF",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Withering Purpurbloom \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 12, 2025",
+            "valid": "January 19, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "MAVUIKA2025",
+        "link": "https://genshin.hoyoverse.com/gift?code=MAVUIKA2025",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 12, 2025",
+            "valid": "January 19, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "FORNATLAN",
+        "link": "https://genshin.hoyoverse.com/gift?code=FORNATLAN",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d740",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Withering Purpurbloom \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest"
+            },
+            {
+                "name": "Warrior's Metal Whistle \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Item_Warrior%27s_Metal_Whistle.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 7, 2025",
+            "valid": "January 14, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HNYM49IX9PDS",
         "link": "https://genshin.hoyoverse.com/gift?code=HNYM49IX9PDS",
         "server": "All",
