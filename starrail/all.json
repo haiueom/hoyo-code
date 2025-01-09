@@ -228,6 +228,32 @@
         }
     },
     {
+        "code": "DEF3Y5Z6A7B8",
+        "link": "https://hsr.hoyoverse.com/gift?code=DEF3Y5Z6A7B8",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Cosmic Fried Rice \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Item_Cosmic_Fried_Rice.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 7, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "STARRAILGIFT",
         "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
         "server": "All",
@@ -3037,7 +3063,7 @@
     },
     {
         "code": "SOULN1Y30I",
-        "link": "#cite_note-soulcode-25",
+        "link": "#cite_note-soulcode-26",
         "server": "All",
         "status": "expired",
         "rewards": [
