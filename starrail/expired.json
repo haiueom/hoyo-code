@@ -1,49 +1,5 @@
 [
     {
-        "code": "THEETERNALLAND",
-        "link": "https://hsr.hoyoverse.com/gift?code=THEETERNALLAND",
-        "server": "All",
-        "status": "expired",
-        "rewards": [
-            {
-                "name": "Alfalfa Salad \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Item_Alfalfa_Salad.png/revision/latest"
-            },
-            {
-                "name": "Credits \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 12, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "AWAITSYOURLIGHT",
-        "link": "https://hsr.hoyoverse.com/gift?code=AWAITSYOURLIGHT",
-        "server": "All",
-        "status": "expired",
-        "rewards": [
-            {
-                "name": "Golden Slumbernana \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Item_Golden_Slumbernana.png/revision/latest"
-            },
-            {
-                "name": "Credits \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 12, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "HSRHOYOFAIR2025",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
         "server": "All",
