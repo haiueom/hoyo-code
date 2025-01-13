@@ -1,5 +1,27 @@
 [
     {
+        "code": "REMEMBRANCE",
+        "link": "https://hsr.hoyoverse.com/gift?code=REMEMBRANCE",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Potato Fries Sundae \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
+            },
+            {
+                "name": "Credits \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 13, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "AWAITSYOURLIGHT",
         "link": "https://hsr.hoyoverse.com/gift?code=AWAITSYOURLIGHT",
         "server": "All",
