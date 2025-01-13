@@ -112,28 +112,6 @@
         }
     },
     {
-        "code": "MAVUIKAWISHES",
-        "link": "https://genshin.hoyoverse.com/gift?code=MAVUIKAWISHES",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d730",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hymn of Gathered Flame \u00d71",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Hymn_of_Gathered_Flame.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 1, 2025",
-            "valid": null,
-            "expired": "January 7, 2025",
-            "notes": null
-        }
-    },
-    {
         "code": "WEAV365PI953",
         "link": "https://genshin.hoyoverse.com/gift?code=WEAV365PI953",
         "server": "All",
@@ -209,6 +187,28 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "MAVUIKAWISHES",
+        "link": "https://genshin.hoyoverse.com/gift?code=MAVUIKAWISHES",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hymn of Gathered Flame \u00d71",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Hymn_of_Gathered_Flame.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2025",
+            "valid": null,
+            "expired": "January 7, 2025",
+            "notes": null
         }
     },
     {
