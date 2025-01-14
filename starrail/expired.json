@@ -1,5 +1,93 @@
 [
     {
+        "code": "HSRFUGUE1225",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRFUGUE1225",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Immortal's Delight \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": null,
+            "expired": "January 14, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "SUNDAYCALENDAR",
+        "link": "https://hsr.hoyoverse.com/gift?code=SUNDAYCALENDAR",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": null,
+            "expired": "January 14, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "TINGYUNISBACK",
+        "link": "https://hsr.hoyoverse.com/gift?code=TINGYUNISBACK",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Immortal's Delight \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 5, 2024",
+            "valid": null,
+            "expired": "January 14, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "HAPPYSUNDAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Halovian Winged Burger \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 4, 2024",
+            "valid": null,
+            "expired": "January 14, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "HSRHOYOFAIR2025",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRHOYOFAIR2025",
         "server": "All",
