@@ -1,5 +1,27 @@
 [
     {
+        "code": "EAJJPMN3DDE3",
+        "link": "https://hsr.hoyoverse.com/gift?code=EAJJPMN3DDE3",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "February 1, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "BS3265PKCVXT",
         "link": "https://hsr.hoyoverse.com/gift?code=BS3265PKCVXT",
         "server": "All",
@@ -11,6 +33,116 @@
             },
             {
                 "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "February 1, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "RTKJPM6JVCFF",
+        "link": "https://hsr.hoyoverse.com/gift?code=RTKJPM6JVCFF",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "February 1, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HELLOAMPHOREUS",
+        "link": "https://hsr.hoyoverse.com/gift?code=HELLOAMPHOREUS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "High-Tech Protective Gear \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "February 1, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "AMPHOREUS0115",
+        "link": "https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Clockie Pizza (Whole) \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "LIGHTTHEWAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Odd Gummy Candy \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "THISISTHEHERTA",
+        "link": "https://hsr.hoyoverse.com/gift?code=THISISTHEHERTA",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Life Transmitter \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Item_Life_Transmitter.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
