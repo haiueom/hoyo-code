@@ -1,5 +1,27 @@
 [
     {
+        "code": "BS3265PKCVXT",
+        "link": "https://hsr.hoyoverse.com/gift?code=BS3265PKCVXT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 14, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "REMEMBRANCE",
         "link": "https://hsr.hoyoverse.com/gift?code=REMEMBRANCE",
         "server": "All",
