@@ -16,6 +16,54 @@
         }
     },
     {
+        "code": "LAQPV7KM9F",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d750",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Asterite\u00a0\u00d7500",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Advanced Skill Material\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/ff/Advanced_Skill_Material_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Dec 1, 24",
+            "note": "Honkai Impact 3rd Twitch Live Stream Incentives, shared by Twitch streamer Edyssey"
+        }
+    },
+    {
+        "code": "30KP7NTGCM",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d750",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Asterite\u00a0\u00d7500",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Advanced Skill Material\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/ff/Advanced_Skill_Material_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Nov 30, 24",
+            "note": "Honkai Impact 3rd Twitch Live Stream Incentives"
+        }
+    },
+    {
         "code": "HonkaixHonkai",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
