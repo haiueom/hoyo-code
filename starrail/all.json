@@ -425,7 +425,7 @@
         "duration": {
             "discovered": "December 25, 2024",
             "valid": null,
-            "expired": "January 14, 2025",
+            "expired": null,
             "notes": null
         }
     },
@@ -447,7 +447,7 @@
         "duration": {
             "discovered": "December 25, 2024",
             "valid": null,
-            "expired": "January 14, 2025",
+            "expired": null,
             "notes": null
         }
     },
@@ -469,7 +469,7 @@
         "duration": {
             "discovered": "December 5, 2024",
             "valid": null,
-            "expired": "January 14, 2025",
+            "expired": null,
             "notes": null
         }
     },
@@ -491,7 +491,7 @@
         "duration": {
             "discovered": "December 4, 2024",
             "valid": null,
-            "expired": "January 14, 2025",
+            "expired": null,
             "notes": null
         }
     },
