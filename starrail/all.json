@@ -1,5 +1,27 @@
 [
     {
+        "code": "IFYOUAREREADINGTHIS",
+        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel \u00d71",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 16, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HSRAWAITSYOU",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRAWAITSYOU",
         "server": "All",
