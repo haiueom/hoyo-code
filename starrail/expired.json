@@ -1,5 +1,53 @@
 [
     {
+        "code": "VCUB4T2V4L8N5",
+        "link": "https://hsr.hoyoverse.com/gift?code=VCUB4T2V4L8N5",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Refined Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "YF61G7F3P4Q2",
+        "link": "https://hsr.hoyoverse.com/gift?code=YF61G7F3P4Q2",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d730000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 25, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "AS3J6MNJVCA7",
         "link": "https://hsr.hoyoverse.com/gift?code=AS3J6MNJVCA7",
         "server": "All",
@@ -16,6 +64,32 @@
         ],
         "duration": {
             "discovered": "December 25, 2024",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "WOVPRK19JGM41",
+        "link": "https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Dreamy Cone (Three Flavors) \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Item_Dreamy_Cone_%28Three_Flavors%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 1, 2024",
             "valid": null,
             "expired": null,
             "notes": null

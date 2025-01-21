@@ -140,6 +140,120 @@
         }
     },
     {
+        "code": "HSRANIMATE2025",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRANIMATE2025",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Lost Gold Fragment \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Chrysos Heir Dolium \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Item_Chrysos_Heir_Dolium.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 19, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "WA3BP6Q7R8S9",
+        "link": "https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Rough Sketch \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Item_Rough_Sketch.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 15, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HERTAGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=HERTAGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Automatic Wooden Dummy \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Item_Automatic_Wooden_Dummy.png/revision/latest"
+            },
+            {
+                "name": "Adventure Log \u00d76",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 15, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "THEHERTAGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=THEHERTAGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Disposable Shield \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Item_Disposable_Shield.png/revision/latest"
+            },
+            {
+                "name": "Adventure Log \u00d76",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 15, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "NewWorld0115",
+        "link": "https://hsr.hoyoverse.com/gift?code=NewWorld0115",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Steelclaw Dagger \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Item_Steelclaw_Dagger.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 15, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HELLOAMPHOREUS",
         "link": "https://hsr.hoyoverse.com/gift?code=HELLOAMPHOREUS",
         "server": "All",
@@ -157,50 +271,6 @@
         "duration": {
             "discovered": "January 14, 2025",
             "valid": "February 1, 2025",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "AMPHOREUS0115",
-        "link": "https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Clockie Pizza (Whole) \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "LIGHTTHEWAY",
-        "link": "https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Odd Gummy Candy \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "Unknown",
             "expired": null,
             "notes": null
         }
@@ -294,6 +364,80 @@
         }
     },
     {
+        "code": "LIGHTTHEWAY",
+        "link": "https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Odd Gummy Candy \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 11, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "AMPHOREUS0115",
+        "link": "https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Clockie Pizza (Whole) \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 11, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "HSRINGAMESTOP",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Adventure Log \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Lost Gold Fragment \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Sweet Dreams Holographic Ticket \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Item_Sweet_Dreams_Holographic_Ticket.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 8, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "DEF3Y5Z6A7B8",
         "link": "https://hsr.hoyoverse.com/gift?code=DEF3Y5Z6A7B8",
         "server": "All",
@@ -364,10 +508,32 @@
         }
     },
     {
+        "code": "STARRAILGIFT",
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "VCUB4T2V4L8N5",
         "link": "https://hsr.hoyoverse.com/gift?code=VCUB4T2V4L8N5",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Refined Aether \u00d73",
@@ -384,7 +550,7 @@
         ],
         "duration": {
             "discovered": "December 25, 2024",
-            "valid": "Unknown",
+            "valid": null,
             "expired": null,
             "notes": null
         }
@@ -393,7 +559,7 @@
         "code": "YF61G7F3P4Q2",
         "link": "https://hsr.hoyoverse.com/gift?code=YF61G7F3P4Q2",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Traveler's Guide \u00d73",
@@ -406,7 +572,7 @@
         ],
         "duration": {
             "discovered": "December 25, 2024",
-            "valid": "Unknown",
+            "valid": null,
             "expired": null,
             "notes": null
         }
@@ -437,7 +603,7 @@
         "code": "WOVPRK19JGM41",
         "link": "https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Lost Crystal \u00d73",
@@ -454,29 +620,7 @@
         ],
         "duration": {
             "discovered": "December 1, 2024",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "STARRAILGIFT",
-        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "April 26, 2023",
-            "valid": "(indefinite)",
+            "valid": null,
             "expired": null,
             "notes": null
         }
