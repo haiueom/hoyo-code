@@ -16,7 +16,7 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": null,
+            "valid": "January 27, 2025",
             "expired": null,
             "notes": null
         }
@@ -38,7 +38,29 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": null,
+            "valid": "January 27, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "AisaBathhouse",
+        "link": "https://genshin.hoyoverse.com/gift?code=AisaBathhouse",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": "January 27, 2025",
             "expired": null,
             "notes": null
         }
