@@ -19,7 +19,7 @@
         "code": "HI3NEWYEAR",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -35,7 +35,7 @@
         "code": "SONGQUESGIFT",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Advanced Skill Material\u00a0\u00d71",
@@ -51,7 +51,7 @@
         "code": "DURANDALGIFT",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stamina Potion\u00a0\u00d71",
@@ -67,7 +67,7 @@
         "code": "SPARKLEGIFT",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Special Outfit Coupon\u00a0\u00d71",
@@ -83,7 +83,7 @@
         "code": "KIANAGIFT",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Asterite\u00a0\u00d7300",
