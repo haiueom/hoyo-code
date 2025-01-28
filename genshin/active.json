@@ -16,8 +16,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -38,8 +38,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -60,8 +60,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -82,8 +82,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -104,8 +104,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -126,8 +126,8 @@
         ],
         "duration": {
             "discovered": "January 24, 2025",
-            "valid": "January 27, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "January 27, 2025",
             "notes": null
         }
     },
@@ -148,7 +148,7 @@
         ],
         "duration": {
             "discovered": "January 5, 2025",
-            "valid": null,
+            "valid": "March 6, 2025",
             "expired": null,
             "notes": "Using any of the codes will render the other(s) unusable."
         }
@@ -170,7 +170,7 @@
         ],
         "duration": {
             "discovered": "January 5, 2025",
-            "valid": null,
+            "valid": "March 6, 2025",
             "expired": null,
             "notes": "Using any of the codes will render the other(s) unusable."
         }
