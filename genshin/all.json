@@ -1,137 +1,5 @@
 [
     {
-        "code": "GISpecialProgram54",
-        "link": "https://genshin.hoyoverse.com/gift?code=GISpecialProgram54",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
-        "code": "Mizuki0212Mizuki",
-        "link": "https://genshin.hoyoverse.com/gift?code=Mizuki0212Mizuki",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
-        "code": "AisaBathhouse",
-        "link": "https://genshin.hoyoverse.com/gift?code=AisaBathhouse",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora \u00d750,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
-        "code": "54YUANSHEN0212",
-        "link": "",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore \u00d710",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
-        "code": "RUIXI0212NEW",
-        "link": "",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
-        "code": "SANCHUANHUAJI",
-        "link": "",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d7100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora \u00d750,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 24, 2025",
-            "valid": null,
-            "expired": "January 27, 2025",
-            "notes": null
-        }
-    },
-    {
         "code": "HNYM49IX9PDS",
         "link": "https://genshin.hoyoverse.com/gift?code=HNYM49IX9PDS",
         "server": "All",
@@ -229,6 +97,138 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
+        "code": "GISpecialProgram54",
+        "link": "https://genshin.hoyoverse.com/gift?code=GISpecialProgram54",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "Mizuki0212Mizuki",
+        "link": "https://genshin.hoyoverse.com/gift?code=Mizuki0212Mizuki",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "AisaBathhouse",
+        "link": "https://genshin.hoyoverse.com/gift?code=AisaBathhouse",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "54YUANSHEN0212",
+        "link": "",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "RUIXI0212NEW",
+        "link": "",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "SANCHUANHUAJI",
+        "link": "",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 24, 2025",
+            "valid": null,
+            "expired": "January 27, 2025",
+            "notes": null
         }
     },
     {
