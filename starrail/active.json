@@ -1,7 +1,7 @@
 [
     {
-        "code": "ABC1GHIJ4567",
-        "link": "https://hsr.hoyoverse.com/gift?code=ABC1GHIJ4567",
+        "code": "XYZ7OPQR9012",
+        "link": "https://hsr.hoyoverse.com/gift?code=XYZ7OPQR9012",
         "server": "All",
         "status": "active",
         "rewards": [
@@ -10,12 +10,12 @@
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Credits \u00d710000",
+                "name": "Credit \u00d710000",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "January 22, 2025",
+            "discovered": "February 5, 2025",
             "valid": "Unknown",
             "expired": null,
             "notes": null
@@ -48,28 +48,6 @@
         }
     },
     {
-        "code": "IFYOUAREREADINGTHIS",
-        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d760",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Fuel \u00d71",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 16, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "HSRAWAITSYOU",
         "link": "https://hsr.hoyoverse.com/gift?code=HSRAWAITSYOU",
         "server": "All",
@@ -89,50 +67,6 @@
             },
             {
                 "name": "Credit \u00d75000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 15, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "ABC1CDEF0123",
-        "link": "https://hsr.hoyoverse.com/gift?code=ABC1CDEF0123",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 15, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "WA3BP6Q7R8S9",
-        "link": "https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Rough Sketch \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Item_Rough_Sketch.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d720000",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -205,94 +139,6 @@
         "duration": {
             "discovered": "January 15, 2025",
             "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "EAJJPMN3DDE3",
-        "link": "https://hsr.hoyoverse.com/gift?code=EAJJPMN3DDE3",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d7100",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Refined Aether \u00d74",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "February 1, 2025",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "BS3265PKCVXT",
-        "link": "https://hsr.hoyoverse.com/gift?code=BS3265PKCVXT",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d7100",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d750000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "February 1, 2025",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "RTKJPM6JVCFF",
-        "link": "https://hsr.hoyoverse.com/gift?code=RTKJPM6JVCFF",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d7100",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Traveler's Guide \u00d75",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "February 1, 2025",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "HELLOAMPHOREUS",
-        "link": "https://hsr.hoyoverse.com/gift?code=HELLOAMPHOREUS",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "High-Tech Protective Gear \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 14, 2025",
-            "valid": "February 1, 2025",
             "expired": null,
             "notes": null
         }
@@ -508,22 +354,22 @@
         }
     },
     {
-        "code": "STARRAILTREND2024",
-        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024",
+        "code": "IFYOUAREREADINGTHIS",
+        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Traveler's Guide \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Potato Fries Sundae \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
+                "name": "Fuel \u00d71",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "December 25, 2024",
+            "discovered": "January 16, 2025",
             "valid": "Unknown",
             "expired": null,
             "notes": null
