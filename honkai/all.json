@@ -3,7 +3,7 @@
         "code": "WITHKIANA",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "expired",
+        "status": "active",
         "rewards": [
             {
                 "name": "Crystals\u00a0\u00d760",
@@ -11,7 +11,7 @@
             }
         ],
         "duration": {
-            "discovered": "Soon (was accidentally active for a bit on 01.02.2025)",
+            "discovered": "Jan 7, 25",
             "note": "Surprise reward"
         }
     },

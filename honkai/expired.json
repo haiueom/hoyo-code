@@ -1,21 +1,5 @@
 [
     {
-        "code": "WITHKIANA",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "expired",
-        "rewards": [
-            {
-                "name": "Crystals\u00a0\u00d760",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Soon (was accidentally active for a bit on 01.02.2025)",
-            "note": "Surprise reward"
-        }
-    },
-    {
         "code": "LITTLEKNIGHT",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
