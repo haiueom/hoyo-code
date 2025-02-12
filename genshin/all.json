@@ -100,10 +100,32 @@
         }
     },
     {
+        "code": "GENSHINGIFT",
+        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d750",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 10, 2020",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
+        }
+    },
+    {
         "code": "WEAV365PI953",
         "link": "https://genshin.hoyoverse.com/gift?code=WEAV365PI953",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Withering Purpurbloom \u00d73",
@@ -129,30 +151,8 @@
         "duration": {
             "discovered": "December 31, 2024",
             "valid": null,
-            "expired": null,
+            "expired": "February 12, 2025",
             "notes": null
-        }
-    },
-    {
-        "code": "GENSHINGIFT",
-        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d750",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 10, 2020",
-            "valid": "(indefinite)",
-            "expired": null,
-            "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
         }
     },
     {
