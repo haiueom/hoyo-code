@@ -1,5 +1,31 @@
 [
     {
+        "code": "HSRANIMATE2025",
+        "link": "https://hsr.hoyoverse.com/gift?code=HSRANIMATE2025",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Lost Gold Fragment \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Chrysos Heir Dolium \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Item_Chrysos_Heir_Dolium.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 19, 2025",
+            "valid": null,
+            "expired": "February 14, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "ABC1GHIJ4567",
         "link": "https://hsr.hoyoverse.com/gift?code=ABC1GHIJ4567",
         "server": "All",
