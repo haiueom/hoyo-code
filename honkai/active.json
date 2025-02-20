@@ -1,5 +1,41 @@
 [
     {
+        "code": "C0JP1706GH",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Ba-Dum! Fiery Wishing Star Trial Card (3-Day)\u00a0\u00d71",
+                "image": ""
+            }
+        ],
+        "duration": {
+            "discovered": "Feb 20, 25",
+            "note": "???"
+        }
+    },
+    {
+        "code": "KIANA2025",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Twin Lucky Stars\u00a0\u00d71",
+                "image": ""
+            }
+        ],
+        "duration": {
+            "discovered": "Feb 20, 25",
+            "note": "???"
+        }
+    },
+    {
         "code": "WITHKIANA",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
