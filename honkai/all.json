@@ -1,5 +1,29 @@
 [
     {
+        "code": "BADUMISLAND",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d730",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Asterite\u00a0\u00d72888",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Ba-Dum! Fiery Wishing Star Trial Card (3-Day)\u00a0\u00d71",
+                "image": ""
+            }
+        ],
+        "duration": {
+            "discovered": "Feb 21, 25",
+            "note": "Surprise reward"
+        }
+    },
+    {
         "code": "LOVEKIANA",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
