@@ -1,5 +1,35 @@
 [
     {
+        "code": "POKAPOKAGENSHIN",
+        "link": "https://genshin.hoyoverse.com/gift?code=POKAPOKAGENSHIN",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Sea Ganoderma \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Dreams of Healing",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Dreams_of_Healing.png/revision/latest"
+            },
+            {
+                "name": "Kageuchi Handguard \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "February 21, 2025",
+            "valid": "March 23, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "RB5PPN4BV355",
         "link": "https://genshin.hoyoverse.com/gift?code=RB5PPN4BV355",
         "server": "All",
