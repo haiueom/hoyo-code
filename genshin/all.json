@@ -127,7 +127,7 @@
         "duration": {
             "discovered": "February 17, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "March 3, 2025",
             "notes": null
         }
     },
@@ -170,8 +170,8 @@
         ],
         "duration": {
             "discovered": "January 5, 2025",
-            "valid": "March 6, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "March 5, 2025",
             "notes": "Using any of the codes will render the other(s) unusable."
         }
     },
@@ -192,8 +192,8 @@
         ],
         "duration": {
             "discovered": "January 5, 2025",
-            "valid": "March 6, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "March 5, 2025",
             "notes": "Using any of the codes will render the other(s) unusable."
         }
     },
