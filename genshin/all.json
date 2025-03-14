@@ -1,5 +1,27 @@
 [
     {
+        "code": "GI55Teteocan",
+        "link": "https://genshin.hoyoverse.com/gift?code=GI55Teteocan",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "March 14, 2025",
+            "valid": "March 17, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "JRCB867O8KT3",
         "link": "https://genshin.hoyoverse.com/gift?code=JRCB867O8KT3",
         "server": "All",
