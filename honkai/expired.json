@@ -1,5 +1,25 @@
 [
     {
+        "code": "C0JP1706GH",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Ba-Dum! Fiery Wishing Star Trial Card (3-Day)\u00a0\u00d71",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c3/Ba-Dum%21_Fiery_Wishing_Star_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Feb 20, 25",
+            "note": "Surprise reward"
+        }
+    },
+    {
         "code": "HAPPINESS",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
