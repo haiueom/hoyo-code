@@ -104,22 +104,6 @@
         }
     },
     {
-        "code": "KIANA2025",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Twin Lucky Stars\u00a0\u00d71",
-                "image": ""
-            }
-        ],
-        "duration": {
-            "discovered": "Feb 20, 25",
-            "note": "Surprise reward"
-        }
-    },
-    {
         "code": "HONKAI24",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
