@@ -1,41 +1,5 @@
 [
     {
-        "code": "MemoriesWithU",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Crystals\u00a0\u00d7100",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Feb 23, 25",
-            "note": "Music with Her"
-        }
-    },
-    {
-        "code": "DBPAFAFTME3X",
-        "link": "",
-        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "HOHO Vacation Tickets\u00a0\u00d74",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/HOHO_Vacation_Tickets_%28Icon%29.png/revision/latest"
-            },
-            {
-                "name": "Stamina Potion\u00a0\u00d71",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Feb 22, 25",
-            "note": "Surprise reward"
-        }
-    },
-    {
         "code": "BADUMISLAND",
         "link": "",
         "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
