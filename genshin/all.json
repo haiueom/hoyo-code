@@ -1,5 +1,103 @@
 [
     {
+        "code": "SYVBY9I3MBI4",
+        "link": "https://genshin.hoyoverse.com/gift?code=SYVBY9I3MBI4",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d710,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "March 26, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "5AM75NYUGTTR",
+        "link": "https://genshin.hoyoverse.com/gift?code=5AM75NYUGTTR",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d720,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Blazed Meat Stew \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Blazed_Meat_Stew.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "March 26, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "GS55YTPY8X",
+        "link": "https://genshin.hoyoverse.com/gift?code=GS55YTPY8X",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Conflict \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Teachings_of_Conflict.png/revision/latest"
+            },
+            {
+                "name": "Vajrada Amethyst Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "March 21, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HS4NM7YDGC99",
         "link": "https://genshin.hoyoverse.com/gift?code=HS4NM7YDGC99",
         "server": "All",
