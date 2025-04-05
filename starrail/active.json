@@ -44,58 +44,6 @@
         }
     },
     {
-        "code": "2A3LF64ANXSX",
-        "link": "https://hsr.hoyoverse.com/gift?code=2A3LF64ANXSX",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Stellar Jade \u00d750",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "February 26, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "HSRINGAMESTOP",
-        "link": "https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Adventure Log \u00d74",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
-            },
-            {
-                "name": "Lost Gold Fragment \u00d72",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
-            },
-            {
-                "name": "Sweet Dreams Holographic Ticket \u00d73",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Item_Sweet_Dreams_Holographic_Ticket.png/revision/latest"
-            },
-            {
-                "name": "Credit \u00d710000",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 8, 2025",
-            "valid": "Unknown",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "IFYOUAREREADINGTHIS",
         "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS",
         "server": "All",
