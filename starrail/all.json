@@ -25,7 +25,7 @@
         "code": "DBKMW7MA6XB3",
         "link": "https://hsr.hoyoverse.com/gift?code=DBKMW7MA6XB3",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade \u00d750",
@@ -38,8 +38,8 @@
         ],
         "duration": {
             "discovered": "March 19, 2025",
-            "valid": "Unknown",
-            "expired": null,
+            "valid": null,
+            "expired": "April 8, 2025",
             "notes": null
         }
     },
