@@ -1,5 +1,27 @@
 [
     {
+        "code": "FAREWELL",
+        "link": "https://hsr.hoyoverse.com/gift?code=FAREWELL",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel \u00d71",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 10, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "FIGHTWELLMYDEI",
         "link": "https://hsr.hoyoverse.com/gift?code=FIGHTWELLMYDEI",
         "server": "All",
@@ -38,7 +60,7 @@
         ],
         "duration": {
             "discovered": "January 16, 2025",
-            "valid": "Unknown",
+            "valid": "(indefinite)",
             "expired": null,
             "notes": null
         }
