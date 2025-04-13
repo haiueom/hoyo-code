@@ -1,5 +1,31 @@
 [
     {
+        "code": "UAL6MXW8BUFH",
+        "link": "https://genshin.hoyoverse.com/gift?code=UAL6MXW8BUFH",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d720,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Secret Art \u00d72",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Secret_Art.png/revision/latest"
+            },
+            {
+                "name": "Honey-Glazed Ceviche \u00d72",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Honey-Glazed_Ceviche.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 13, 2025",
+            "valid": "April 20, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "SYVBY9I3MBI4",
         "link": "https://genshin.hoyoverse.com/gift?code=SYVBY9I3MBI4",
         "server": "All",
