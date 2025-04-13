@@ -90,40 +90,6 @@
         }
     },
     {
-        "code": "GS55YTPY8X",
-        "link": "https://genshin.hoyoverse.com/gift?code=GS55YTPY8X",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora \u00d730,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Conflict \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Teachings_of_Conflict.png/revision/latest"
-            },
-            {
-                "name": "Vajrada Amethyst Sliver \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "March 21, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
         "code": "HS4NM7YDGC99",
         "link": "https://genshin.hoyoverse.com/gift?code=HS4NM7YDGC99",
         "server": "All",
