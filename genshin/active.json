@@ -20,8 +20,8 @@
         ],
         "duration": {
             "discovered": "April 13, 2025",
-            "valid": null,
-            "expired": "April 20, 2025",
+            "valid": "April 20, 2025",
+            "expired": null,
             "notes": null
         }
     },
