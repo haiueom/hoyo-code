@@ -1,5 +1,49 @@
 [
     {
+        "code": "IfaCacucu0507",
+        "link": "https://genshin.hoyoverse.com/gift?code=IfaCacucu0507",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 25, 2025",
+            "valid": "April 28, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "ChefEscoffier0507",
+        "link": "https://genshin.hoyoverse.com/gift?code=ChefEscoffier0507",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 25, 2025",
+            "valid": "April 28, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "GI56Paralogism",
         "link": "https://genshin.hoyoverse.com/gift?code=GI56Paralogism",
         "server": "All",
