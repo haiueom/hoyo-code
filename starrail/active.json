@@ -1,5 +1,23 @@
 [
     {
+        "code": "EBKLKMGLVMG7",
+        "link": "https://hsr.hoyoverse.com/gift?code=EBKLKMGLVMG7",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7120",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 25, 2025",
+            "valid": "Unknown",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "FAREWELL",
         "link": "https://hsr.hoyoverse.com/gift?code=FAREWELL",
         "server": "All",
