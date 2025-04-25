@@ -1,5 +1,27 @@
 [
     {
+        "code": "GI56Paralogism",
+        "link": "https://genshin.hoyoverse.com/gift?code=GI56Paralogism",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 25, 2025",
+            "valid": "April 28, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "HS4NM7YDGC99",
         "link": "https://genshin.hoyoverse.com/gift?code=HS4NM7YDGC99",
         "server": "All",
