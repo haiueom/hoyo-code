@@ -1,5 +1,23 @@
 [
     {
+        "code": "NODKRAI0910",
+        "link": "https://genshin.hoyoverse.com/gift?code=NODKRAI0910",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7200",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "FATUI",
         "link": "https://genshin.hoyoverse.com/gift?code=FATUI",
         "server": "All",
