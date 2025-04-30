@@ -1,5 +1,95 @@
 [
     {
+        "code": "FATUI",
+        "link": "https://genshin.hoyoverse.com/gift?code=FATUI",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "FROSTMOONSCIONS",
+        "link": "https://genshin.hoyoverse.com/gift?code=FROSTMOONSCIONS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "LIGHTKEEPERS",
+        "link": "https://genshin.hoyoverse.com/gift?code=LIGHTKEEPERS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "THEWILDHUNT",
+        "link": "https://genshin.hoyoverse.com/gift?code=THEWILDHUNT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "VOYNICHGUILD",
+        "link": "https://genshin.hoyoverse.com/gift?code=VOYNICHGUILD",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 30, 2025",
+            "valid": "May 3, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "IfaCacucu0507",
         "link": "https://genshin.hoyoverse.com/gift?code=IfaCacucu0507",
         "server": "All",
