@@ -1,5 +1,39 @@
 [
     {
+        "code": "GS56YTI6X6",
+        "link": "https://genshin.hoyoverse.com/gift?code=GS56YTI6X6",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Shivada Jade Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Justice \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Teachings_of_Justice.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 4, 2025",
+            "valid": null,
+            "expired": "May 5, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "OSOIDWA2R5H3",
         "link": "https://genshin.hoyoverse.com/gift?code=OSOIDWA2R5H3",
         "server": "All",
