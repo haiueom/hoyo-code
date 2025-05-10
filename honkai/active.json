@@ -1,6 +1,7 @@
 [
     {
         "code": "ChowandChew",
+<<<<<<< HEAD
         "link": null,
         "server": "Global only (NA/EU)",
         "status": "active",
@@ -11,6 +12,18 @@
             },
             {
                 "name": "Material Option Type A ×1",
+=======
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "HOHO Vacation Tickets\u00a0\u00d74",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/HOHO_Vacation_Tickets_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Material Option Type A\u00a0\u00d71",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/86/Material_Option_Type_A_%28Icon%29.png/revision/latest"
             }
         ],
@@ -21,6 +34,7 @@
     },
     {
         "code": "CCQKLP02",
+<<<<<<< HEAD
         "link": null,
         "server": "Global only (NA/EU)",
         "status": "active",
@@ -31,6 +45,18 @@
             },
             {
                 "name": "HOHO Vacation Tickets ×4",
+=======
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "HOHO Vacation Tickets\u00a0\u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/HOHO_Vacation_Tickets_%28Icon%29.png/revision/latest"
             }
         ],
@@ -41,8 +67,29 @@
     },
     {
         "code": "HonkaiRemake",
+<<<<<<< HEAD
         "link": null,
         "server": "Global only (NA/EU)",
+=======
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals\u00a0\u00d760",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Apr 1, 25",
+            "note": "Honkai Impact 3rd Remake Trailer"
+        }
+    },
+    {
+        "code": "HONKAI24",
+        "link": "",
+        "server": "Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
         "status": "active",
         "rewards": [
             {

@@ -2,12 +2,100 @@
     {
         "code": "SAJ4KLZLDMW3",
         "link": "https://hsr.hoyoverse.com/gift?code=SAJ4KLZLDMW3",
+<<<<<<< HEAD
+=======
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 9, 2025",
+            "valid": "May 11, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "GT34K5Z4U4EX",
+        "link": "https://hsr.hoyoverse.com/gift?code=GT34K5Z4U4EX",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 9, 2025",
+            "valid": "May 11, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "WS25K4Y4C5ET",
+        "link": "https://hsr.hoyoverse.com/gift?code=WS25K4Y4C5ET",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 9, 2025",
+            "valid": "May 11, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "GA3M24Z5C5KT",
+        "link": "https://hsr.hoyoverse.com/gift?code=GA3M24Z5C5KT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 4, 2025",
+            "valid": "May 20, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "7T34K5YLU5GT",
+        "link": "https://hsr.hoyoverse.com/gift?code=7T34K5YLU5GT",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
         "server": "All",
         "status": "active",
         "rewards": [
             {
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+<<<<<<< HEAD
             },
             {
                 "name": "Refined Aether ×4",
@@ -95,6 +183,11 @@
             }
         ],
         "duration": {
+=======
+            }
+        ],
+        "duration": {
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
             "discovered": "April 30, 2025",
             "valid": "Unknown",
             "expired": null,
@@ -108,7 +201,11 @@
         "status": "active",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×120",
+=======
+                "name": "Stellar Jade \u00d7120",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             }
         ],
@@ -126,11 +223,19 @@
         "status": "active",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×60",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Fuel ×1",
+=======
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel \u00d71",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],
@@ -148,11 +253,19 @@
         "status": "active",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Golden Honeycake ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Golden Honeycake \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Item_Golden_Honeycake.png/revision/latest"
             }
         ],
@@ -170,11 +283,19 @@
         "status": "active",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×60",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Fuel ×1",
+=======
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel \u00d71",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],

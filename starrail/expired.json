@@ -6,11 +6,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -28,11 +36,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -50,11 +66,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -72,11 +96,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×50000",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -94,11 +126,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -116,6 +156,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Adventure Log ×4",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
             },
@@ -129,6 +170,21 @@
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Adventure Log \u00d74",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Lost Gold Fragment \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Sweet Dreams Holographic Ticket \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Item_Sweet_Dreams_Holographic_Ticket.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -146,11 +202,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -168,6 +232,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×60",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
@@ -181,6 +246,21 @@
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Stellar Jade \u00d760",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -198,11 +278,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Automatic Wooden Dummy ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Item_Automatic_Wooden_Dummy.png/revision/latest"
             },
             {
                 "name": "Adventure Log ×6",
+=======
+                "name": "Automatic Wooden Dummy \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Item_Automatic_Wooden_Dummy.png/revision/latest"
+            },
+            {
+                "name": "Adventure Log \u00d76",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
             }
         ],
@@ -220,11 +308,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Disposable Shield ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Item_Disposable_Shield.png/revision/latest"
             },
             {
                 "name": "Adventure Log ×6",
+=======
+                "name": "Disposable Shield \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Item_Disposable_Shield.png/revision/latest"
+            },
+            {
+                "name": "Adventure Log \u00d76",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
             }
         ],
@@ -242,11 +338,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Steelclaw Dagger ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Item_Steelclaw_Dagger.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Steelclaw Dagger \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Item_Steelclaw_Dagger.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -264,11 +368,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Life Transmitter ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Item_Life_Transmitter.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Life Transmitter \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Item_Life_Transmitter.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -286,11 +398,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Potato Fries Sundae ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
             },
             {
                 "name": "Credits ×5000",
+=======
+                "name": "Potato Fries Sundae \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
+            },
+            {
+                "name": "Credits \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -308,11 +428,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Golden Slumbernana ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Item_Golden_Slumbernana.png/revision/latest"
             },
             {
                 "name": "Credits ×5000",
+=======
+                "name": "Golden Slumbernana \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Item_Golden_Slumbernana.png/revision/latest"
+            },
+            {
+                "name": "Credits \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -330,11 +458,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Alfalfa Salad ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Item_Alfalfa_Salad.png/revision/latest"
             },
             {
                 "name": "Credits ×5000",
+=======
+                "name": "Alfalfa Salad \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Item_Alfalfa_Salad.png/revision/latest"
+            },
+            {
+                "name": "Credits \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -352,11 +488,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Odd Gummy Candy ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Odd Gummy Candy \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Odd_Gummy_Candy.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -374,11 +518,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Clockie Pizza (Whole) ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Clockie Pizza (Whole) \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Item_Clockie_Pizza_%28Whole%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -396,6 +548,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -405,6 +558,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Cosmic Fried Rice \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Item_Cosmic_Fried_Rice.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -422,11 +586,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -444,11 +616,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×50000",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -466,11 +646,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -488,11 +676,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -510,6 +706,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Lost Gold Fragment ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
             },
@@ -519,6 +716,17 @@
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Lost Gold Fragment \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Chrysos Heir Dolium \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Item_Chrysos_Heir_Dolium.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -536,11 +744,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credits ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credits \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -558,11 +774,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Rough Sketch ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Item_Rough_Sketch.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Rough Sketch \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Item_Rough_Sketch.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -580,11 +804,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -602,11 +834,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Potato Fries Sundae ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Potato Fries Sundae \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Item_Potato_Fries_Sundae.png/revision/latest"
             }
         ],
@@ -624,11 +864,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -646,11 +894,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×50000",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -668,11 +924,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -690,11 +954,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "High-Tech Protective Gear ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "High-Tech Protective Gear \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Item_High-Tech_Protective_Gear.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -712,6 +984,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Refined Aether ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             },
@@ -721,6 +994,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Refined Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -738,11 +1022,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Credit ×30000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d730000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -760,11 +1052,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -782,6 +1082,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Lost Crystal ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
@@ -791,6 +1092,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Dreamy Cone (Three Flavors) \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Item_Dreamy_Cone_%28Three_Flavors%29.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -808,11 +1120,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Immortal's Delight ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Immortal's Delight \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
             }
         ],
@@ -830,11 +1150,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Classic SoulGlad ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Classic SoulGlad \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Item_Classic_SoulGlad.png/revision/latest"
             }
         ],
@@ -852,11 +1180,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Immortal's Delight ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Immortal's Delight \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -874,11 +1210,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Halovian Winged Burger ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Halovian Winged Burger \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Item_Halovian_Winged_Burger.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -896,7 +1240,11 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×60",
+=======
+                "name": "Stellar Jade \u00d760",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             }
         ],
@@ -914,7 +1262,11 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×60",
+=======
+                "name": "Stellar Jade \u00d760",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             }
         ],
@@ -932,11 +1284,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×50000",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -954,11 +1314,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -976,11 +1344,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -998,11 +1374,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -1020,11 +1404,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -1042,6 +1434,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Adventure Log ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
             },
@@ -1051,6 +1444,17 @@
             },
             {
                 "name": "Crystal Lizard Satay ×2",
+=======
+                "name": "Adventure Log \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Lost Gold Fragment \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Item_Lost_Gold_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Crystal Lizard Satay \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Item_Crystal_Lizard_Satay.png/revision/latest"
             }
         ],
@@ -1068,11 +1472,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1090,11 +1502,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1112,11 +1532,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Dazzling Ninja Provisions ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Item_Dazzling_Ninja_Provisions.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Dazzling Ninja Provisions \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Item_Dazzling_Ninja_Provisions.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1134,11 +1562,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Refined Aether ×4",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Refined Aether \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             }
         ],
@@ -1156,11 +1592,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Traveler's Guide ×5",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Traveler's Guide \u00d75",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             }
         ],
@@ -1178,11 +1622,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×100",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×50000",
+=======
+                "name": "Stellar Jade \u00d7100",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d750000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1200,11 +1652,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Lost Crystal ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
             {
                 "name": "\"Dreamlight\" Mixed Sweets ×2",
+=======
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "\"Dreamlight\" Mixed Sweets \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Item_Dreamlight_Mixed_Sweets.png/revision/latest"
             }
         ],
@@ -1222,11 +1682,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Full-Auto Dreampaint Spray ×4",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Full-Auto Dreampaint Spray \u00d74",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Full-Auto_Dreampaint_Spray.png/revision/latest"
             }
         ],
@@ -1244,6 +1712,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Lost Crystal ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
@@ -1253,6 +1722,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Reduce Bananxiety \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Item_Reduce_Bananxiety.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1270,6 +1750,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1279,6 +1760,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Immortal's Delight \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1296,11 +1788,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1318,6 +1818,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1327,6 +1828,17 @@
             },
             {
                 "name": "Full-Auto Dreampaint Spray ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Adventure Log \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Item_Adventure_Log.png/revision/latest"
+            },
+            {
+                "name": "Full-Auto Dreampaint Spray \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Item_Full-Auto_Dreampaint_Spray.png/revision/latest"
             }
         ],
@@ -1344,6 +1856,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1353,6 +1866,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Banasocial Etiquette \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Item_Banasocial_Etiquette.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1370,6 +1894,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1379,6 +1904,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Rejuvenation Pellet \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Item_Rejuvenation_Pellet.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1418,11 +1954,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Stellar Jade ×50",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Stellar Jade \u00d750",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1440,6 +1984,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1449,6 +1994,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Rejuvenation Pellet \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Item_Rejuvenation_Pellet.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1646,6 +2202,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Refined Aether ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
             },
@@ -1655,6 +2212,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Refined Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Item_Refined_Aether.png/revision/latest"
+            },
+            {
+                "name": "Health Detox Pill \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Item_Health_Detox_Pill.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1672,6 +2240,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1681,6 +2250,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Jade Marrow Diffusion \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Item_Jade_Marrow_Diffusion.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1698,6 +2278,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -1707,6 +2288,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Immortal's Delight \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Item_Immortal%27s_Delight.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1724,11 +2316,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Five-Grain Jade Elixir ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Five-Grain Jade Elixir \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1746,11 +2346,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Jade Marrow Diffusion ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Item_Jade_Marrow_Diffusion.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Jade Marrow Diffusion \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Item_Jade_Marrow_Diffusion.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1768,11 +2376,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Bottled Soda ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Item_Bottled_Soda.png/revision/latest"
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Bottled Soda \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Item_Bottled_Soda.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1790,6 +2406,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Lost Crystal ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
             },
@@ -1799,6 +2416,17 @@
             },
             {
                 "name": "Credit ×20000",
+=======
+                "name": "Lost Crystal \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Item_Lost_Crystal.png/revision/latest"
+            },
+            {
+                "name": "Amber Huadiao Wine \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Item_Amber_Huadiao_Wine.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d720000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -1838,11 +2466,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
             {
                 "name": "Five-Grain Jade Elixir ×2",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Five-Grain Jade Elixir \u00d72",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Item_Five-Grain_Jade_Elixir.png/revision/latest"
             }
         ],
@@ -2172,6 +2808,7 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Traveler's Guide ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
             },
@@ -2181,6 +2818,17 @@
             },
             {
                 "name": "Steamed Puffergoat Milk ×3",
+=======
+                "name": "Traveler's Guide \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Sparse Aether \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Item_Sparse_Aether.png/revision/latest"
+            },
+            {
+                "name": "Steamed Puffergoat Milk \u00d73",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Item_Steamed_Puffergoat_Milk.png/revision/latest"
             }
         ],
@@ -2198,11 +2846,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Travel Encounters ×5",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Item_Travel_Encounters.png/revision/latest"
             },
             {
                 "name": "Scalegorge Spring Water ×3",
+=======
+                "name": "Travel Encounters \u00d75",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Item_Travel_Encounters.png/revision/latest"
+            },
+            {
+                "name": "Scalegorge Spring Water \u00d73",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Item_Scalegorge_Spring_Water.png/revision/latest"
             }
         ],
@@ -2448,11 +3104,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Firmament Note ×3",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Item_Firmament_Note.png/revision/latest"
             },
             {
                 "name": "Credit ×10000",
+=======
+                "name": "Firmament Note \u00d73",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Item_Firmament_Note.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d710000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
@@ -3066,11 +3730,19 @@
         "status": "expired",
         "rewards": [
             {
+<<<<<<< HEAD
                 "name": "Startaro Bubble ×2",
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Item_Startaro_Bubble.png/revision/latest"
             },
             {
                 "name": "Credit ×5000",
+=======
+                "name": "Startaro Bubble \u00d72",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Item_Startaro_Bubble.png/revision/latest"
+            },
+            {
+                "name": "Credit \u00d75000",
+>>>>>>> b191951df39952d4f831aa81fe35e790222418c7
                 "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
