@@ -1,10 +1,13 @@
 import json
+import os
 import re
 import requests
 from bs4 import BeautifulSoup
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
+from typing import List, Optional
 
 
+# === Data Classes ===
 @dataclass
 class Reward:
     name: str = ""
@@ -13,126 +16,194 @@ class Reward:
 
 @dataclass
 class Duration:
-    discovered: str = ""
-    valid: str = ""
-    expired: str = ""
-    notes: str = ""
+    discovered: Optional[str] = None
+    valid: Optional[str] = None
+    expired: Optional[str] = None
+    notes: Optional[str] = None
 
 
 @dataclass
 class Code:
-    code: str = ""
-    link: str = ""
-    server: str = ""
-    status: str = ""
-    rewards: list[Reward] = list
-    duration: Duration = dict
+    code: str
+    link: str
+    server: str
+    status: str
+    rewards: List[Reward]
+    duration: Duration
 
 
-def extract_reward_info(reward_cell) -> Reward:
-    reward_name = reward_cell.find("span", class_="item-text").text.strip()
-    reward_image_element = reward_cell.find("span", class_="item-image").find("img")
-    reward_image = (
-        reward_image_element.get("data-src", reward_image_element.get("src", None))
-        if reward_image_element
-        else None
-    )
-    if reward_image:
-        pattern = re.compile(r"\.(png|jpg|jpeg|gif|bmp|svg|webp).*")
-        reward_image = pattern.sub(r".\1", reward_image) + "/revision/latest"
-    return Reward(name=reward_name, image=reward_image)
+# === Util Functions ===
+def extract_reward_info(cell) -> Reward:
+    """Extract reward name and image from the cell."""
+    name = cell.find("span", class_="item-text").text.strip()
+    img_tag = cell.find("span", class_="item-image").find("img")
+
+    image_url = img_tag.get("data-src") or img_tag.get("src") if img_tag else None
+    if image_url:
+        image_url = re.sub(r"\.(png|jpe?g|gif|bmp|svg|webp).*", r".\1", image_url)
+        image_url += "/revision/latest"
+
+    return Reward(name=name, image=image_url or "")
 
 
-def extract_duration_info(duration_text) -> Duration:
-    text = duration_text.text.strip()
-    if duration_text.find_all("b"):
-        text = text + " ".join([b.text for b in duration_text.find_all("b")])
+def extract_duration_info(cell) -> Duration:
+    """Extract duration fields using regex."""
+    text = cell.text.strip()
+    if cell.find_all("b"):
+        text += " " + " ".join(b.text for b in cell.find_all("b"))
+
     pattern = re.compile(
-        r"Discovered: (\S+ \d+, \d+)(?:.*?Valid(?: until)?: ((?:\([^)]+\))|(?:\S+ \S+ \d+(?:, \d+)?)|Unknown))?(?:.*?Expired: (\S+ \d+, \d+))?(?:.*?Notes: (.+))?"
+        r"Discovered: (\S+ \d+, \d+)"
+        r"(?:.*?Valid(?: until)?: ((?:\([^)]+\))|(?:\S+ \S+ \d+(?:, \d+)?)|Unknown))?"
+        r"(?:.*?Expired: (\S+ \d+, \d+))?"
+        r"(?:.*?Notes: (.+))?"
     )
     match = pattern.match(text)
     if match:
-        groups = map(lambda x: x.strip() if x else None, match.groups())
-        return Duration(*groups)
-    return None
+        discovered, valid, expired, notes = (
+            x.strip() if x else None for x in match.groups()
+        )
+        return Duration(discovered, valid, expired, notes)
+
+    return Duration()
 
 
-def extract_status_info(duration_info) -> str:
-    if duration_info and duration_info.valid:
-        return "active"
-    else:
-        return "expired"
+def determine_status(duration: Duration) -> str:
+    """Determine if the code is active or expired."""
+    return (
+        "active"
+        if duration.valid
+        and "expired" not in (duration.valid.lower() if duration.valid else "")
+        else "expired"
+    )
 
 
-def parse_row(row) -> list[Code]:
+def parse_row(row) -> List[Code]:
+    """Parse a single row of the redemption table."""
     cols = row.find_all("td")
-    if len(cols) >= 2:
-        codes = [code.text for code in cols[0].find_all("code")]
-        if codes:
-            return [
-                Code(
-                    code=code,
-                    link=(
-                        cols[0].find_all("a")[1].get("href")
-                        if cols[0].find("sup")
-                        else cols[0].find("a").get("href")
-                    ),
-                    server=cols[1].text.strip(),
-                    rewards=[
-                        extract_reward_info(cell)
-                        for cell in cols[2].find_all("span", class_="item")
-                    ],
-                    duration=extract_duration_info(cols[3]),
-                    status=extract_status_info(extract_duration_info(cols[3])),
-                )
-                for code in codes
-            ]
-    return []
+    if len(cols) < 4:
+        return []
+
+    codes = [code.text for code in cols[0].find_all("code")]
+    link_tag = (
+        cols[0].find_all("a")[1]
+        if cols[0].find("sup") and len(cols[0].find_all("a")) > 1
+        else cols[0].find("a")
+    )
+    link = link_tag.get("href") if link_tag else ""
+
+    server = cols[1].text.strip()
+    rewards = [
+        extract_reward_info(cell) for cell in cols[2].find_all("span", class_="item")
+    ]
+    duration = extract_duration_info(cols[3])
+    status = determine_status(duration)
+
+    return [
+        Code(
+            code=code,
+            link=link,
+            server=server,
+            rewards=rewards,
+            duration=duration,
+            status=status,
+        )
+        for code in codes
+    ]
 
 
-def write_json(file: str, data: list[Code]) -> None:
-    with open(file, "w+") as f:
-        json.dump(data, f, indent=4, default=lambda o: o.__dict__)
+# === File I/O ===
+def save_json(file: str, data: List[Code]) -> None:
+    with open(file, "w", encoding="utf-8") as f:
+        json.dump([asdict(code) for code in data], f, indent=4, ensure_ascii=False)
 
 
-def write_txt(file: str, data: list[Code]) -> None:
-    with open(file, "w+") as f:
-        for i, entry in enumerate(data):
-            f.write(entry.code)
-            if i < len(data) - 1:
-                f.write("\n")
+def save_txt(file: str, data: List[Code]) -> None:
+    with open(file, "w", encoding="utf-8") as f:
+        f.write("\n".join(code.code for code in data))
 
 
-def scrape_all() -> list[Code]:
-    URL = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"
-    page = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
+# === Scraping Logic ===
+def scrape_codes() -> List[Code]:
+    url = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"
+    page = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(page.content, "html.parser")
-    table = soup.find("table")
-    table_body = table.find("tbody")
-    rows = table_body.find_all("tr")
-    data = [info for row in rows for info in parse_row(row)]
-    return data
+    rows = soup.select("table tbody tr")
+    return [code for row in rows for code in parse_row(row)]
 
 
-def main() -> None:
+def send_discord_notification(code: Code):
+    embed = {
+        "title": f"Starrail: `{code.code}`",
+        "color": 0x00FFFF,
+        "description": f"```Server: {code.server}\nLink: {code.link}\n\n",
+        "image": {"url": "https://i.ibb.co.com/Nng6s2rR/starrail.jpg"},
+        "footer": {"text": "Hoyo Code"},
+    }
+
+    # Tambahkan reward jika ada
+    if code.rewards:
+        reward_list = "\n".join([f"- {r.name}" for r in code.rewards])
+        embed["description"] += f"🎉 Rewards:\n{reward_list}\n\n"
+
+    if code.duration.notes:
+        embed["description"] += f"Notes: {code.duration.notes}\n```"
+
+    if code.duration.discovered:
+        embed["description"] += f"Discovered: {code.duration.discovered}\n"
+
+    if code.duration.valid:
+        embed["description"] += f"Valid Until: {code.duration.valid}\n"
+
+    if code.duration.expired:
+        embed["description"] += f"Expired: {code.duration.expired}\n"
+
+    embed["description"] += "```"
+
     try:
-        all_codes = scrape_all()
-        active = [code for code in all_codes if code.status == "active"]
-        expired = [code for code in all_codes if code.status == "expired"]
+        response = requests.post(os.getenv("DC_WH"), json={"embeds": [embed]})
+        response.raise_for_status()
+        print(f"✅ [Starrail] Notifikasi dikirim untuk kode: {code.code}")
+    except Exception as e:
+        print(f"❌ [Starrail] Gagal kirim notifikasi: {e}")
 
-        write_json("starrail/all.json", all_codes)
-        write_txt("starrail/all.txt", all_codes)
-        print(f"✅ Starrail: {len(all_codes)} codes")
 
-        write_json("starrail/active.json", active)
-        write_txt("starrail/active.txt", active)
-        print(f"✅ Starrail: {len(active)} active codes")
+# === Main Entry ===
+def main():
+    print("🔎 [Starrail] Mengecek kode terbaru...")
+    all_codes = scrape_codes()
+    active = [code for code in all_codes if code.status == "active"]
+    expired = [code for code in all_codes if code.status == "expired"]
 
-        write_json("starrail/expired.json", expired)
-        write_txt("starrail/expired.txt", expired)
-        print(f"✅ Starrail: {len(expired)} expired codes")
-    except:
-        print("❎ Starrail: Error retrieving data")
+    old_codes = []
+    if os.path.exists("starrail/all.json"):
+        with open("starrail/all.json", "r", encoding="utf-8") as f:
+            old_codes = json.load(f)
+    old_active_codes = {c["code"] for c in old_codes}
+
+    # Check for new active codes
+    new_active_codes = [c for c in active if c.code not in old_active_codes]
+
+    if new_active_codes:
+        for code in new_active_codes:
+            send_discord_notification(code)
+
+    save_json("starrail/all.json", all_codes)
+    save_json("starrail/active.json", active)
+    save_json("starrail/expired.json", expired)
+    save_txt("starrail/all.txt", all_codes)
+    save_txt("starrail/active.txt", active)
+    save_txt("starrail/expired.txt", expired)
+
+    print(
+        f"✅ [Starrail] Total: {len(all_codes)} | Aktif: {len(active)} | Expired: {len(expired)}"
+    )
+    if new_active_codes:
+        print(
+            f"📢 [Starrail] {len(new_active_codes)} kode baru ditemukan dan sudah dikirim ke Discord."
+        )
+    else:
+        print("❎ [Starrail] Tidak ada kode baru.")
 
 
 if __name__ == "__main__":

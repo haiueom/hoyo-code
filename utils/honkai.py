@@ -1,112 +1,176 @@
 import json
+import os
 import re
+import time
 import requests
 from bs4 import BeautifulSoup
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
+from typing import List, Optional
+
+
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 
 
 @dataclass
 class Reward:
-    name: str = ""
-    image: str = ""
+    name: str
+    image: str
 
 
 @dataclass
 class Duration:
-    discovered: str = ""
-    valid: str = ""
-    expired: str = ""
-    notes: str = ""
+    discovered: str
+    note: str
 
 
 @dataclass
 class Code:
-    code: str = ""
-    link: str = ""
-    server: str = ""
-    status: str = ""
-    rewards: list[Reward] = list
-    duration: Duration = dict
+    code: str
+    link: Optional[str]
+    server: str
+    status: str
+    rewards: List[Reward]
+    duration: Duration
 
 
-def extract_reward_info(reward_cell) -> Reward:
-    image = reward_cell.find("img")
-    if image:
-        reward_image = image.get("data-src", image.get("src", None))
-        if reward_image:
-            pattern = re.compile(r"\.(png|jpg|jpeg|gif|bmp|svg|webp).*")
-            reward_image = pattern.sub(r".\1", reward_image) + "/revision/latest"
+def extract_reward_info(cell) -> Reward:
+    image_tag = cell.find("img")
+    name = cell.find("b").text.strip() if cell.find("b") else ""
+
+    if image_tag:
+        reward_image = image_tag.get("data-src") or image_tag.get("src", "")
+        pattern = re.compile(r"\.(png|jpg|jpeg|gif|bmp|svg|webp).*")
+        reward_image = pattern.sub(r".\1", reward_image) + "/revision/latest"
     else:
         reward_image = ""
 
-    reward_name = reward_cell.find("b").text.strip()
-
-    return Reward(name=reward_name, image=reward_image)
+    return Reward(name=name, image=reward_image)
 
 
-def parse_row(row) -> Code:
+def parse_row(row) -> Optional[Code]:
     cols = row.find_all("td")
-    codes = Code(
-        code=cols[0].find("b").text.strip(),
-        server="Global only, covering NA and EU. For any other region, such as SEA, CN, JP, or KR, these codes will not work",
-        status="expired" if "Yes" in cols[4].text.strip() else "active",
-        rewards=[
-            extract_reward_info(cell)
-            for cell in cols[3].find_all("div", class_="infobox-half")
-        ],
-        duration={"discovered": cols[1].text.strip(), "note": cols[2].text.strip()},
+    if len(cols) < 5:
+        return None
+
+    code = cols[0].find("b").text.strip()
+    discovered = cols[1].text.strip()
+    note = cols[2].text.strip()
+    status = "expired" if "Yes" in cols[4].text else "active"
+
+    rewards = [
+        extract_reward_info(div)
+        for div in cols[3].find_all("div", class_="infobox-half")
+    ]
+
+    return Code(
+        code=code,
+        link=None,
+        server="Global only (NA/EU)",
+        status=status,
+        rewards=rewards,
+        duration=Duration(discovered=discovered, note=note),
     )
-    return codes
 
 
-def write_json(file, data) -> None:
-    with open(file, "w+") as f:
-        json.dump(data, f, indent=4, default=lambda o: o.__dict__)
-
-
-def write_txt(file: str, data: list[Code]) -> None:
-    with open(file, "w+") as f:
-        for i, entry in enumerate(data):
-            f.write(entry.code)
-            if i < len(data) - 1:
-                f.write("\n")
-
-
-def scrape_all() -> list[Code]:
+def scrape_all() -> List[Code]:
     URL = "https://honkaiimpact3.fandom.com/wiki/Exchange_Rewards"
-    page = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
-    soup = BeautifulSoup(page.content, "html.parser")
+    res = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
+    soup = BeautifulSoup(res.content, "html.parser")
+
+    all_codes = []
     tables = soup.find("div", class_="mw-parser-output").find_all("table")
-    datas = []
+
     for table in tables:
-        table_body = table.find("tbody")
-        rows = table_body.find_all("tr")
-        rows = rows[1:]
+        rows = table.find_all("tr")[1:]  # skip header
         for row in rows:
-            data = parse_row(row)
-            datas.append(data)
-    return datas
+            code = parse_row(row)
+            if code:
+                all_codes.append(code)
+
+    return all_codes
 
 
-def main() -> None:
+def write_json(filepath: str, data: List[Code]) -> None:
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump([asdict(code) for code in data], f, indent=4, ensure_ascii=False)
+
+
+def write_txt(filepath: str, data: List[Code]) -> None:
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write("\n".join(code.code for code in data))
+
+
+def read_existing_codes(filepath: str) -> List[str]:
+    if not os.path.exists(filepath):
+        return []
+    with open(filepath, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f.readlines()]
+
+
+def send_discord_notification(code: Code):
+    embed = {
+        "title": f"🎁 Genshin: `{code.code}`",
+        "color": 0x00FFFF,
+        "description": f"```Server: {code.server}\nLink: {code.link}\n\n",
+        "footer": {"text": "Hoyo Code"},
+        "image": {"url": "https://i.ibb.co.com/mryQSWvT/honkai.jpg"},
+    }
+
+    # Tambahkan reward jika ada
+    if code.rewards:
+        reward_list = "\n".join([f"- {r.name}" for r in code.rewards])
+        embed["description"] += f"🎉 Rewards:\n{reward_list}\n\n"
+
+    if code.duration.notes:
+        embed["description"] += f"Notes: {code.duration.notes}\n```"
+
+    if code.duration.discovered:
+        embed["description"] += f"Discovered: {code.duration.discovered}\n"
+
+    if code.duration.valid:
+        embed["description"] += f"Valid Until: {code.duration.valid}\n"
+
+    if code.duration.expired:
+        embed["description"] += f"Expired: {code.duration.expired}\n"
+
+    embed["description"] += "```"
+
     try:
-        all = scrape_all()
-        active = [code for code in all if code.status == "active"]
-        expired = [code for code in all if code.status == "expired"]
+        response = requests.post(DISCORD_WEBHOOK_URL, json={"embeds": [embed]})
+        response.raise_for_status()
+        print(f"✅ [Genshin] Notifikasi dikirim untuk kode: {code.code}")
+    except Exception as e:
+        print(f"❌ [Genshin] Gagal kirim notifikasi: {e}")
 
-        write_json("honkai/all.json", all)
-        write_txt("honkai/all.txt", all)
-        print(f"✅ Honkai: {len(all)} codes")
 
-        write_json("honkai/active.json", active)
-        write_txt("honkai/active.txt", active)
-        print(f"✅ Honkai: {len(active)} active codes")
+def main():
+    all_codes = scrape_all()
+    active_codes = [c for c in all_codes if c.status == "active"]
+    expired_codes = [c for c in all_codes if c.status == "expired"]
 
-        write_json("honkai/expired.json", expired)
-        write_txt("honkai/expired.txt", expired)
-        print(f"✅ Honkai: {len(expired)} expired codes")
-    except:
-        print("❎ Honkai: Error retrieving data")
+    os.makedirs("honkai", exist_ok=True)
+
+    write_json("honkai/all.json", all_codes)
+    write_txt("honkai/all.txt", all_codes)
+
+    write_json("honkai/active.json", active_codes)
+    write_txt("honkai/active.txt", active_codes)
+
+    write_json("honkai/expired.json", expired_codes)
+    write_txt("honkai/expired.txt", expired_codes)
+
+    # Notify only new active codes
+    old_active = read_existing_codes("honkai/active.txt")
+    new_codes = [code for code in active_codes if code.code not in old_active]
+
+    for code in new_codes:
+        send_discord_notification(code)
+
+    print(
+        f"✅ Honkai: {len(all_codes)} total, {len(active_codes)} active, {len(expired_codes)} expired"
+    )
+    if new_codes:
+        print(f"📢 Sent {len(new_codes)} new active codes to Discord")
 
 
 if __name__ == "__main__":
