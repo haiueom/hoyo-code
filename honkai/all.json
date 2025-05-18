@@ -547,7 +547,7 @@
         "rewards": [
             {
                 "name": "Jovial Deception: Shadowdimmer Trial Card (3-Day) ×1",
-                "image": ""
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2d/Jovial_Deception_-_Shadowdimmer_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
             },
             {
                 "name": "Asterite ×2888",
@@ -555,7 +555,7 @@
             }
         ],
         "duration": {
-            "discovered": "Jul 19, 24",
+            "discovered": "Jul 26, 24",
             "note": "Surprise reward"
         }
     },
