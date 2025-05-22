@@ -196,7 +196,7 @@ def main():
     save_txt("starrail/expired.txt", expired)
 
     print(
-        f"✅ [Starrail] Total: {len(all_codes)} | Aktif: {len(active)} | Expired: {len(expired)}"
+        f"✅ [Starrail] Total: {len(all_codes)}, Aktif: {len(active)}, Expired: {len(expired)}"
     )
     if new_active_codes:
         print(

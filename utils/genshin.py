@@ -204,7 +204,7 @@ def main():
     save_txt("genshin/expired.txt", expired_codes)
 
     print(
-        f"✅ [Genshin] Total: {len(all_codes)} | Aktif: {len(active_codes)} | Expired: {len(expired_codes)}"
+        f"✅ [Genshin] Total: {len(all_codes)}, Aktif: {len(active_codes)}, Expired: {len(expired_codes)}"
     )
     if new_active_codes:
         print(

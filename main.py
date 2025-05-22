@@ -1,5 +1,7 @@
 import concurrent.futures
 import os
+import shutil
+import argparse
 
 from utils.genshin import main as genshin
 from utils.honkai import main as honkai
@@ -7,16 +9,24 @@ from utils.starrail import main as starrail
 
 
 def check_dirs():
-    if not os.path.exists("genshin"):
-        os.makedirs("genshin")
-    if not os.path.exists("honkai"):
-        os.makedirs("honkai")
-    if not os.path.exists("starrail"):
-        os.makedirs("starrail")
+    for folder in ["genshin", "honkai", "starrail"]:
+        os.makedirs(folder, exist_ok=True)
 
 
-def main():
+def reset_folders():
+    for folder in ["genshin", "honkai", "starrail"]:
+        if os.path.exists(folder):
+            shutil.rmtree(folder)
     check_dirs()
+    print("🔄 Folders have been reset.")
+
+
+def main(reset=False):
+    if reset:
+        reset_folders()
+    else:
+        check_dirs()
+
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = [
             executor.submit(genshin),
@@ -26,8 +36,12 @@ def main():
 
         concurrent.futures.wait(futures)
 
-    print("✅ Data updated")
+    print("✅ [Main] Data updated")
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Check and update data folders.")
+    parser.add_argument("-r", "--reset", action="store_true", help="Reset all data folders before running.")
+
+    args = parser.parse_args()
+    main(reset=args.reset)

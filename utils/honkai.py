@@ -167,10 +167,10 @@ def main():
         send_discord_notification(code)
 
     print(
-        f"✅ Honkai: {len(all_codes)} total, {len(active_codes)} active, {len(expired_codes)} expired"
+        f"✅ [Honkai] Total: {len(all_codes)}, Aktif: {len(active_codes)}, Expired: {len(expired_codes)}"
     )
     if new_codes:
-        print(f"📢 Sent {len(new_codes)} new active codes to Discord")
+        print(f"📢 [Honkai] Sent {len(new_codes)} new active codes to Discord")
 
 
 if __name__ == "__main__":
