@@ -1,5 +1,31 @@
 [
     {
+        "code": "56CacucuVSAjaw",
+        "link": "https://genshin.hoyoverse.com/gift?code=56CacucuVSAjaw",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d730",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d720,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 13, 2025",
+            "valid": null,
+            "expired": "May 21, 2025",
+            "notes": null
+        }
+    },
+    {
         "code": "GS56YTI6X6",
         "link": "https://genshin.hoyoverse.com/gift?code=GS56YTI6X6",
         "server": "All",
