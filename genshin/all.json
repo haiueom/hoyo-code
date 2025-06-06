@@ -16,7 +16,29 @@
         ],
         "duration": {
             "discovered": "June 5, 2025",
-            "valid": null,
+            "valid": "June 9, 2025",
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "YourSpaceTime",
+        "link": "https://genshin.hoyoverse.com/gift?code=YourSpaceTime",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 5, 2025",
+            "valid": "June 9, 2025",
             "expired": null,
             "notes": null
         }
@@ -38,7 +60,7 @@
         ],
         "duration": {
             "discovered": "June 5, 2025",
-            "valid": null,
+            "valid": "June 9, 2025",
             "expired": null,
             "notes": null
         }
