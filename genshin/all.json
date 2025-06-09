@@ -1,5 +1,39 @@
 [
     {
+        "code": "GS57YTSNLJ",
+        "link": "https://genshin.hoyoverse.com/gift?code=GS57YTSNLJ",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Contention \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
+            },
+            {
+                "name": "Shivada Jade Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 9, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
         "code": "VoidStar0618",
         "link": "https://genshin.hoyoverse.com/gift?code=VoidStar0618",
         "server": "All",
@@ -16,8 +50,8 @@
         ],
         "duration": {
             "discovered": "June 5, 2025",
-            "valid": "June 9, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 9, 2025",
             "notes": null
         }
     },
@@ -38,8 +72,8 @@
         ],
         "duration": {
             "discovered": "June 5, 2025",
-            "valid": "June 9, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 9, 2025",
             "notes": null
         }
     },
@@ -60,8 +94,8 @@
         ],
         "duration": {
             "discovered": "June 5, 2025",
-            "valid": "June 9, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 9, 2025",
             "notes": null
         }
     },
