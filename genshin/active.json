@@ -171,7 +171,7 @@
         "duration": {
             "discovered": "May 9, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "June 8, 2025",
             "notes": null
         }
     },
@@ -205,7 +205,7 @@
         "duration": {
             "discovered": "May 8, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "June 8, 2025",
             "notes": null
         }
     },
@@ -249,7 +249,7 @@
         "duration": {
             "discovered": "March 22, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "June 8, 2025",
             "notes": null
         }
     },
