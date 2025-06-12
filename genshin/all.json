@@ -136,7 +136,7 @@
     {
         "code": "VoidStar0618",
         "link": "https://genshin.hoyoverse.com/gift?code=VoidStar0618",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -158,7 +158,73 @@
     {
         "code": "YourSpaceTime",
         "link": "https://genshin.hoyoverse.com/gift?code=YourSpaceTime",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 6, 2025",
+            "valid": null,
+            "expired": "June 9, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "MasterSkirk0618",
+        "link": "https://genshin.hoyoverse.com/gift?code=MasterSkirk0618",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d710",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 5, 2025",
+            "valid": null,
+            "expired": "June 9, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "SHEZHIQIBIAN",
+        "link": "",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem \u00d7100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora \u00d750,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 5, 2025",
+            "valid": null,
+            "expired": "June 9, 2025",
+            "notes": null
+        }
+    },
+    {
+        "code": "SHIKONG",
+        "link": "",
+        "server": "China",
         "status": "expired",
         "rewards": [
             {
@@ -178,9 +244,9 @@
         }
     },
     {
-        "code": "MasterSkirk0618",
-        "link": "https://genshin.hoyoverse.com/gift?code=MasterSkirk0618",
-        "server": "All",
+        "code": "SIKEKE0618",
+        "link": "",
+        "server": "China",
         "status": "expired",
         "rewards": [
             {
