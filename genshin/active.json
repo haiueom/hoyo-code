@@ -1,16 +1,15 @@
 [
     {
         "code": "8QD412QXCEU1",
-        "link": "https://genshin.hoyoverse.com/gift?code=8QD412QXCEU1",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Primogem \u00d760",
+                "name": "Primogem ×60",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
             },
             {
-                "name": "Adventurer's Experience \u00d75",
+                "name": "Adventurer's Experience ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
             }
         ],
@@ -19,32 +18,32 @@
             "valid": null,
             "expired": null,
             "notes": null
-        }
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=8QD412QXCEU1"
     },
     {
         "code": "GS57YTSNLJ",
-        "link": "https://genshin.hoyoverse.com/gift?code=GS57YTSNLJ",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Mora \u00d730,000",
+                "name": "Mora ×30,000",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
             },
             {
-                "name": "Hero's Wit \u00d73",
+                "name": "Hero's Wit ×3",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
             },
             {
-                "name": "Mystic Enhancement Ore \u00d75",
+                "name": "Mystic Enhancement Ore ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
             },
             {
-                "name": "Teachings of Contention \u00d73",
+                "name": "Teachings of Contention ×3",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
             },
             {
-                "name": "Shivada Jade Sliver \u00d73",
+                "name": "Shivada Jade Sliver ×3",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png/revision/latest"
             }
         ],
@@ -53,32 +52,32 @@
             "valid": null,
             "expired": null,
             "notes": null
-        }
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GS57YTSNLJ"
     },
     {
         "code": "LWKC638ULB16",
-        "link": "https://genshin.hoyoverse.com/gift?code=LWKC638ULB16",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Mora \u00d710,000",
+                "name": "Mora ×10,000",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
             },
             {
-                "name": "Adventurer's Experience \u00d710",
+                "name": "Adventurer's Experience ×10",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
             },
             {
-                "name": "Fine Enhancement Ore \u00d75",
+                "name": "Fine Enhancement Ore ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
             },
             {
-                "name": "Stir-Fried Fish Noodles \u00d75",
+                "name": "Stir-Fried Fish Noodles ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
             },
             {
-                "name": "Jueyun Chili Chicken \u00d75",
+                "name": "Jueyun Chili Chicken ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
             }
         ],
@@ -87,20 +86,20 @@
             "valid": null,
             "expired": null,
             "notes": null
-        }
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=LWKC638ULB16"
     },
     {
         "code": "ZT5RJ4AX4WYV",
-        "link": "https://genshin.hoyoverse.com/gift?code=ZT5RJ4AX4WYV",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Primogem \u00d760",
+                "name": "Primogem ×60",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
             },
             {
-                "name": "Adventurer's Experience \u00d75",
+                "name": "Adventurer's Experience ×5",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
             }
         ],
@@ -109,20 +108,20 @@
             "valid": null,
             "expired": null,
             "notes": null
-        }
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=ZT5RJ4AX4WYV"
     },
     {
         "code": "GENSHINGIFT",
-        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Primogem \u00d750",
+                "name": "Primogem ×50",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
             },
             {
-                "name": "Hero's Wit \u00d73",
+                "name": "Hero's Wit ×3",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
             }
         ],
@@ -131,6 +130,7 @@
             "valid": "(indefinite)",
             "expired": null,
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
-        }
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT"
     }
 ]

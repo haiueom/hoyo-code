@@ -1,47 +1,52 @@
+# main.py
 import concurrent.futures
 import os
 import shutil
 import argparse
 
-from utils.genshin import main as genshin
-from utils.honkai import main as honkai
-from utils.starrail import main as starrail
-
-
-def check_dirs():
-    for folder in ["genshin", "honkai", "starrail"]:
-        os.makedirs(folder, exist_ok=True)
+# Import the specific scraper classes
+from utils.genshin_scraper import GenshinScraper
+from utils.honkai_scraper import HonkaiScraper
+from utils.starrail_scraper import StarrailScraper
 
 
 def reset_folders():
+    """Deletes and recreates game-specific data folders."""
+    print("🔄 Resetting data folders...")
     for folder in ["genshin", "honkai", "starrail"]:
         if os.path.exists(folder):
             shutil.rmtree(folder)
-    check_dirs()
-    print("🔄 Folders have been reset.")
+        os.makedirs(folder, exist_ok=True)
+    print("✅ Folders have been reset.")
 
 
-def main(reset=False):
-    if reset:
+def main(should_reset=False):
+    """Initializes and runs all game scrapers."""
+    if should_reset:
         reset_folders()
-    else:
-        check_dirs()
 
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [
-            executor.submit(genshin),
-            executor.submit(honkai),
-            executor.submit(starrail),
-        ]
+    scrapers = [
+        GenshinScraper(),
+        HonkaiScraper(),
+        StarrailScraper(),
+    ]
 
-        concurrent.futures.wait(futures)
+    # Run scrapers in parallel for efficiency
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(scrapers)) as executor:
+        executor.map(lambda s: s.run(), scrapers)
 
-    print("✅ [Main] Data updated")
+    print("\n✅ All scrapers have finished their tasks.")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Check and update data folders.")
-    parser.add_argument("-r", "--reset", action="store_true", help="Reset all data folders before running.")
-
+    parser = argparse.ArgumentParser(
+        description="Scrape promotional codes for Hoyoverse games."
+    )
+    parser.add_argument(
+        "-r",
+        "--reset",
+        action="store_true",
+        help="Reset all data folders before running.",
+    )
     args = parser.parse_args()
-    main(reset=args.reset)
+    main(should_reset=args.reset)

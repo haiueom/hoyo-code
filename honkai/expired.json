@@ -1,7 +1,6 @@
 [
     {
         "code": "ChowandChew",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -16,12 +15,14 @@
         ],
         "duration": {
             "discovered": "Apr 25, 25",
-            "note": "Sushang in Shenzhou Live Streaming Now!"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Sushang in Shenzhou Live Streaming Now!"
+        },
+        "link": null
     },
     {
         "code": "CCQKLP02",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -36,12 +37,14 @@
         ],
         "duration": {
             "discovered": "Apr 24, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MASTERCHEF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -52,12 +55,14 @@
         ],
         "duration": {
             "discovered": "Apr 17, 25",
-            "note": "8.2 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "8.2 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "MemoriesWithU",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -68,12 +73,14 @@
         ],
         "duration": {
             "discovered": "Feb 23, 25",
-            "note": "Music with Her"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Music with Her"
+        },
+        "link": null
     },
     {
         "code": "DBPAFAFTME3X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -88,12 +95,14 @@
         ],
         "duration": {
             "discovered": "Feb 22, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "BADUMISLAND",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -112,12 +121,14 @@
         ],
         "duration": {
             "discovered": "Feb 21, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LOVEKIANA",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -128,12 +139,14 @@
         ],
         "duration": {
             "discovered": "Feb 21, 25",
-            "note": "Bingo! It's Kiana!"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Bingo! It's Kiana!"
+        },
+        "link": null
     },
     {
         "code": "MOONTUNA",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -156,12 +169,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "C0JP1706GH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -176,12 +191,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "KIANA2025",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -192,12 +209,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HAPPINESS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -216,12 +235,14 @@
         ],
         "duration": {
             "discovered": "Feb 15, 25",
-            "note": "8.1 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "8.1 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "WITHKIANA",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -232,12 +253,14 @@
         ],
         "duration": {
             "discovered": "Jan 7, 25",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LITTLEKNIGHT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -248,12 +271,14 @@
         ],
         "duration": {
             "discovered": "Jan 2, 25",
-            "note": "8.0 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "8.0 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "HI3NEWYEAR",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -264,12 +289,14 @@
         ],
         "duration": {
             "discovered": "Jan 1, 25",
-            "note": "Valkyries' New Year Gifts"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Valkyries' New Year Gifts"
+        },
+        "link": null
     },
     {
         "code": "SONGQUESGIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -280,12 +307,14 @@
         ],
         "duration": {
             "discovered": "Dec 27, 24",
-            "note": "Valkyries' New Year Gifts"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Valkyries' New Year Gifts"
+        },
+        "link": null
     },
     {
         "code": "DURANDALGIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -296,12 +325,14 @@
         ],
         "duration": {
             "discovered": "Dec 27, 24",
-            "note": "Valkyries' New Year Gifts"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Valkyries' New Year Gifts"
+        },
+        "link": null
     },
     {
         "code": "SPARKLEGIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -312,12 +343,14 @@
         ],
         "duration": {
             "discovered": "Dec 27, 24",
-            "note": "Valkyries' New Year Gifts"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Valkyries' New Year Gifts"
+        },
+        "link": null
     },
     {
         "code": "KIANAGIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -328,12 +361,14 @@
         ],
         "duration": {
             "discovered": "Dec 27, 24",
-            "note": "Valkyries' New Year Gifts"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Valkyries' New Year Gifts"
+        },
+        "link": null
     },
     {
         "code": "LAQPV7KM9F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -352,12 +387,14 @@
         ],
         "duration": {
             "discovered": "Dec 1, 24",
-            "note": "Honkai Impact 3rd Twitch Live Stream Incentives, shared by Twitch streamer Edyssey"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Impact 3rd Twitch Live Stream Incentives, shared by Twitch streamer Edyssey"
+        },
+        "link": null
     },
     {
         "code": "30KP7NTGCM",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -376,12 +413,14 @@
         ],
         "duration": {
             "discovered": "Nov 30, 24",
-            "note": "Honkai Impact 3rd Twitch Live Stream Incentives"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Impact 3rd Twitch Live Stream Incentives"
+        },
+        "link": null
     },
     {
         "code": "HonkaixHonkai",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -392,12 +431,14 @@
         ],
         "duration": {
             "discovered": "Nov 28, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "SparkleImpact3rd",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -408,12 +449,14 @@
         ],
         "duration": {
             "discovered": "Nov 28, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "VISITOR",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -424,12 +467,14 @@
         ],
         "duration": {
             "discovered": "Nov 21, 24",
-            "note": "7.9 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.9 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "8AV7CPH0SA",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -440,12 +485,14 @@
         ],
         "duration": {
             "discovered": "Oct 28, 24",
-            "note": "Castle Encounters, Trick or Treat?"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Castle Encounters, Trick or Treat?"
+        },
+        "link": null
     },
     {
         "code": "COETTFFR36",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -456,12 +503,14 @@
         ],
         "duration": {
             "discovered": "Oct 28, 24",
-            "note": "Castle Encounters, Trick or Treat?"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Castle Encounters, Trick or Treat?"
+        },
+        "link": null
     },
     {
         "code": "MSPBJZBLNTR2",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -472,12 +521,14 @@
         ],
         "duration": {
             "discovered": "Oct 23, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "VitaVSLeylah",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -488,12 +539,14 @@
         ],
         "duration": {
             "discovered": "Oct 22, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "BADWOMEN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -504,12 +557,14 @@
         ],
         "duration": {
             "discovered": "Oct 10, 24",
-            "note": "7.8 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.8 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "TERIRIRETURN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -520,12 +575,14 @@
         ],
         "duration": {
             "discovered": "Aug 30, 24",
-            "note": "7.7 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.7 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "SHADOWSHOW",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -540,12 +597,14 @@
         ],
         "duration": {
             "discovered": "Jul 26, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "V75GIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -564,12 +623,14 @@
         ],
         "duration": {
             "discovered": "Jul 19, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LITTLEQUE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -580,12 +641,14 @@
         ],
         "duration": {
             "discovered": "Jul 18, 24",
-            "note": "7.6 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.6 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "LOLLIPOP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -596,12 +659,14 @@
         ],
         "duration": {
             "discovered": "May 31, 24",
-            "note": "7.5 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.5 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "2B6TFBU5CUYB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -612,12 +677,14 @@
         ],
         "duration": {
             "discovered": "May 11, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "BANQUETROSE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -632,12 +699,14 @@
         ],
         "duration": {
             "discovered": "Apr 26, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "PLEASURE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -648,12 +717,14 @@
         ],
         "duration": {
             "discovered": "Apr 19, 24",
-            "note": "7.4 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.4 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "SSNTEX9W8UJB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -664,12 +735,14 @@
         ],
         "duration": {
             "discovered": "Mar 29, 24",
-            "note": "Part 2 Retweet Event #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Part 2 Retweet Event #2"
+        },
+        "link": null
     },
     {
         "code": "WB6AWERE8VZP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -680,12 +753,14 @@
         ],
         "duration": {
             "discovered": "Mar 8, 24",
-            "note": "Part 2 Retweet Event #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Part 2 Retweet Event #1"
+        },
+        "link": null
     },
     {
         "code": "PART2GIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -704,12 +779,14 @@
         ],
         "duration": {
             "discovered": "Mar 7, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TRIP2MARS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -728,12 +805,14 @@
         ],
         "duration": {
             "discovered": "Mar 7, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HEADTOMARS229",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -744,12 +823,14 @@
         ],
         "duration": {
             "discovered": "Feb 24, 24",
-            "note": "Part 2 Special Program"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Part 2 Special Program"
+        },
+        "link": null
     },
     {
         "code": "MARSWISHES",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -760,12 +841,14 @@
         ],
         "duration": {
             "discovered": "Feb 24, 24",
-            "note": "Part 2 Special Program"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Part 2 Special Program"
+        },
+        "link": null
     },
     {
         "code": "MARSBONUS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -776,12 +859,14 @@
         ],
         "duration": {
             "discovered": "Feb 24, 24",
-            "note": "Part 2 Special Program"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Part 2 Special Program"
+        },
+        "link": null
     },
     {
         "code": "VER72GIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -800,12 +885,14 @@
         ],
         "duration": {
             "discovered": "Jan 23, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "KFPHOENIX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -824,12 +911,14 @@
         ],
         "duration": {
             "discovered": "Jan 21, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "FENGHUANG",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -840,12 +929,14 @@
         ],
         "duration": {
             "discovered": "Jan 12, 24",
-            "note": "7.2 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.2 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "VER71GIFT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -864,12 +955,14 @@
         ],
         "duration": {
             "discovered": "Jan 9, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HONKAI23",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -888,12 +981,14 @@
         ],
         "duration": {
             "discovered": "Dec 9, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "YATTASENTI",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -912,12 +1007,14 @@
         ],
         "duration": {
             "discovered": "Dec 9, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "STARBOUND",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -928,12 +1025,14 @@
         ],
         "duration": {
             "discovered": "Dec 1, 23",
-            "note": "7.1 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.1 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "LUNA888",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -952,12 +1051,14 @@
         ],
         "duration": {
             "discovered": "Oct 26, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "REDMOON",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -976,12 +1077,14 @@
         ],
         "duration": {
             "discovered": "Oct 26, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "CRIMSONLOVE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -992,12 +1095,14 @@
         ],
         "duration": {
             "discovered": "Oct 20, 23",
-            "note": "7.0 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "7.0 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "MAGICALGIRL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1008,12 +1113,14 @@
         ],
         "duration": {
             "discovered": "Sep 08, 23",
-            "note": "6.9 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.9 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "VERSEELE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1032,12 +1139,14 @@
         ],
         "duration": {
             "discovered": "Aug 03, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "REBIRTH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1056,12 +1165,14 @@
         ],
         "duration": {
             "discovered": "Aug 03, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "KIARECTNOONH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1072,12 +1183,14 @@
         ],
         "duration": {
             "discovered": "Jul 29, 23",
-            "note": "Forest Capriccio Online Concert"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Forest Capriccio Online Concert"
+        },
+        "link": null
     },
     {
         "code": "RHYTHMOFLIFE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1088,12 +1201,14 @@
         ],
         "duration": {
             "discovered": "Jul 28, 23",
-            "note": "6.8 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.8 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "KIRANOW",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1112,12 +1227,14 @@
         ],
         "duration": {
             "discovered": "Jun 30, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "SHIGURE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1136,12 +1253,14 @@
         ],
         "duration": {
             "discovered": "Jun 30, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "STARDANCE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1152,12 +1271,14 @@
         ],
         "duration": {
             "discovered": "Jun 23, 23",
-            "note": "6.7 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.7 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "ASHKJHDU",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1176,12 +1297,14 @@
         ],
         "duration": {
             "discovered": "May 18, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "AIDE0017",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1200,12 +1323,14 @@
         ],
         "duration": {
             "discovered": "May 18, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LASTSNOW",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1216,12 +1341,14 @@
         ],
         "duration": {
             "discovered": "May 11, 23",
-            "note": "6.6 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.6 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "NEWCHAP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1240,12 +1367,14 @@
         ],
         "duration": {
             "discovered": "Apr 06, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "SUSANNAH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1264,12 +1393,14 @@
         ],
         "duration": {
             "discovered": "Apr 06, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "NABOBESS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1280,12 +1411,14 @@
         ],
         "duration": {
             "discovered": "Mar 31, 23",
-            "note": "6.5 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.5 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "WA7SXW3PJQGK",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1296,12 +1429,14 @@
         ],
         "duration": {
             "discovered": "Mar 26, 23",
-            "note": "5th Anniversary Reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5th Anniversary Reward"
+        },
+        "link": null
     },
     {
         "code": "PAPAFFJN29Y7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1312,12 +1447,14 @@
         ],
         "duration": {
             "discovered": "Mar 26, 23",
-            "note": "5th Anniversary Reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5th Anniversary Reward"
+        },
+        "link": null
     },
     {
         "code": "5SPTFE372QHX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1328,12 +1465,14 @@
         ],
         "duration": {
             "discovered": "Mar 20, 23",
-            "note": "Luna Garden Party 3rd Stop: Chat Lobby"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Luna Garden Party 3rd Stop: Chat Lobby"
+        },
+        "link": null
     },
     {
         "code": "7BNTWWJPJRGT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1344,12 +1483,14 @@
         ],
         "duration": {
             "discovered": "Mar 09, 23",
-            "note": "Luna Garden Party 2nd Stop: Graffiti Corner"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Luna Garden Party 2nd Stop: Graffiti Corner"
+        },
+        "link": null
     },
     {
         "code": "VAPTEF37K9XP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1360,12 +1501,14 @@
         ],
         "duration": {
             "discovered": "Mar 03, 23",
-            "note": "Anniversary surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary surprise reward"
+        },
+        "link": null
     },
     {
         "code": "ICHLIEBEDICH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1376,12 +1519,14 @@
         ],
         "duration": {
             "discovered": "Mar 01, 23",
-            "note": "Anniversary surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary surprise reward"
+        },
+        "link": null
     },
     {
         "code": "VERKIANA",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1400,12 +1545,14 @@
         ],
         "duration": {
             "discovered": "Feb 18, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MKFINAL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1424,12 +1571,14 @@
         ],
         "duration": {
             "discovered": "Feb 16, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HAPPYHONKAIANNI",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1444,12 +1593,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 23",
-            "note": "Anniversary surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MEONHONKAIANNI",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1464,12 +1615,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 23",
-            "note": "Anniversary surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MEONHONKAIANNI2",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1480,12 +1633,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 23",
-            "note": "Anniversary surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TOTHEFUTURE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1496,12 +1651,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "BRONYA321",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1520,12 +1677,14 @@
         ],
         "duration": {
             "discovered": "Jan 12, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TRUTH63",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1544,12 +1703,14 @@
         ],
         "duration": {
             "discovered": "Jan 12, 23",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TRUTH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1560,12 +1721,14 @@
         ],
         "duration": {
             "discovered": "Jan 5, 23",
-            "note": "6.3 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.3 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "2TNBFZQZ59SB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1576,12 +1739,14 @@
         ],
         "duration": {
             "discovered": "Jan 1, 23",
-            "note": "Happy New Year!"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Happy New Year!"
+        },
+        "link": null
     },
     {
         "code": "AICHAN010",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1600,12 +1765,14 @@
         ],
         "duration": {
             "discovered": "Dec 9, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HYPRN62AI",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1624,12 +1791,14 @@
         ],
         "duration": {
             "discovered": "Dec 8, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "SUPERAI",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1640,12 +1809,14 @@
         ],
         "duration": {
             "discovered": "Dec 2, 22",
-            "note": "6.2 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.2 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "JHSGFDSVV",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1664,12 +1835,14 @@
         ],
         "duration": {
             "discovered": "Nov 28, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "NIGHTWALKERS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1680,12 +1853,14 @@
         ],
         "duration": {
             "discovered": "Nov 9, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MIDNIGHTCARNIVAL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1696,12 +1871,14 @@
         ],
         "duration": {
             "discovered": "Nov 6, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LISUSHANG",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1720,12 +1897,14 @@
         ],
         "duration": {
             "discovered": "Oct 27, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TAIXUAN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1736,12 +1915,14 @@
         ],
         "duration": {
             "discovered": "Oct 21, 22",
-            "note": "6.1 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.1 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "60AHDASFBLAFL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1760,12 +1941,14 @@
         ],
         "duration": {
             "discovered": "Sep 16, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "ARROWOFNOVAE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1784,12 +1967,14 @@
         ],
         "duration": {
             "discovered": "Sep 15, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "TRUELOVE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1800,12 +1985,14 @@
         ],
         "duration": {
             "discovered": "Sep 9, 22",
-            "note": "6.0 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "6.0 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "DREAMYEUPHONY",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1824,12 +2011,14 @@
         ],
         "duration": {
             "discovered": "Aug 27, 22",
-            "note": "Dreamy Euphony Concert"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Dreamy Euphony Concert"
+        },
+        "link": null
     },
     {
         "code": "JKABCNFNL59LK",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1848,12 +2037,14 @@
         ],
         "duration": {
             "discovered": "Aug 21, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "REACHFORZENITH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1864,12 +2055,14 @@
         ],
         "duration": {
             "discovered": "Aug 4, 22",
-            "note": "5.9 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.9 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "SUMMERWIZVALKS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1880,12 +2073,14 @@
         ],
         "duration": {
             "discovered": "Aug 2, 22",
-            "note": "TikTok follower benefits"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "TikTok follower benefits"
+        },
+        "link": null
     },
     {
         "code": "JKSSDNFNL58LK",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1904,12 +2099,14 @@
         ],
         "duration": {
             "discovered": "July 02, 22",
-            "note": "YouTube Ad"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "YouTube Ad"
+        },
+        "link": null
     },
     {
         "code": "PAINTTHEWORLD",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1920,12 +2117,14 @@
         ],
         "duration": {
             "discovered": "June 23, 22",
-            "note": "5.8 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.8 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "QB6BY964E34B",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1936,12 +2135,14 @@
         ],
         "duration": {
             "discovered": "June 21, 22",
-            "note": "Twitch Follower Benefits"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Twitch Follower Benefits"
+        },
+        "link": null
     },
     {
         "code": "CTNTH8T52RXJ",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1960,12 +2161,14 @@
         ],
         "duration": {
             "discovered": "May 21, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "APONIAV57",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -1984,12 +2187,14 @@
         ],
         "duration": {
             "discovered": "May 21, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "QSNSYQNLEKG7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2000,12 +2205,14 @@
         ],
         "duration": {
             "discovered": "May 14, 22",
-            "note": "5.7 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.7 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "UTPAHQPLWK2B",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2016,12 +2223,14 @@
         ],
         "duration": {
             "discovered": "May 14, 22",
-            "note": "5.7 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.7 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "GOLDENAGE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2032,12 +2241,14 @@
         ],
         "duration": {
             "discovered": "May 12, 22",
-            "note": "5.7 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.7 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "CTNTH8T52XR3",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2056,12 +2267,14 @@
         ],
         "duration": {
             "discovered": "Apr 06, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "CUTECAT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2072,12 +2285,14 @@
         ],
         "duration": {
             "discovered": "Apr 02, 22",
-            "note": "5.6 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.6 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "PARDOFELIS1",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2088,12 +2303,14 @@
         ],
         "duration": {
             "discovered": "Apr 02, 22",
-            "note": "5.6 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.6 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "CAN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2104,12 +2321,14 @@
         ],
         "duration": {
             "discovered": "Apr 01, 22",
-            "note": "5.6 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.6 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "GALACTICVOYAGE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2120,12 +2339,14 @@
         ],
         "duration": {
             "discovered": "Mar 24, 22",
-            "note": "4th-Anniversary Galactic Voyage"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4th-Anniversary Galactic Voyage"
+        },
+        "link": null
     },
     {
         "code": "FANDOMCARNIVAL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2136,12 +2357,14 @@
         ],
         "duration": {
             "discovered": "Mar 23, 22",
-            "note": "TikTok Reward #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "TikTok Reward #2"
+        },
+        "link": null
     },
     {
         "code": "STARGATERUNNER2022",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2152,12 +2375,14 @@
         ],
         "duration": {
             "discovered": "Mar 22, 22",
-            "note": "Speedrun Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Speedrun Event"
+        },
+        "link": null
     },
     {
         "code": "HI3SPRING",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2168,12 +2393,14 @@
         ],
         "duration": {
             "discovered": "Mar 22, 22",
-            "note": "[Spring Clues] Puzzle Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "[Spring Clues] Puzzle Event"
+        },
+        "link": null
     },
     {
         "code": "LOVESTAN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2184,12 +2411,14 @@
         ],
         "duration": {
             "discovered": "Mar 22, 22",
-            "note": "[Spring Clues] Puzzle Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "[Spring Clues] Puzzle Event"
+        },
+        "link": null
     },
     {
         "code": "HOLYBLADE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2208,12 +2437,14 @@
         ],
         "duration": {
             "discovered": "Feb 27, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "HONKAIONTIKTOK",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2224,12 +2455,14 @@
         ],
         "duration": {
             "discovered": "Feb 26, 22",
-            "note": "TikTok Reward #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "TikTok Reward #1"
+        },
+        "link": null
     },
     {
         "code": "CBNSH9BMJW33",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2248,12 +2481,14 @@
         ],
         "duration": {
             "discovered": "Feb 26, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "YTPTHQAL3WLB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2264,12 +2499,14 @@
         ],
         "duration": {
             "discovered": "Feb 24, 22",
-            "note": "Anniversary Love Wall"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Love Wall"
+        },
+        "link": null
     },
     {
         "code": "ARAHATO2022",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2284,12 +2521,14 @@
         ],
         "duration": {
             "discovered": "Feb 24, 22",
-            "note": "Arahato α Surprise Bundle"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Arahato α Surprise Bundle"
+        },
+        "link": null
     },
     {
         "code": "8ANSY9BLJXL3",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2300,12 +2539,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 22",
-            "note": "5.5 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.5 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "NTNSH9S5KXMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2316,12 +2557,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 22",
-            "note": "5.5 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.5 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "PTNAHRBLKWKP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2332,12 +2575,14 @@
         ],
         "duration": {
             "discovered": "Feb 18, 22",
-            "note": "Anniversary Love Wall"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Love Wall"
+        },
+        "link": null
     },
     {
         "code": "TIANYUAN",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2348,12 +2593,14 @@
         ],
         "duration": {
             "discovered": "Feb 18, 22",
-            "note": "5.5 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.5 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "HONKAISPRING",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2364,12 +2611,14 @@
         ],
         "duration": {
             "discovered": "Feb 17, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "LYLESDGS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2380,12 +2629,14 @@
         ],
         "duration": {
             "discovered": "Jan 24, 22",
-            "note": "St. Freya Quiz Rewards"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "St. Freya Quiz Rewards"
+        },
+        "link": null
     },
     {
         "code": "TIMIDOICICLE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2400,12 +2651,14 @@
         ],
         "duration": {
             "discovered": "Jan 23, 22",
-            "note": "St. Freya Quiz Rewards"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "St. Freya Quiz Rewards"
+        },
+        "link": null
     },
     {
         "code": "BRONYA0019BC",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2416,12 +2669,14 @@
         ],
         "duration": {
             "discovered": "Jan 22, 22",
-            "note": "St. Freya Quiz Rewards"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "St. Freya Quiz Rewards"
+        },
+        "link": null
     },
     {
         "code": "BRONYA123",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2440,12 +2695,14 @@
         ],
         "duration": {
             "discovered": "Jan 16, 22",
-            "note": "5.4 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.4 Promo"
+        },
+        "link": null
     },
     {
         "code": "TT6SH8A5JWXF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2464,12 +2721,14 @@
         ],
         "duration": {
             "discovered": "Jan 15, 22",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "APHO2",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2480,12 +2739,14 @@
         ],
         "duration": {
             "discovered": "Jan 08, 22",
-            "note": "5.4 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.4 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "SILVERWING1",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2496,12 +2757,14 @@
         ],
         "duration": {
             "discovered": "Jan 08, 22",
-            "note": "5.4 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.4 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "BRONYANEX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2512,12 +2775,14 @@
         ],
         "duration": {
             "discovered": "Jan 06, 22",
-            "note": "5.4 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.4 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "GT7SGQSL3ECX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2536,12 +2801,14 @@
         ],
         "duration": {
             "discovered": "Dec 05, 21",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "SWEETGIRL",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2560,12 +2827,14 @@
         ],
         "duration": {
             "discovered": "Dec 02, 21",
-            "note": "5.3 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.3 Promo"
+        },
+        "link": null
     },
     {
         "code": "9B7AG9TM3FCK",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2576,12 +2845,14 @@
         ],
         "duration": {
             "discovered": "Nov 27, 21",
-            "note": "5.3 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.3 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "BA7AH9A43WD7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2592,12 +2863,14 @@
         ],
         "duration": {
             "discovered": "Nov 27, 21",
-            "note": "5.3 Special Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.3 Special Stream"
+        },
+        "link": null
     },
     {
         "code": "PB6BY9BLKXCB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2608,12 +2881,14 @@
         ],
         "duration": {
             "discovered": "Nov 25, 21",
-            "note": "5.3 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.3 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "OUROBOROS",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2632,12 +2907,14 @@
         ],
         "duration": {
             "discovered": "Oct 21, 21",
-            "note": "5.2 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.2 Promo"
+        },
+        "link": null
     },
     {
         "code": "MT6TGQB4JFTT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2648,12 +2925,14 @@
         ],
         "duration": {
             "discovered": "Oct 16, 21",
-            "note": "5.2 Livestream #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.2 Livestream #2"
+        },
+        "link": null
     },
     {
         "code": "ST7SG8ALJG87",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2664,12 +2943,14 @@
         ],
         "duration": {
             "discovered": "Oct 16, 21",
-            "note": "5.2 Livestream #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.2 Livestream #1"
+        },
+        "link": null
     },
     {
         "code": "QB6SHRSLJZQ3",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2680,12 +2961,14 @@
         ],
         "duration": {
             "discovered": "Oct 14, 21",
-            "note": "5.2 Hyperion Lounge"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.2 Hyperion Lounge"
+        },
+        "link": null
     },
     {
         "code": "EAPTY8TL2ZRB",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2704,12 +2987,14 @@
         ],
         "duration": {
             "discovered": "Sep 18, 21",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "MISSPINKELF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2728,12 +3013,14 @@
         ],
         "duration": {
             "discovered": "Sep 17, 21",
-            "note": "5.1 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.1 Promo"
+        },
+        "link": null
     },
     {
         "code": "ELYSIA02",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2744,12 +3031,14 @@
         ],
         "duration": {
             "discovered": "Sep 10, 21",
-            "note": "5.1 Livestream #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.1 Livestream #2"
+        },
+        "link": null
     },
     {
         "code": "MOTHS10",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2760,12 +3049,14 @@
         ],
         "duration": {
             "discovered": "Sep 10, 21",
-            "note": "5.1 Livestream #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.1 Livestream #1"
+        },
+        "link": null
     },
     {
         "code": "RTPAZ8A4KZ7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2776,12 +3067,14 @@
         ],
         "duration": {
             "discovered": "Sep 10, 21",
-            "note": "Hyperion Lounge Video"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Lounge Video"
+        },
+        "link": null
     },
     {
         "code": "EAPAG8TLKG2T",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2800,12 +3093,14 @@
         ],
         "duration": {
             "discovered": "Aug 18, 21",
-            "note": "Bronya's birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Bronya's birthday"
+        },
+        "link": null
     },
     {
         "code": "OOHSUMMER",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2824,12 +3119,14 @@
         ],
         "duration": {
             "discovered": "Aug 12, 21",
-            "note": "5.0 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.0 Promo"
+        },
+        "link": null
     },
     {
         "code": "7APTHQT52HLP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2840,12 +3137,14 @@
         ],
         "duration": {
             "discovered": "Aug 7, 21",
-            "note": "5.0 Livestream (Selephim #2)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.0 Livestream (Selephim #2)"
+        },
+        "link": null
     },
     {
         "code": "BB7SY8T52Y5K",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2856,12 +3155,14 @@
         ],
         "duration": {
             "discovered": "Aug 7, 21",
-            "note": "5.0 Livestream (Selephim #1)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.0 Livestream (Selephim #1)"
+        },
+        "link": null
     },
     {
         "code": "EUUYGC4WRF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2872,12 +3173,14 @@
         ],
         "duration": {
             "discovered": "Aug 5, 21",
-            "note": "5.0 Livestream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "5.0 Livestream"
+        },
+        "link": null
     },
     {
         "code": "XAPAGQSMKHJ7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2892,12 +3195,14 @@
         ],
         "duration": {
             "discovered": "Jul 30, 21",
-            "note": "HoYoLAB 50000"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "HoYoLAB 50000"
+        },
+        "link": null
     },
     {
         "code": "GVYEGG5NPX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2908,12 +3213,14 @@
         ],
         "duration": {
             "discovered": "Jul 11, 21",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "ICHLIEBEIDCH",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2932,12 +3239,14 @@
         ],
         "duration": {
             "discovered": "Jul 10, 21",
-            "note": "4.9 Promo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.9 Promo"
+        },
+        "link": null
     },
     {
         "code": "2B7TZ8TMJZGF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2948,12 +3257,14 @@
         ],
         "duration": {
             "discovered": "Jul 9, 21",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "BSPBHRS5KY33",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2964,12 +3275,14 @@
         ],
         "duration": {
             "discovered": "Jul 3, 21",
-            "note": "4.9 Livestream #2 (Selephim)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.9 Livestream #2 (Selephim)"
+        },
+        "link": null
     },
     {
         "code": "WSNSZRA4JZ3F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2980,12 +3293,14 @@
         ],
         "duration": {
             "discovered": "Jul 3, 21",
-            "note": "4.9 Livestream (Selephim)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.9 Livestream (Selephim)"
+        },
+        "link": null
     },
     {
         "code": "TB6BZQT43YZT",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -2996,12 +3311,14 @@
         ],
         "duration": {
             "discovered": "Jun 29, 21",
-            "note": "4.9 Livestream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.9 Livestream"
+        },
+        "link": null
     },
     {
         "code": "SEELECUTE",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3020,12 +3337,14 @@
         ],
         "duration": {
             "discovered": "Jun 02, 21",
-            "note": "Seele Gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Seele Gift"
+        },
+        "link": null
     },
     {
         "code": "GMUGGG2X7X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3036,12 +3355,14 @@
         ],
         "duration": {
             "discovered": "May 22, 21",
-            "note": "4.8 livestream #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.8 livestream #1"
+        },
+        "link": null
     },
     {
         "code": "WUUEHCKWMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3052,12 +3373,14 @@
         ],
         "duration": {
             "discovered": "Apr 23, 21",
-            "note": "Sheshounet's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Sheshounet's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "GMUGHCLS5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3068,12 +3391,14 @@
         ],
         "duration": {
             "discovered": "Apr 18, 21",
-            "note": "4.7 livestream #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.7 livestream #2"
+        },
+        "link": null
     },
     {
         "code": "ELUY8G2T9P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3084,12 +3409,14 @@
         ],
         "duration": {
             "discovered": "Apr 18, 21",
-            "note": "4.7 livestream #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.7 livestream #1"
+        },
+        "link": null
     },
     {
         "code": "YVUGGCJX9X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3100,12 +3427,14 @@
         ],
         "duration": {
             "discovered": "Apr 13, 21",
-            "note": "Mei's Birthday Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Mei's Birthday Quiz"
+        },
+        "link": null
     },
     {
         "code": "YVYGGGLT37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3120,12 +3449,14 @@
         ],
         "duration": {
             "discovered": "Mar 28,21",
-            "note": "Theresa's Birthday Surprise"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Theresa's Birthday Surprise"
+        },
+        "link": null
     },
     {
         "code": "GUYW9CKPP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3136,12 +3467,14 @@
         ],
         "duration": {
             "discovered": "Mar 22, 21",
-            "note": "3rd Anniversary Video"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "3rd Anniversary Video"
+        },
+        "link": null
     },
     {
         "code": "EVUEGCKP7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3152,12 +3485,14 @@
         ],
         "duration": {
             "discovered": "Mar 14, 21",
-            "note": "Anniversary Rave"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Rave"
+        },
+        "link": null
     },
     {
         "code": "GLUYHCMP3P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3168,12 +3503,14 @@
         ],
         "duration": {
             "discovered": "Mar 7, 21",
-            "note": "Shenzhou Showdown"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Shenzhou Showdown"
+        },
+        "link": null
     },
     {
         "code": "GUUE8C5T5F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3184,12 +3521,14 @@
         ],
         "duration": {
             "discovered": "Mar 5, 21",
-            "note": "God of High School Ad"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "God of High School Ad"
+        },
+        "link": null
     },
     {
         "code": "WLUGHCMSMF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3200,12 +3539,14 @@
         ],
         "duration": {
             "discovered": "Mar 2, 21",
-            "note": "Honkai Lucky Trip #3"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Lucky Trip #3"
+        },
+        "link": null
     },
     {
         "code": "GMUWGCKTM7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3216,12 +3557,14 @@
         ],
         "duration": {
             "discovered": "Feb 26, 21",
-            "note": "Honkai Lucky Trip #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Lucky Trip #2"
+        },
+        "link": null
     },
     {
         "code": "YLYEGC5N97",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3232,12 +3575,14 @@
         ],
         "duration": {
             "discovered": "Mar 1, 21",
-            "note": "Red queens gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Red queens gift"
+        },
+        "link": null
     },
     {
         "code": "GUUE8C5T5F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3248,12 +3593,14 @@
         ],
         "duration": {
             "discovered": "Feb 28, 21",
-            "note": "ShaunTrack Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "ShaunTrack Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "EUYW9G5SPF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3264,12 +3611,14 @@
         ],
         "duration": {
             "discovered": "Feb 27, 21",
-            "note": "4.6 livestream #2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.6 livestream #2"
+        },
+        "link": null
     },
     {
         "code": "YLUGHG3SP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3280,12 +3629,14 @@
         ],
         "duration": {
             "discovered": "Feb 27, 21",
-            "note": "4.6 livestream #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.6 livestream #1"
+        },
+        "link": null
     },
     {
         "code": "GUYY8C5S5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3296,12 +3647,14 @@
         ],
         "duration": {
             "discovered": "Feb 26, 21",
-            "note": "Lounge of Hyperion Youtube Video"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Lounge of Hyperion Youtube Video"
+        },
+        "link": null
     },
     {
         "code": "GMUWGCKTM7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3312,12 +3665,14 @@
         ],
         "duration": {
             "discovered": "Feb 26, 21",
-            "note": "Honkai Lucky Trip #1"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Lucky Trip #1"
+        },
+        "link": null
     },
     {
         "code": "YUYE8C3K3P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3328,12 +3683,14 @@
         ],
         "duration": {
             "discovered": "Feb 19, 21",
-            "note": "Spring Festival Community Commenting Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Spring Festival Community Commenting Event"
+        },
+        "link": null
     },
     {
         "code": "EUYYGCMJ7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3344,12 +3701,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 21",
-            "note": "Feathers of Memories FB Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Feathers of Memories FB Event"
+        },
+        "link": null
     },
     {
         "code": "EUUG9AUNP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3360,12 +3719,14 @@
         ],
         "duration": {
             "discovered": "Feb 7, 21",
-            "note": "Operation Paint Twitter Part 2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Operation Paint Twitter Part 2"
+        },
+        "link": null
     },
     {
         "code": "EVYYHACPMF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3376,12 +3737,14 @@
         ],
         "duration": {
             "discovered": "Feb 6, 21",
-            "note": "Operation Paint Twitter"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Operation Paint Twitter"
+        },
+        "link": null
     },
     {
         "code": "YLUGHAAWKX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3400,12 +3763,14 @@
         ],
         "duration": {
             "discovered": "Jan 30, 21",
-            "note": "Asuka Gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Asuka Gift"
+        },
+        "link": null
     },
     {
         "code": "WLYW9ASN7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3416,12 +3781,14 @@
         ],
         "duration": {
             "discovered": "Jan 24, 21",
-            "note": "Legendary Speed FB Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Legendary Speed FB Event"
+        },
+        "link": null
     },
     {
         "code": "GLYW8EUXMP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3432,12 +3799,14 @@
         ],
         "duration": {
             "discovered": "Jan 24, 21",
-            "note": "Legendary Speed FB Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Legendary Speed FB Event"
+        },
+        "link": null
     },
     {
         "code": "GLYGHASP7P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3448,12 +3817,14 @@
         ],
         "duration": {
             "discovered": "Jan 24, 21",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "YUYG8EUTPF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3464,12 +3835,14 @@
         ],
         "duration": {
             "discovered": "Jan 16, 21",
-            "note": "4.5 livestream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.5 livestream"
+        },
+        "link": null
     },
     {
         "code": "EVUGGACW5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3480,12 +3853,14 @@
         ],
         "duration": {
             "discovered": "Jan 16, 21",
-            "note": "4.5 livestream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "4.5 livestream"
+        },
+        "link": null
     },
     {
         "code": "YUYW8AUW5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3496,12 +3871,14 @@
         ],
         "duration": {
             "discovered": "Jan 15, 21",
-            "note": "v4.5 [Blazing Hope] Update Preview"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "v4.5 [Blazing Hope] Update Preview"
+        },
+        "link": null
     },
     {
         "code": "EUYWGEUT7P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3520,12 +3897,14 @@
         ],
         "duration": {
             "discovered": "Jan 1, 21",
-            "note": "New Year Gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "New Year Gift"
+        },
+        "link": null
     },
     {
         "code": "ELYW9AATRX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3536,12 +3915,14 @@
         ],
         "duration": {
             "discovered": "Jan 1, 21",
-            "note": "A token of gratitude for a birthday wish"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "A token of gratitude for a birthday wish"
+        },
+        "link": null
     },
     {
         "code": "ELUG8AAS7X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3552,12 +3933,14 @@
         ],
         "duration": {
             "discovered": "Dec 24, 20",
-            "note": "Christmas gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Christmas gift"
+        },
+        "link": null
     },
     {
         "code": "WVYYGABPMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3568,12 +3951,14 @@
         ],
         "duration": {
             "discovered": "Dec 19, 20",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     },
     {
         "code": "GMYG9ASJ57",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3584,12 +3969,14 @@
         ],
         "duration": {
             "discovered": "Dec 12, 20",
-            "note": "Official Beta v4.4 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.4 Stream"
+        },
+        "link": null
     },
     {
         "code": "GLYWHEAT5F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3600,12 +3987,14 @@
         ],
         "duration": {
             "discovered": "Dec 12, 20",
-            "note": "Official Beta v4.4 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.4 Stream"
+        },
+        "link": null
     },
     {
         "code": "WMUGHEVNP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3616,12 +4005,14 @@
         ],
         "duration": {
             "discovered": "Dec 9, 20",
-            "note": "v4.4 [Aurelia Invicta] Version Preview"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "v4.4 [Aurelia Invicta] Version Preview"
+        },
+        "link": null
     },
     {
         "code": "WLYW8ATPKX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3632,12 +4023,14 @@
         ],
         "duration": {
             "discovered": "Dec 7, 20",
-            "note": "Kiana's Return Gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Kiana's Return Gift"
+        },
+        "link": null
     },
     {
         "code": "GMUEGEVWMP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3656,12 +4049,14 @@
         ],
         "duration": {
             "discovered": "Nov 26, 20",
-            "note": "Thanksgiving Twitter Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Thanksgiving Twitter Event"
+        },
+        "link": null
     },
     {
         "code": "GMUGGEVP37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3672,12 +4067,14 @@
         ],
         "duration": {
             "discovered": "Oct 31, 20",
-            "note": "Voice Makers Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Voice Makers Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "YUUY8AVW7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3692,12 +4089,14 @@
         ],
         "duration": {
             "discovered": "Oct 31, 20",
-            "note": "Returnee Reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Returnee Reward"
+        },
+        "link": null
     },
     {
         "code": "GUYXDWUX5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3708,12 +4107,14 @@
         ],
         "duration": {
             "discovered": "Oct 30, 20",
-            "note": "Ai-chan's Surprise"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Surprise"
+        },
+        "link": null
     },
     {
         "code": "YLUE8ABW5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3724,12 +4125,14 @@
         ],
         "duration": {
             "discovered": "Oct 24, 20",
-            "note": "Official Beta v4.3 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.3 Stream"
+        },
+        "link": null
     },
     {
         "code": "GMYYGAVN57",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3740,12 +4143,14 @@
         ],
         "duration": {
             "discovered": "Oct 24, 20",
-            "note": "Official Beta v4.3 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.3 Stream"
+        },
+        "link": null
     },
     {
         "code": "ELYW8ABTPX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3756,12 +4161,14 @@
         ],
         "duration": {
             "discovered": "Oct 23, 20",
-            "note": "v4.3 [Rhythms of Neon] Version Preview"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "v4.3 [Rhythms of Neon] Version Preview"
+        },
+        "link": null
     },
     {
         "code": "WVYG9ETKPP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3772,12 +4179,14 @@
         ],
         "duration": {
             "discovered": "Oct 18, 20",
-            "note": "Seele's Birthday Gift"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Seele's Birthday Gift"
+        },
+        "link": null
     },
     {
         "code": "GUYF4WUJPX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3788,12 +4197,14 @@
         ],
         "duration": {
             "discovered": "Oct 3, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 6)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 6)"
+        },
+        "link": null
     },
     {
         "code": "GLYH4SUJP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3804,12 +4215,14 @@
         ],
         "duration": {
             "discovered": "Oct 2, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 5)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 5)"
+        },
+        "link": null
     },
     {
         "code": "YMYFCWUJRX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3820,12 +4233,14 @@
         ],
         "duration": {
             "discovered": "Oct 1, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 4)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 4)"
+        },
+        "link": null
     },
     {
         "code": "YLUX5WAKR7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3836,12 +4251,14 @@
         ],
         "duration": {
             "discovered": "Sep 30, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 3)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 3)"
+        },
+        "link": null
     },
     {
         "code": "YVUZ4SSK7F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3852,12 +4269,14 @@
         ],
         "duration": {
             "discovered": "Sep 29, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 2)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 2)"
+        },
+        "link": null
     },
     {
         "code": "GVUH4WUS37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3868,12 +4287,14 @@
         ],
         "duration": {
             "discovered": "Sep 28, 20",
-            "note": "Hyperion Highlights Sharing Event (Day 1)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Hyperion Highlights Sharing Event (Day 1)"
+        },
+        "link": null
     },
     {
         "code": "GVUYGATTM7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3888,12 +4309,14 @@
         ],
         "duration": {
             "discovered": "Sep 20, 20",
-            "note": "Jimmy Zhang's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Jimmy Zhang's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "WVYY9ADJ7H",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3904,12 +4327,14 @@
         ],
         "duration": {
             "discovered": "Sep 12, 20",
-            "note": "Official Beta v4.2 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.2 Stream"
+        },
+        "link": null
     },
     {
         "code": "WVYYGETS7R",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3924,12 +4349,14 @@
         ],
         "duration": {
             "discovered": "Sep 12, 20",
-            "note": "Official Beta v4.2 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.2 Stream"
+        },
+        "link": null
     },
     {
         "code": "GLYHDWAJ97",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3940,12 +4367,14 @@
         ],
         "duration": {
             "discovered": "Aug 18, 20",
-            "note": "Bronya's Birthday Facebook Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Bronya's Birthday Facebook Event"
+        },
+        "link": null
     },
     {
         "code": "WVYZCSCT9F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3956,12 +4385,14 @@
         ],
         "duration": {
             "discovered": "Aug 18, 20",
-            "note": "Bronya's Birthday Facebook Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Bronya's Birthday Facebook Event"
+        },
+        "link": null
     },
     {
         "code": "YLYZ4SBXPF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3972,12 +4403,14 @@
         ],
         "duration": {
             "discovered": "Aug 9, 20",
-            "note": "Official Beta v4.1 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.1 Stream"
+        },
+        "link": null
     },
     {
         "code": "ELUX4WTX3G",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -3992,12 +4425,14 @@
         ],
         "duration": {
             "discovered": "Aug 8, 20",
-            "note": "Rainych Ran's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Rainych Ran's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "WMUFDSVPMF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4012,12 +4447,14 @@
         ],
         "duration": {
             "discovered": "Aug 6, 20",
-            "note": "Success of HoT worldwide"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Success of HoT worldwide"
+        },
+        "link": null
     },
     {
         "code": "GVUZ5WDP7X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4032,12 +4469,14 @@
         ],
         "duration": {
             "discovered": "Aug 6, 20",
-            "note": "The Anime Man's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "The Anime Man's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "GUYHDWTPP7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4048,12 +4487,14 @@
         ],
         "duration": {
             "discovered": "Aug 6, 20",
-            "note": "Herrscher Personality Test"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Herrscher Personality Test"
+        },
+        "link": null
     },
     {
         "code": "EUUF4WBX37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4064,12 +4505,14 @@
         ],
         "duration": {
             "discovered": "Aug 1, 20",
-            "note": "v4.1 \"Leaks\" by Ai-chan"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "v4.1 \"Leaks\" by Ai-chan"
+        },
+        "link": null
     },
     {
         "code": "GLUF4SVSPF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4080,12 +4523,14 @@
         ],
         "duration": {
             "discovered": "July 23, 20",
-            "note": "Summer Outfits Supply card"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Summer Outfits Supply card"
+        },
+        "link": null
     },
     {
         "code": "YUYX5STJR7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4096,12 +4541,14 @@
         ],
         "duration": {
             "discovered": "July 22, 20",
-            "note": "Yae Sakura's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Yae Sakura's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EUYX5SVJ3F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4112,12 +4559,14 @@
         ],
         "duration": {
             "discovered": "July 17, 20",
-            "note": "Cooking with Valkyries S2 premiere"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Cooking with Valkyries S2 premiere"
+        },
+        "link": null
     },
     {
         "code": "GMYHDSVS9P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4128,12 +4577,14 @@
         ],
         "duration": {
             "discovered": "June 24, 20",
-            "note": "Official Beta v4.0 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.0 Stream"
+        },
+        "link": null
     },
     {
         "code": "EMYZ5S2WKF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4144,12 +4595,14 @@
         ],
         "duration": {
             "discovered": "June 24, 20",
-            "note": "Official Beta v4.0 Stream"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Official Beta v4.0 Stream"
+        },
+        "link": null
     },
     {
         "code": "ELYF4W4WPP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4160,12 +4613,14 @@
         ],
         "duration": {
             "discovered": "June 11, 20",
-            "note": "Dancing with Himeko FB Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Dancing with Himeko FB Event"
+        },
+        "link": null
     },
     {
         "code": "GVYZ5S4PRF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4180,12 +4635,14 @@
         ],
         "duration": {
             "discovered": "May 25, 20",
-            "note": "RDCworld1's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "RDCworld1's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "EUYZ4S4P3F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4200,12 +4657,14 @@
         ],
         "duration": {
             "discovered": "May 23, 20",
-            "note": "TheLazyPeon's Sponsorship (YouTube)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "TheLazyPeon's Sponsorship (YouTube)"
+        },
+        "link": null
     },
     {
         "code": "WLUH4W2X77",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4220,12 +4679,14 @@
         ],
         "duration": {
             "discovered": "Apr 20, 20",
-            "note": "Gigguk's Sponsorship (Twitter)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Gigguk's Sponsorship (Twitter)"
+        },
+        "link": null
     },
     {
         "code": "WVYZDSJTKY",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4236,12 +4697,14 @@
         ],
         "duration": {
             "discovered": "Apr 13, 20",
-            "note": "Mei's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Mei's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EVYX4SLP5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4252,12 +4715,14 @@
         ],
         "duration": {
             "discovered": "Apr 13, 20",
-            "note": "Mei's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Mei's Birthday"
+        },
+        "link": null
     },
     {
         "code": "YVYFDS2N98",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4268,12 +4733,14 @@
         ],
         "duration": {
             "discovered": "Apr 13, 20",
-            "note": "Mei's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Mei's Birthday"
+        },
+        "link": null
     },
     {
         "code": "GMYZCW4JP8",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4284,12 +4751,14 @@
         ],
         "duration": {
             "discovered": "Apr 11, 20",
-            "note": "Easter Riddle"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Easter Riddle"
+        },
+        "link": null
     },
     {
         "code": "WLYHCW4SMP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4304,12 +4773,14 @@
         ],
         "duration": {
             "discovered": "Mar 31, 20",
-            "note": "2nd Anniversary Social Media"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "2nd Anniversary Social Media"
+        },
+        "link": null
     },
     {
         "code": "WVYXDW2K3F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4320,12 +4791,14 @@
         ],
         "duration": {
             "discovered": "Mar 30, 20",
-            "note": "2nd Anniversary Social Media"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "2nd Anniversary Social Media"
+        },
+        "link": null
     },
     {
         "code": "YMUZCS2K7P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4336,12 +4809,14 @@
         ],
         "duration": {
             "discovered": "Mar 29, 20",
-            "note": "2nd Anniversary"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "2nd Anniversary"
+        },
+        "link": null
     },
     {
         "code": "WVYFCS4K5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4352,12 +4827,14 @@
         ],
         "duration": {
             "discovered": "Mar 28, 20",
-            "note": "Theresa's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Theresa's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EMUH4W3NRP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4368,12 +4845,14 @@
         ],
         "duration": {
             "discovered": "Feb 17, 20",
-            "note": "3.7 Version Ai-chan's Quiz (Social Networks)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "3.7 Version Ai-chan's Quiz (Social Networks)"
+        },
+        "link": null
     },
     {
         "code": "EMYFDW3P7Y",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4384,12 +4863,14 @@
         ],
         "duration": {
             "discovered": "Feb 09, 20",
-            "note": "Fu Hua's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Fu Hua's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EUUH4WKW3P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4400,12 +4881,14 @@
         ],
         "duration": {
             "discovered": "Dec 06, 19",
-            "note": "Kiana's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Kiana's Birthday"
+        },
+        "link": null
     },
     {
         "code": "HMUECECT58",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4416,12 +4899,14 @@
         ],
         "duration": {
             "discovered": "Nov 28, 19",
-            "note": "Thanksgiving FB Event"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Thanksgiving FB Event"
+        },
+        "link": null
     },
     {
         "code": "YVUHDW3P9X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4432,12 +4917,14 @@
         ],
         "duration": {
             "discovered": "Nov 18, 19",
-            "note": "???"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "???"
+        },
+        "link": null
     },
     {
         "code": "YQENGWVTPX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4448,12 +4935,14 @@
         ],
         "duration": {
             "discovered": "Nov 18, 19",
-            "note": "Ai-chan's Quiz (Seele)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz (Seele)"
+        },
+        "link": null
     },
     {
         "code": "YLGQ8Y2N37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4464,12 +4953,14 @@
         ],
         "duration": {
             "discovered": "Aug 26, 19",
-            "note": "Ai-chan's Quiz (HoR)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz (HoR)"
+        },
+        "link": null
     },
     {
         "code": "GUWNGGUKMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4480,12 +4971,14 @@
         ],
         "duration": {
             "discovered": "July 22, 19",
-            "note": "Yae Sakura's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Yae Sakura's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EMS89GDN3X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4496,12 +4989,14 @@
         ],
         "duration": {
             "discovered": "July 6, 19",
-            "note": "AX/Japan Expo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "AX/Japan Expo"
+        },
+        "link": null
     },
     {
         "code": "YMSNGGBX5X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4512,12 +5007,14 @@
         ],
         "duration": {
             "discovered": "July 5, 19",
-            "note": "AX/Japan Expo"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "AX/Japan Expo"
+        },
+        "link": null
     },
     {
         "code": "WLS8HGCW5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4528,12 +5025,14 @@
         ],
         "duration": {
             "discovered": "July 1, 19",
-            "note": "Ai-chan's Quiz (Cooking)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz (Cooking)"
+        },
+        "link": null
     },
     {
         "code": "ELWQHCVWM7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4544,12 +5043,14 @@
         ],
         "duration": {
             "discovered": "May 27, 19",
-            "note": "Ai-chan's Quiz (Twins)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz (Twins)"
+        },
+        "link": null
     },
     {
         "code": "GUWQ8GBN5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4560,12 +5061,14 @@
         ],
         "duration": {
             "discovered": "May 6, 19",
-            "note": "Ai-chan's Quiz (Bronya)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz (Bronya)"
+        },
+        "link": null
     },
     {
         "code": "YVS8HCBSKX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4576,12 +5079,14 @@
         ],
         "duration": {
             "discovered": "Apr 28, 19",
-            "note": "Q&A 3.0 Update"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Q&A 3.0 Update"
+        },
+        "link": null
     },
     {
         "code": "WVS68GTJKP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4592,12 +5097,14 @@
         ],
         "duration": {
             "discovered": "Apr 25, 19",
-            "note": "Ai-chan's Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Quiz"
+        },
+        "link": null
     },
     {
         "code": "EMS68GDJMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4608,12 +5115,14 @@
         ],
         "duration": {
             "discovered": "Apr 19, 19",
-            "note": "Deep Enigma Patch Preview"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Deep Enigma Patch Preview"
+        },
+        "link": null
     },
     {
         "code": "GVW8HGTKMP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4624,12 +5133,14 @@
         ],
         "duration": {
             "discovered": "Apr 15, 19",
-            "note": "Ai-chan Quiz (Rita)"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan Quiz (Rita)"
+        },
+        "link": null
     },
     {
         "code": "WMS68CBT37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4640,12 +5151,14 @@
         ],
         "duration": {
             "discovered": "Mar 28, 19",
-            "note": "30k Discord subscribers"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "30k Discord subscribers"
+        },
+        "link": null
     },
     {
         "code": "EUS8GC2K9Y",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4656,12 +5169,14 @@
         ],
         "duration": {
             "discovered": "Mar 10, 19",
-            "note": "Ai-Chan's Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan's Quiz"
+        },
+        "link": null
     },
     {
         "code": "EUWQ8GLWMX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4672,12 +5187,14 @@
         ],
         "duration": {
             "discovered": "Feb 20, 19",
-            "note": "Anniversary Script Example 4"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Script Example 4"
+        },
+        "link": null
     },
     {
         "code": "YLWN9G2XRP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4688,12 +5205,14 @@
         ],
         "duration": {
             "discovered": "Feb 18, 19",
-            "note": "Anniversary Script Example 3"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Script Example 3"
+        },
+        "link": null
     },
     {
         "code": "EMSQ8C2N3X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4704,12 +5223,14 @@
         ],
         "duration": {
             "discovered": "Feb 17, 19",
-            "note": "Anniversary Script Example 2"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Script Example 2"
+        },
+        "link": null
     },
     {
         "code": "YLSN8CLW37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4720,12 +5241,14 @@
         ],
         "duration": {
             "discovered": "Feb 14, 19",
-            "note": "Anniversary Script Example"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Anniversary Script Example"
+        },
+        "link": null
     },
     {
         "code": "WMW8GGDT57",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4736,12 +5259,14 @@
         ],
         "duration": {
             "discovered": "Feb 11, 19",
-            "note": "FB Sticker Request"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "FB Sticker Request"
+        },
+        "link": null
     },
     {
         "code": "GLWNHCJPPP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4752,12 +5277,14 @@
         ],
         "duration": {
             "discovered": "Feb 10, 19",
-            "note": "Fu Hua's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Fu Hua's Birthday"
+        },
+        "link": null
     },
     {
         "code": "ELWQ9CJP9X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4768,12 +5295,14 @@
         ],
         "duration": {
             "discovered": "Jan 27, 19",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "WMW69CLW9P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4784,12 +5313,14 @@
         ],
         "duration": {
             "discovered": "Jan 20, 19",
-            "note": "Mysterious Facebook Code"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Mysterious Facebook Code"
+        },
+        "link": null
     },
     {
         "code": "WLSN9G2SM7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4800,12 +5331,14 @@
         ],
         "duration": {
             "discovered": "Dec 23, 18",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "WMWQ8CLT37",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4816,12 +5349,14 @@
         ],
         "duration": {
             "discovered": "Dec 7, 18",
-            "note": "Kiana's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Kiana's Birthday"
+        },
+        "link": null
     },
     {
         "code": "EUSQ9G2J9X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4832,12 +5367,14 @@
         ],
         "duration": {
             "discovered": "Nov 26, 18",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "WMSR5SSS77",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4852,12 +5389,14 @@
         ],
         "duration": {
             "discovered": "Oct 31, 18",
-            "note": "25k Discord subscribers"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "25k Discord subscribers"
+        },
+        "link": null
     },
     {
         "code": "GMWPDSUK9F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4868,12 +5407,14 @@
         ],
         "duration": {
             "discovered": "Oct 25, 18",
-            "note": "Ai-chan's Birthday present"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-chan's Birthday present"
+        },
+        "link": null
     },
     {
         "code": "YLW95SCK5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4888,12 +5429,14 @@
         ],
         "duration": {
             "discovered": "Sept 23, 18",
-            "note": "Compensation for Ai-chan Quiz from Sept 23"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Compensation for Ai-chan Quiz from Sept 23"
+        },
+        "link": null
     },
     {
         "code": "EUW7CSDWKF",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4904,12 +5447,14 @@
         ],
         "duration": {
             "discovered": "Sept 23, 18",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "YVS95WVPKP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4920,12 +5465,14 @@
         ],
         "duration": {
             "discovered": "Sept 5, 18",
-            "note": "Homecoming Fair Opening"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Homecoming Fair Opening"
+        },
+        "link": null
     },
     {
         "code": "YLWRCSDNR7",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4940,12 +5487,14 @@
         ],
         "duration": {
             "discovered": "Sept 2, 18",
-            "note": "SacAnime Convention"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "SacAnime Convention"
+        },
+        "link": null
     },
     {
         "code": "YMWRCWVX7X",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4960,12 +5509,14 @@
         ],
         "duration": {
             "discovered": "Sept 2, 18",
-            "note": "SacAnime Convention"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "SacAnime Convention"
+        },
+        "link": null
     },
     {
         "code": "YMWP4SBNRX",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4976,12 +5527,14 @@
         ],
         "duration": {
             "discovered": "Sept 2, 18",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "WLSRDSDP77",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -4992,12 +5545,14 @@
         ],
         "duration": {
             "discovered": "Aug 17, 18",
-            "note": "Bronya's Birthday"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Bronya's Birthday"
+        },
+        "link": null
     },
     {
         "code": "GVS94WDX5F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -5008,12 +5563,14 @@
         ],
         "duration": {
             "discovered": "Aug 15, 18",
-            "note": "Shamash Videos"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Shamash Videos"
+        },
+        "link": null
     },
     {
         "code": "YLSRDWBP57",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -5024,12 +5581,14 @@
         ],
         "duration": {
             "discovered": "July 27, 18",
-            "note": "Ai-Chan Quiz"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Ai-Chan Quiz"
+        },
+        "link": null
     },
     {
         "code": "EVS7DS3S9F",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -5040,12 +5599,14 @@
         ],
         "duration": {
             "discovered": "July 22, 18",
-            "note": "Celebration Crystals"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Celebration Crystals"
+        },
+        "link": null
     },
     {
         "code": "EMWPCWKJ5P",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -5056,12 +5617,14 @@
         ],
         "duration": {
             "discovered": "June 27, 18",
-            "note": "Secret Facebook Code"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Secret Facebook Code"
+        },
+        "link": null
     },
     {
         "code": "YVSYHGCWPP",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "expired",
         "rewards": [
@@ -5076,7 +5639,10 @@
         ],
         "duration": {
             "discovered": "May 18, 18",
-            "note": "Crunchyroll"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Crunchyroll"
+        },
+        "link": null
     }
 ]

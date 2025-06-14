@@ -1,7 +1,6 @@
 [
     {
         "code": "HonkaiRemake",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "active",
         "rewards": [
@@ -12,12 +11,14 @@
         ],
         "duration": {
             "discovered": "Apr 1, 25",
-            "note": "Honkai Impact 3rd Remake Trailer"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Impact 3rd Remake Trailer"
+        },
+        "link": null
     },
     {
         "code": "HONKAI24",
-        "link": null,
         "server": "Global only (NA/EU)",
         "status": "active",
         "rewards": [
@@ -36,7 +37,10 @@
         ],
         "duration": {
             "discovered": "Jun 6, 24",
-            "note": "Surprise reward"
-        }
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
+        },
+        "link": null
     }
 ]
