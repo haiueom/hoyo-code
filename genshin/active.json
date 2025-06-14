@@ -1,75 +1,63 @@
 [
     {
-        "code": "56CacucuVSAjaw",
-        "link": "https://genshin.hoyoverse.com/gift?code=56CacucuVSAjaw",
+        "code": "8QD412QXCEU1",
+        "link": "https://genshin.hoyoverse.com/gift?code=8QD412QXCEU1",
         "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Primogem \u00d730",
+                "name": "Primogem \u00d760",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
             },
             {
-                "name": "Mora \u00d720,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+                "name": "Adventurer's Experience \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "May 13, 2025",
-            "valid": "May 21, 2025",
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "VSL93LTE5WY5",
-        "link": "https://genshin.hoyoverse.com/gift?code=VSL93LTE5WY5",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Beryl Conch \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Beryl_Conch.png/revision/latest"
-            },
-            {
-                "name": "Lasagna \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Lasagna.png/revision/latest"
-            },
-            {
-                "name": "Fish and Chips \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Fish_and_Chips.png/revision/latest"
-            },
-            {
-                "name": "Tomates Narbonnaises \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Tomates_Narbonnaises.png/revision/latest"
-            },
-            {
-                "name": "Bulle Sauce Duck Breast \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Bulle_Sauce_Duck_Breast.png/revision/latest"
-            },
-            {
-                "name": "Barbeque Ribs \u00d72",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Item_Barbeque_Ribs.png/revision/latest"
-            },
-            {
-                "name": "Meshing Gear \u00d73",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Meshing_Gear.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "May 9, 2025",
+            "discovered": "June 12, 2025",
             "valid": null,
             "expired": null,
             "notes": null
         }
     },
     {
-        "code": "ZXUY83279WB1",
-        "link": "https://genshin.hoyoverse.com/gift?code=ZXUY83279WB1",
+        "code": "GS57YTSNLJ",
+        "link": "https://genshin.hoyoverse.com/gift?code=GS57YTSNLJ",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora \u00d730,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore \u00d75",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Contention \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
+            },
+            {
+                "name": "Shivada Jade Sliver \u00d73",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 9, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        }
+    },
+    {
+        "code": "LWKC638ULB16",
+        "link": "https://genshin.hoyoverse.com/gift?code=LWKC638ULB16",
         "server": "All",
         "status": "active",
         "rewards": [
@@ -95,7 +83,7 @@
             }
         ],
         "duration": {
-            "discovered": "May 8, 2025",
+            "discovered": "May 29, 2025",
             "valid": null,
             "expired": null,
             "notes": null
@@ -118,28 +106,6 @@
         ],
         "duration": {
             "discovered": "May 1, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        }
-    },
-    {
-        "code": "HS4NM7YDGC99",
-        "link": "https://genshin.hoyoverse.com/gift?code=HS4NM7YDGC99",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem \u00d760",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience \u00d75",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "March 22, 2025",
             "valid": null,
             "expired": null,
             "notes": null
