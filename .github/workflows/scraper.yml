@@ -4,6 +4,12 @@ on:
         # Runs every 1 hour
         - cron: "0 * * * *"
     workflow_dispatch:
+        inputs:
+            reset:
+                description: "Reset all codes"
+                required: false
+                default: false
+                type: boolean
 
 jobs:
     scrape-codes:
@@ -26,7 +32,11 @@ jobs:
               env:
                   DC_WH: ${{ secrets.DC_WH }}
               run: |
-                  python main.py
+                  if [ ${{ github.event.inputs.reset }} = true ]; then
+                      python main.py --reset
+                  else
+                      python main.py
+                  fi
             - name: commit and push changes
               run: |
                   git config --local user.name "github-actions[bot]"
