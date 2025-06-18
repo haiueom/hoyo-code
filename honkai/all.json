@@ -64,7 +64,7 @@
     {
         "code": "HonkaiRemake",
         "server": "Global only (NA/EU)",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Crystals ×60",
@@ -668,7 +668,7 @@
     {
         "code": "HONKAI24",
         "server": "Global only (NA/EU)",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Coins ×9999",

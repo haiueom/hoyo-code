@@ -62,6 +62,24 @@
         "link": null
     },
     {
+        "code": "HonkaiRemake",
+        "server": "Global only (NA/EU)",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals ×60",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Apr 1, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "Honkai Impact 3rd Remake Trailer"
+        },
+        "link": null
+    },
+    {
         "code": "MemoriesWithU",
         "server": "Global only (NA/EU)",
         "status": "expired",
@@ -644,6 +662,32 @@
             "valid": null,
             "expired": null,
             "notes": "7.6 Hyperion Lounge"
+        },
+        "link": null
+    },
+    {
+        "code": "HONKAI24",
+        "server": "Global only (NA/EU)",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Coins ×9999",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Coins_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Starless Rift ×1",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e2/Starless_Rift_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Deepspace Anchor: First Light Trial Card (3-Day) ×1",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Deepspace_Anchor_-_First_Light_Trial_Card_%283-Day%29_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Jun 6, 24",
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise reward"
         },
         "link": null
     },
