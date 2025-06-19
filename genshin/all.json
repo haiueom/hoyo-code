@@ -1,5 +1,31 @@
 [
     {
+        "code": "FIGHTLIKESKIRK57",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×40",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "\"Abyssal Bounty\" ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Abyssal_Bounty.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 18, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=FIGHTLIKESKIRK57"
+    },
+    {
         "code": "8QD412QXCEU1",
         "server": "All",
         "status": "active",
