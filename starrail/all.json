@@ -2,7 +2,7 @@
     {
         "code": "DTJ7CVACLBGF",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade ×100",
@@ -15,8 +15,8 @@
         ],
         "duration": {
             "discovered": "June 20, 2025",
-            "valid": "June 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 21, 2025",
             "notes": null
         },
         "link": "https://hsr.hoyoverse.com/gift?code=DTJ7CVACLBGF"
@@ -24,7 +24,7 @@
     {
         "code": "ZS36CVBUMTZB",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade ×100",
@@ -37,8 +37,8 @@
         ],
         "duration": {
             "discovered": "June 20, 2025",
-            "valid": "June 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 21, 2025",
             "notes": null
         },
         "link": "https://hsr.hoyoverse.com/gift?code=ZS36CVBUMTZB"
@@ -46,7 +46,7 @@
     {
         "code": "FTJ6CVTULSXP",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Stellar Jade ×100",
@@ -59,8 +59,8 @@
         ],
         "duration": {
             "discovered": "June 20, 2025",
-            "valid": "June 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "June 21, 2025",
             "notes": null
         },
         "link": "https://hsr.hoyoverse.com/gift?code=FTJ6CVTULSXP"
