@@ -88,6 +88,24 @@
         "link": "https://hsr.hoyoverse.com/gift?code=WAJ7CVBC4SG3"
     },
     {
+        "code": "EBKLKMGLVMG7",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×120",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 25, 2025",
+            "valid": null,
+            "expired": "May 22, 2025",
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=EBKLKMGLVMG7"
+    },
+    {
         "code": "7T34K5YLU5GT",
         "server": "All",
         "status": "expired",
