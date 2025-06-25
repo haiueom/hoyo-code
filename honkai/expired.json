@@ -1,5 +1,23 @@
 [
     {
+        "code": "HARDWORKER",
+        "server": "Global only (NA/EU)",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Crystals ×350",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 19, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "8.3 Hyperion Lounge"
+        },
+        "link": null
+    },
+    {
         "code": "ChowandChew",
         "server": "Global only (NA/EU)",
         "status": "expired",
