@@ -90,6 +90,28 @@
         "link": "https://genshin.hoyoverse.com/gift?code=FIGHTLIKESKIRK57"
     },
     {
+        "code": "G9VY57AWQACW",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×60",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 17, 2025",
+            "valid": "August 21, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=G9VY57AWQACW"
+    },
+    {
         "code": "8QD412QXCEU1",
         "server": "All",
         "status": "active",
