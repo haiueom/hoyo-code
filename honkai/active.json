@@ -1,5 +1,18 @@
 [
     {
+        "code": "HeliaReborn",
+        "server": "Global only (NA/EU)",
+        "status": "active",
+        "rewards": [],
+        "duration": {
+            "discovered": "Jul 5, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "Surprise Reward"
+        },
+        "link": null
+    },
+    {
         "code": "THIRTEEN",
         "server": "Global only (NA/EU)",
         "status": "active",
