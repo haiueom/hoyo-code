@@ -1,5 +1,35 @@
 [
     {
+        "code": "Vamosacorrer25",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Delicious Puff Pops ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Delicious_Puff_Pops.png/revision/latest"
+            },
+            {
+                "name": "Blazed Meat Stew ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Blazed_Meat_Stew.png/revision/latest"
+            },
+            {
+                "name": "Grainfruit Chips ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Grainfruit_Chips.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 6, 2025",
+            "valid": "July 14, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=Vamosacorrer25"
+    },
+    {
         "code": "GIFTFROMSKIRK57",
         "server": "All",
         "status": "active",
