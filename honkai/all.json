@@ -3,7 +3,12 @@
         "code": "HeliaReborn",
         "server": "Global only (NA/EU)",
         "status": "active",
-        "rewards": [],
+        "rewards": [
+            {
+                "name": "Planar Armament: Warped Spacetime Trial Card (3-Day) ×1",
+                "image": ""
+            }
+        ],
         "duration": {
             "discovered": "Jul 5, 25",
             "valid": null,
