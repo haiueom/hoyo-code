@@ -53,8 +53,8 @@
         ],
         "duration": {
             "discovered": "June 26, 2025",
-            "valid": "July 8, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "July 8, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GIFTFROMSKIRK57"
@@ -92,32 +92,6 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=YTYD336W7K77"
-    },
-    {
-        "code": "FIGHTLIKESKIRK57",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×40",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "\"Abyssal Bounty\" ×1",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Abyssal_Bounty.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "June 18, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=FIGHTLIKESKIRK57"
     },
     {
         "code": "G9VY57AWQACW",
@@ -162,40 +136,6 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=8QD412QXCEU1"
-    },
-    {
-        "code": "GS57YTSNLJ",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×30,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Contention ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
-            },
-            {
-                "name": "Shivada Jade Sliver ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "June 9, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GS57YTSNLJ"
     },
     {
         "code": "ZT5RJ4AX4WYV",
