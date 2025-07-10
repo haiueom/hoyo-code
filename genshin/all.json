@@ -30,36 +30,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=Vamosacorrer25"
     },
     {
-        "code": "GIFTFROMSKIRK57",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Shivada Jade Fragment ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png/revision/latest"
-            },
-            {
-                "name": "Meshing Gear ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Meshing_Gear.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Mora ×30,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "June 26, 2025",
-            "valid": null,
-            "expired": "July 8, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GIFTFROMSKIRK57"
-    },
-    {
         "code": "YTYD336W7K77",
         "server": "All",
         "status": "active",
@@ -138,28 +108,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=8QD412QXCEU1"
     },
     {
-        "code": "ZT5RJ4AX4WYV",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×60",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "May 1, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=ZT5RJ4AX4WYV"
-    },
-    {
         "code": "GENSHINGIFT",
         "server": "All",
         "status": "active",
@@ -180,6 +128,58 @@
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT"
+    },
+    {
+        "code": "ZT5RJ4AX4WYV",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×60",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "May 1, 2025",
+            "valid": null,
+            "expired": "July 9, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=ZT5RJ4AX4WYV"
+    },
+    {
+        "code": "GIFTFROMSKIRK57",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Shivada Jade Fragment ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png/revision/latest"
+            },
+            {
+                "name": "Meshing Gear ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Meshing_Gear.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Mora ×30,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "June 26, 2025",
+            "valid": null,
+            "expired": "July 8, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GIFTFROMSKIRK57"
     },
     {
         "code": "LWKC638ULB16",
