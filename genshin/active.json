@@ -1,7 +1,7 @@
 [
     {
         "code": "Ineffa0730Birgitta",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -23,7 +23,7 @@
     },
     {
         "code": "Summer0730Asha",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -42,6 +42,94 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=Summer0730Asha"
+    },
+    {
+        "code": "TranquilBanquet",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 18, 2025",
+            "valid": "July 21, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=TranquilBanquet"
+    },
+    {
+        "code": "KG3SZF8EZGQN",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 18, 2025",
+            "valid": "July 21, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "DZ2TZX9WHXSS",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 18, 2025",
+            "valid": "July 21, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "ZGKBHW9FGXSW",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 18, 2025",
+            "valid": "July 21, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
     },
     {
         "code": "EZIZ8W3J47NA",
