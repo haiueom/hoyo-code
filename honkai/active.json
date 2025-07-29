@@ -38,23 +38,5 @@
             "notes": "Summer Redemption Code"
         },
         "link": null
-    },
-    {
-        "code": "HappySchoolFest",
-        "server": "Global only (NA/EU)",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Crystals ×30",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Jun 27, 25",
-            "valid": null,
-            "expired": null,
-            "notes": "Let's Go! Fiesta Tour!"
-        },
-        "link": null
     }
 ]
