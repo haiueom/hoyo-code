@@ -1,5 +1,23 @@
 [
     {
+        "code": "EVILDRAGON",
+        "server": "Global only (NA/EU)",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals ×350",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Aug 14, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "8.4 Hyperion Lounge"
+        },
+        "link": null
+    },
+    {
         "code": "PathofGrowth",
         "server": "Global only (NA/EU)",
         "status": "active",
