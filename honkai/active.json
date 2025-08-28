@@ -26,6 +26,28 @@
         "link": null
     },
     {
+        "code": "8XW7BPQALA",
+        "server": "Global only (NA/EU)",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Asterite ×300",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+            },
+            {
+                "name": "Stamina Potion ×1",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Aug 18, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "Bronya's Birthday Event"
+        },
+        "link": null
+    },
+    {
         "code": "PathofGrowth",
         "server": "Global only (NA/EU)",
         "status": "active",
