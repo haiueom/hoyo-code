@@ -10,7 +10,8 @@ from .models import Reward, Duration, Code
 class GenshinScraper(ScraperBase):
     def __init__(self):
         super().__init__(
-            game_name="Genshin",
+            game_name="Genshin Impact",
+            game_color=0x1E90FF,
             discord_image_url="https://i.ibb.co/LXYMB75y/genshin.jpg",
         )
         self.active_url = "https://genshin-impact.fandom.com/wiki/Promotional_Code"

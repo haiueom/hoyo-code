@@ -1,4 +1,6 @@
 # utils/scraper_base.py
+from time import sleep
+from datetime import datetime
 import os
 import json
 import requests
@@ -11,8 +13,9 @@ from .models import Code
 class ScraperBase(ABC):
     """Abstract base class for a Hoyoverse game code scraper."""
 
-    def __init__(self, game_name: str, discord_image_url: str):
+    def __init__(self, game_name: str, game_color: str, discord_image_url: str):
         self.game_name = game_name
+        self.game_color = game_color
         self.game_folder = game_name.lower()
         self.discord_image_url = discord_image_url
         self.discord_webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
@@ -50,6 +53,7 @@ class ScraperBase(ABC):
     def _send_discord_notification(self, code: Code):
         """Sends a notification to a Discord webhook for a new code."""
         if not self.discord_webhook_url:
+            print(f"⚠ [{self.game_name}] Discord webhook not configured.")
             return
 
         rewards_str = (
@@ -70,12 +74,14 @@ class ScraperBase(ABC):
             description_parts.append(f"**Valid Until:** {code.duration.valid}")
 
         embed = {
-            "title": f"New Active Code: `{code.code}`",
+            "title": f"`{code.code}`",
             "description": "\n".join(description_parts),
-            "color": 0x00FFFF,
-            "author": {"name": f"{self.game_name} Impact"},
-            "thumbnail": {"url": self.discord_image_url},
-            "footer": {"text": "Hoyo Code Scraper"},
+            "color": self.game_color,
+            "author": {"name": f"{self.game_name}"},
+            "image": {"url": self.discord_image_url},
+            "footer": {"text": "Hoyo Code"},
+            # follow this format: 2025-08-29T17:37:11.154Z
+            "timestamp": datetime.now().isoformat() + "Z",
         }
 
         try:
@@ -101,6 +107,7 @@ class ScraperBase(ABC):
 
             if new_active_codes:
                 for code in new_active_codes:
+                    sleep(1)
                     self._send_discord_notification(code)
 
             # Save all files

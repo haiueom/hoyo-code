@@ -12,7 +12,8 @@ class StarrailScraper(ScraperBase):
 
     def __init__(self):
         super().__init__(
-            game_name="Starrail",
+            game_name="Honkai Starrail",
+            game_color=0x8A2BE2,
             discord_image_url="https://i.ibb.co.com/Nng6s2rR/starrail.jpg",
         )
         self.url = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"

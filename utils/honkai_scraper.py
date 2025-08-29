@@ -12,7 +12,9 @@ class HonkaiScraper(ScraperBase):
 
     def __init__(self):
         super().__init__(
-            game_name="Honkai", discord_image_url="https://i.ibb.co/mryQSWvT/honkai.jpg"
+            game_name="Honkai Impact 3rd",
+            game_color=0xFF4500,
+            discord_image_url="https://i.ibb.co/mryQSWvT/honkai.jpg"
         )
         self.url = "https://honkaiimpact3.fandom.com/wiki/Exchange_Rewards"
 
