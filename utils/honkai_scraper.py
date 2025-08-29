@@ -12,7 +12,7 @@ class HonkaiScraper(ScraperBase):
 
     def __init__(self):
         super().__init__(
-            game_name="Honkai Impact 3rd",
+            game_name="Honkai Impact",
             game_color=0xFF4500,
             discord_image_url="https://i.ibb.co/mryQSWvT/honkai.jpg"
         )

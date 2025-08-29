@@ -1,6 +1,6 @@
 # utils/scraper_base.py
 from time import sleep
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import os
 import json
 import requests
@@ -16,7 +16,7 @@ class ScraperBase(ABC):
     def __init__(self, game_name: str, game_color: str, discord_image_url: str):
         self.game_name = game_name
         self.game_color = game_color
-        self.game_folder = game_name.lower()
+        self.game_folder = game_name.split()[0].lower()
         self.discord_image_url = discord_image_url
         self.discord_webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
         os.makedirs(self.game_folder, exist_ok=True)
@@ -80,8 +80,7 @@ class ScraperBase(ABC):
             "author": {"name": f"{self.game_name}"},
             "image": {"url": self.discord_image_url},
             "footer": {"text": "Hoyo Code"},
-            # follow this format: 2025-08-29T17:37:11.154Z
-            "timestamp": datetime.now().isoformat() + "Z",
+            "timestamp": datetime.now(timezone(timedelta(hours=8))).isoformat(),
         }
 
         try:
