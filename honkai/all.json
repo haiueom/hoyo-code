@@ -1,5 +1,23 @@
 [
     {
+        "code": "CHILLSUMMER",
+        "server": "Global only (NA/EU)",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Crystals ×30",
+                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "Aug 29, 25",
+            "valid": null,
+            "expired": null,
+            "notes": "Song of Water and Fire"
+        },
+        "link": null
+    },
+    {
         "code": "CCPLEU07",
         "server": "Global only (NA/EU)",
         "status": "active",
