@@ -37,8 +37,8 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": "September 1, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "September 1, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=HiFiveTraveler"
@@ -59,8 +59,8 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": "September 1, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "September 1, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=LunaI0910"
@@ -81,8 +81,8 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": "September 1, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "September 1, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=LaumaNodKraiFlins"
