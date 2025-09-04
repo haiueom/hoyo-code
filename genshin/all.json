@@ -22,72 +22,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=R4SCAU7CR1G9"
     },
     {
-        "code": "HiFiveTraveler",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora ×50,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 29, 2025",
-            "valid": null,
-            "expired": "September 1, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=HiFiveTraveler"
-    },
-    {
-        "code": "LunaI0910",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora ×50,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 29, 2025",
-            "valid": null,
-            "expired": "September 1, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=LunaI0910"
-    },
-    {
-        "code": "LaumaNodKraiFlins",
-        "server": "All",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "August 29, 2025",
-            "valid": null,
-            "expired": "September 1, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=LaumaNodKraiFlins"
-    },
-    {
         "code": "TOUGNK89J77G",
         "server": "All",
         "status": "active",
@@ -164,6 +98,72 @@
             "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT"
+    },
+    {
+        "code": "HiFiveTraveler",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=HiFiveTraveler"
+    },
+    {
+        "code": "LunaI0910",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=LunaI0910"
+    },
+    {
+        "code": "LaumaNodKraiFlins",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=LaumaNodKraiFlins"
     },
     {
         "code": "NODKRAIGAMESCOM",
