@@ -1,90 +1,94 @@
 [
     {
-        "code": "M5H9TRIJ0D",
-        "server": "Global only (NA/EU)",
+        "code": "CREATIONNYMPH",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Asterite ×300",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Stamina Potion ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            },
+            {
+                "name": "Heroic Variable ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Item_Heroic_Variable.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Aug 18, 25",
-            "valid": null,
+            "discovered": "July 2, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Kira's Birthday Event"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH"
     },
     {
-        "code": "CHILLSUMMER",
-        "server": "Global only (NA/EU)",
+        "code": "FAREWELL",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Crystals ×30",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Aug 29, 25",
-            "valid": null,
+            "discovered": "April 10, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Song of Water and Fire"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=FAREWELL"
     },
     {
-        "code": "CCPLEU07",
-        "server": "Global only (NA/EU)",
+        "code": "IFYOUAREREADINGTHIS",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Crystals ×30",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "HOHO Vacation Tickets ×8",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/HOHO_Vacation_Tickets_%28Icon%29.png/revision/latest"
-            },
-            {
-                "name": "Phase Shifter ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a4/Phase_Shifter_%28Icon%29.png/revision/latest"
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Aug 21, 25",
-            "valid": null,
+            "discovered": "January 16, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Surprise reward"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS"
     },
     {
-        "code": "8XW7BPQALA",
-        "server": "Global only (NA/EU)",
+        "code": "STARRAILGIFT",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Asterite ×300",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×50",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Stamina Potion ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+                "name": "Credit ×10000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Aug 18, 25",
-            "valid": null,
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Bronya's Birthday Event"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT"
     }
 ]
