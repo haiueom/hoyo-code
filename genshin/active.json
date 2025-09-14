@@ -1,5 +1,31 @@
 [
     {
+        "code": "SAWFSXA7NCSM",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Moonfall Silver ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Moonfall_Silver.png/revision/latest"
+            },
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Nod-Krai Hot Dog ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Nod-Krai_Hot_Dog.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 12, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=SAWFSXA7NCSM"
+    },
+    {
         "code": "SWIP9F497X18",
         "server": "All",
         "status": "active",
