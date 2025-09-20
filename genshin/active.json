@@ -94,6 +94,32 @@
         "link": "https://genshin.hoyoverse.com/gift?code=SWIP9F497X18"
     },
     {
+        "code": "EPIC2025",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×40",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 9, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=EPIC2025"
+    },
+    {
         "code": "GS60YTM4NW",
         "server": "All",
         "status": "active",

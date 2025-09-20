@@ -94,6 +94,32 @@
         "link": "https://genshin.hoyoverse.com/gift?code=SWIP9F497X18"
     },
     {
+        "code": "EPIC2025",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×40",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 9, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=EPIC2025"
+    },
+    {
         "code": "GS60YTM4NW",
         "server": "All",
         "status": "active",
@@ -336,7 +362,7 @@
             }
         ],
         "duration": {
-            "discovered": "September 10, 2025",
+            "discovered": "September 9, 2025",
             "valid": null,
             "expired": "September 17, 2025",
             "notes": null
@@ -362,7 +388,7 @@
             }
         ],
         "duration": {
-            "discovered": "September 10, 2025",
+            "discovered": "September 9, 2025",
             "valid": null,
             "expired": "September 17, 2025",
             "notes": null
@@ -439,7 +465,7 @@
     },
     {
         "code": "HiFiveTraveler",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -460,8 +486,30 @@
         "link": "https://genshin.hoyoverse.com/gift?code=HiFiveTraveler"
     },
     {
+        "code": "原神空月之歌即将上线",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
         "code": "LunaI0910",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -482,8 +530,30 @@
         "link": "https://genshin.hoyoverse.com/gift?code=LunaI0910"
     },
     {
+        "code": "全新五星角色菈乌玛菲林斯",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
         "code": "LaumaNodKraiFlins",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -502,6 +572,28 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=LaumaNodKraiFlins"
+    },
+    {
+        "code": "五星命之座免费拿",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "August 29, 2025",
+            "valid": null,
+            "expired": "September 1, 2025",
+            "notes": null
+        },
+        "link": ""
     },
     {
         "code": "NODKRAIGAMESCOM",
