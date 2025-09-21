@@ -1,7 +1,7 @@
 [
     {
         "code": "SAWFSXA7NCSM",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -131,7 +131,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -153,7 +153,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -175,7 +175,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -197,7 +197,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -219,7 +219,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -241,7 +241,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": null,
+            "valid": "October 20, 2025",
             "expired": null,
             "notes": null
         },
@@ -275,7 +275,7 @@
     },
     {
         "code": "GS60YTM4NW",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "code": "GS60RDDADL",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -343,7 +343,7 @@
     },
     {
         "code": "GS60YTQ4NT",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -377,7 +377,7 @@
     },
     {
         "code": "GS60X27445",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -411,7 +411,7 @@
     },
     {
         "code": "R4SCAU7CR1G9",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -425,7 +425,7 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": null,
+            "valid": "November 13, 2025",
             "expired": null,
             "notes": null
         },
@@ -433,7 +433,7 @@
     },
     {
         "code": "AOZJ2TD5FZPV",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
@@ -447,7 +447,7 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": null,
+            "valid": "November 13, 2025",
             "expired": null,
             "notes": null
         },
@@ -455,7 +455,7 @@
     },
     {
         "code": "CLD6ZWU35GTH",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
