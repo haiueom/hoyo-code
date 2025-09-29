@@ -1,5 +1,35 @@
 [
     {
+        "code": "GenshinHigh5Fight",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Ile flottante ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Ile_flottante.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 28, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GenshinHigh5Fight"
+    },
+    {
         "code": "SWIP9F497X18",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
