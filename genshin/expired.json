@@ -1,5 +1,73 @@
 [
     {
+        "code": "SWIP9F497X18",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora ×10,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "September 30, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=SWIP9F497X18"
+    },
+    {
+        "code": "SWIPEG621L1V",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora ×10,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Jueyun Chili Chicken ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
+            },
+            {
+                "name": "Stir-Fried Fish Noodles ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "September 30, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=SWIP9F497X18"
+    },
+    {
         "code": "SAWFSXA7NCSM",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
