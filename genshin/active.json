@@ -344,28 +344,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=R4SCAU7CR1G9"
     },
     {
-        "code": "CLD6ZWU35GTH",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×60",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "July 18, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=CLD6ZWU35GTH"
-    },
-    {
         "code": "GENSHINGIFT",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",

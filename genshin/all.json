@@ -344,28 +344,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=R4SCAU7CR1G9"
     },
     {
-        "code": "CLD6ZWU35GTH",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×60",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "July 18, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=CLD6ZWU35GTH"
-    },
-    {
         "code": "GENSHINGIFT",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -408,6 +386,28 @@
             "notes": null
         },
         "link": ""
+    },
+    {
+        "code": "CLD6ZWU35GTH",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×60",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 18, 2025",
+            "valid": null,
+            "expired": "September 30, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=CLD6ZWU35GTH"
     },
     {
         "code": "SWIP9F497X18",
@@ -641,7 +641,7 @@
     },
     {
         "code": "ITSTARTSIN60NODKRAI",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -667,7 +667,7 @@
     },
     {
         "code": "NODKRAISP0909",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -693,7 +693,7 @@
     },
     {
         "code": "TOUGNK89J77G",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -727,7 +727,7 @@
     },
     {
         "code": "TOUGA75TO1I3",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -893,7 +893,7 @@
     },
     {
         "code": "NODKRAIGAMESCOM",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -923,7 +923,7 @@
     },
     {
         "code": "GWLN97614C8L",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -957,7 +957,7 @@
     },
     {
         "code": "GS58OT75MG",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -991,7 +991,7 @@
     },
     {
         "code": "EZIZ8W3J47NA",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1025,7 +1025,7 @@
     },
     {
         "code": "G9VY57AWQACW",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1047,7 +1047,7 @@
     },
     {
         "code": "8QD412QXCEU1",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1069,7 +1069,7 @@
     },
     {
         "code": "4BWU6FCNYUSH",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1095,7 +1095,7 @@
     },
     {
         "code": "NSXD6FDNHCS5",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1121,7 +1121,7 @@
     },
     {
         "code": "VSWSRL22S4PD",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1279,7 +1279,7 @@
     },
     {
         "code": "Vamosacorrer25",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1309,7 +1309,7 @@
     },
     {
         "code": "YTYD336W7K77",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1343,7 +1343,7 @@
     },
     {
         "code": "ZT5RJ4AX4WYV",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1365,7 +1365,7 @@
     },
     {
         "code": "GIFTFROMSKIRK57",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1395,7 +1395,7 @@
     },
     {
         "code": "LWKC638ULB16",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1561,7 +1561,7 @@
     },
     {
         "code": "VSL93LTE5WY5",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1603,7 +1603,7 @@
     },
     {
         "code": "ZXUY83279WB1",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1637,7 +1637,7 @@
     },
     {
         "code": "HS4NM7YDGC99",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1659,7 +1659,7 @@
     },
     {
         "code": "56CacucuVSAjaw",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1685,7 +1685,7 @@
     },
     {
         "code": "GS56YTI6X6",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1719,7 +1719,7 @@
     },
     {
         "code": "OSOIDWA2R5H3",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1753,7 +1753,7 @@
     },
     {
         "code": "NODKRAI0910",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1771,7 +1771,7 @@
     },
     {
         "code": "FATUI",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1789,7 +1789,7 @@
     },
     {
         "code": "FROSTMOONSCIONS",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1807,7 +1807,7 @@
     },
     {
         "code": "LIGHTKEEPERS",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1825,7 +1825,7 @@
     },
     {
         "code": "THEWILDHUNT",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1843,7 +1843,7 @@
     },
     {
         "code": "VOYNICHGUILD",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1861,7 +1861,7 @@
     },
     {
         "code": "IfaCacucu0507",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1883,7 +1883,7 @@
     },
     {
         "code": "ChefEscoffier0507",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1905,7 +1905,7 @@
     },
     {
         "code": "GI56Paralogism",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -1993,7 +1993,7 @@
     },
     {
         "code": "UAL6MXW8BUFH",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2019,7 +2019,7 @@
     },
     {
         "code": "SYVBY9I3MBI4",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2053,7 +2053,7 @@
     },
     {
         "code": "5AM75NYUGTTR",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2083,7 +2083,7 @@
     },
     {
         "code": "11KU0MNDK2RG",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2105,7 +2105,7 @@
     },
     {
         "code": "GS55YTPY8X",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2139,7 +2139,7 @@
     },
     {
         "code": "JRCB867O8KT3",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2173,7 +2173,7 @@
     },
     {
         "code": "POKAPOKAGENSHIN",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2335,7 +2335,7 @@
     },
     {
         "code": "XA4N66LAC349",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2365,7 +2365,7 @@
     },
     {
         "code": "7B476N4TDJ6V",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2407,7 +2407,7 @@
     },
     {
         "code": "RB5PPN4BV355",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2437,7 +2437,7 @@
     },
     {
         "code": "HNYM49IX9PDS",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2459,7 +2459,7 @@
     },
     {
         "code": "HNYM2GAQ8PQ9",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2613,7 +2613,7 @@
     },
     {
         "code": "KAM7UKZGVRXZ",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2655,7 +2655,7 @@
     },
     {
         "code": "FORNATLAN",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
@@ -2681,7 +2681,7 @@
     },
     {
         "code": "MAVUIKAWISHES",
-        "server": "All",
+        "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
         "rewards": [
             {
