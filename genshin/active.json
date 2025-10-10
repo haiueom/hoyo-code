@@ -1,5 +1,27 @@
 [
     {
+        "code": "Nefer1022Ashru",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": "October 13, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=Nefer1022Ashru"
+    },
+    {
         "code": "GENSHIN5THSPRADIO",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
