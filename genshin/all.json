@@ -66,6 +66,72 @@
         "link": "https://genshin.hoyoverse.com/gift?code=MiliastraWonderland"
     },
     {
+        "code": "原神奈芙尔月之二上线",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": "October 13, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "月之二再战猎月人",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": "October 13, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "我现在就要玩千星奇遇",
+        "server": "China",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": "October 13, 2025",
+            "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
         "code": "GENSHIN5THSPRADIO",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -149,7 +215,7 @@
         ],
         "duration": {
             "discovered": "September 28, 2025",
-            "valid": "October 11, 2025",
+            "valid": "October 12, 2025",
             "expired": null,
             "notes": null
         },
@@ -179,7 +245,7 @@
         ],
         "duration": {
             "discovered": "September 28, 2025",
-            "valid": "October 11, 2025",
+            "valid": "October 12, 2025",
             "expired": null,
             "notes": null
         },
@@ -223,7 +289,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -245,7 +311,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -267,7 +333,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -289,7 +355,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -311,7 +377,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -333,7 +399,7 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 20, 2025",
+            "valid": "October 21, 2025",
             "expired": null,
             "notes": null
         },
@@ -381,7 +447,7 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": "November 13, 2025",
+            "valid": "November 14, 2025",
             "expired": null,
             "notes": null
         },
@@ -403,7 +469,7 @@
         ],
         "duration": {
             "discovered": "August 29, 2025",
-            "valid": "November 13, 2025",
+            "valid": "November 14, 2025",
             "expired": null,
             "notes": null
         },
