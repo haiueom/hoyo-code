@@ -215,8 +215,8 @@
         ],
         "duration": {
             "discovered": "September 28, 2025",
-            "valid": "October 12, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 12, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GenshinHigh5Fight"
@@ -245,8 +245,8 @@
         ],
         "duration": {
             "discovered": "September 28, 2025",
-            "valid": "October 12, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 12, 2025",
             "notes": null
         },
         "link": ""
