@@ -1,5 +1,39 @@
 [
     {
+        "code": "GS61YTEFW9V6",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora ×30,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Nagadus Emerald Sliver ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Nagadus_Emerald_Sliver.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Elysium ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Teachings_of_Elysium.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 13, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GS61YTEFW9V6"
+    },
+    {
         "code": "Nefer1022Ashru",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -15,8 +49,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=Nefer1022Ashru"
@@ -37,8 +71,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=LunaII1022"
@@ -59,8 +93,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=MiliastraWonderland"
@@ -81,8 +115,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": ""
@@ -103,8 +137,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": ""
@@ -125,8 +159,8 @@
         ],
         "duration": {
             "discovered": "October 10, 2025",
-            "valid": "October 13, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": ""
@@ -152,7 +186,7 @@
         "duration": {
             "discovered": "September 30, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "October 13, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN5THSPRADIO"
