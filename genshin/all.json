@@ -34,164 +34,6 @@
         "link": "https://genshin.hoyoverse.com/gift?code=GS61YTEFW9V6"
     },
     {
-        "code": "Nefer1022Ashru",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=Nefer1022Ashru"
-    },
-    {
-        "code": "LunaII1022",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=LunaII1022"
-    },
-    {
-        "code": "MiliastraWonderland",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora ×50,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=MiliastraWonderland"
-    },
-    {
-        "code": "原神奈芙尔月之二上线",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "月之二再战猎月人",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "我现在就要玩千星奇遇",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora ×50,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 10, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "GENSHIN5THSPRADIO",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×10,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Frostlamp Flower ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Frostlamp_Flower.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 30, 2025",
-            "valid": null,
-            "expired": "October 13, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN5THSPRADIO"
-    },
-    {
         "code": "WUSXOI92X54U",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -224,66 +66,6 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=WUSXOI92X54U"
-    },
-    {
-        "code": "GenshinHigh5Fight",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×30",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Ile flottante ×1",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Ile_flottante.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 28, 2025",
-            "valid": null,
-            "expired": "October 12, 2025",
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GenshinHigh5Fight"
-    },
-    {
-        "code": "原神5周年快乐",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×30",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Ile flottante ×1",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Ile_flottante.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 28, 2025",
-            "valid": null,
-            "expired": "October 12, 2025",
-            "notes": null
-        },
-        "link": ""
     },
     {
         "code": "YuanShen2025Gift",
@@ -549,6 +331,224 @@
             "discovered": "November 10, 2020",
             "valid": "(indefinite)",
             "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "Nefer1022Ashru",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=Nefer1022Ashru"
+    },
+    {
+        "code": "LunaII1022",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=LunaII1022"
+    },
+    {
+        "code": "MiliastraWonderland",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=MiliastraWonderland"
+    },
+    {
+        "code": "原神奈芙尔月之二上线",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "月之二再战猎月人",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "我现在就要玩千星奇遇",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 10, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "GENSHIN5THSPRADIO",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Mora ×10,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            },
+            {
+                "name": "Frostlamp Flower ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Frostlamp_Flower.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 30, 2025",
+            "valid": null,
+            "expired": "October 13, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GENSHIN5THSPRADIO"
+    },
+    {
+        "code": "GenshinHigh5Fight",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Ile flottante ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Ile_flottante.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 28, 2025",
+            "valid": null,
+            "expired": "October 12, 2025",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GenshinHigh5Fight"
+    },
+    {
+        "code": "原神5周年快乐",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Fine Enhancement Ore ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Ile flottante ×1",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Ile_flottante.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 28, 2025",
+            "valid": null,
+            "expired": "October 12, 2025",
             "notes": null
         },
         "link": ""
