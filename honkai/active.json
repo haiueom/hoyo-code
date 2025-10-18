@@ -1,86 +1,112 @@
 [
     {
-        "code": "KEXMVQQZLU",
-        "server": "Global only (NA/EU)",
+        "code": "9BJ8YE37HM8B",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Asterite ×300",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
-            },
-            {
-                "name": "Stamina Potion ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Oct 17, 25",
-            "valid": null,
+            "discovered": "October 15, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Seele's Birthday Event"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=9BJ8YE37HM8B"
     },
     {
-        "code": "MESSENGER",
-        "server": "Global only (NA/EU)",
+        "code": "CREATIONNYMPH",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Crystals ×350",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Crystals_%28Icon%29.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "Oct 17, 25",
-            "valid": null,
-            "expired": null,
-            "notes": "8.5 Hyperion Lounge"
-        },
-        "link": null
-    },
-    {
-        "code": "ELYSIAONLIVE",
-        "server": "Global only (NA/EU)",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Material Option Type A ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/86/Material_Option_Type_A_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "AE Imaginon ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8c/AE_Imaginon_%28Icon%29.png/revision/latest"
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            },
+            {
+                "name": "Heroic Variable ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Item_Heroic_Variable.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Oct 5, 25",
-            "valid": null,
+            "discovered": "July 2, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Surprise reward"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH"
     },
     {
-        "code": "AA07KPF5PM",
-        "server": "Global only (NA/EU)",
+        "code": "FAREWELL",
+        "server": "All",
         "status": "active",
         "rewards": [
             {
-                "name": "Asterite ×300",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Asterite_%28Icon%29.png/revision/latest"
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
             },
             {
-                "name": "Stamina Potion ×1",
-                "image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Stamina_Potion_%28Icon%29.png/revision/latest"
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
             }
         ],
         "duration": {
-            "discovered": "Sep 23, 25",
-            "valid": null,
+            "discovered": "April 10, 2025",
+            "valid": "(indefinite)",
             "expired": null,
-            "notes": "Carole's Birthday Event"
+            "notes": null
         },
-        "link": null
+        "link": "https://hsr.hoyoverse.com/gift?code=FAREWELL"
+    },
+    {
+        "code": "IFYOUAREREADINGTHIS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 16, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS"
+    },
+    {
+        "code": "STARRAILGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×50",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit ×10000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT"
     }
 ]
