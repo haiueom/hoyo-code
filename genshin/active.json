@@ -127,8 +127,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
@@ -149,8 +149,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
@@ -171,8 +171,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
@@ -193,8 +193,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
@@ -215,8 +215,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
@@ -237,8 +237,8 @@
         ],
         "duration": {
             "discovered": "September 10, 2025",
-            "valid": "October 21, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
