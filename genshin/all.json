@@ -1,5 +1,35 @@
 [
     {
+        "code": "MBEYNDLU3WGZ",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×2",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Geode of Replication ×160",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Geode_of_Replication.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×2",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "October 22, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=MBEYNDLU3WGZ"
+    },
+    {
         "code": "0FQBAJNXCUFU",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -116,134 +146,6 @@
         "link": ""
     },
     {
-        "code": "SY2Y3FHHGKTE",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×30",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "AY2Y3WZGY3TJ",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Cecilia ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Ballad ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "CY2H2XHYZKCS",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Sakura Bloom ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Elegance ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "NG3ZJXHYG3CW",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Kalpalata Lotus ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Kalpalata_Lotus.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Ingenuity ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Teachings_of_Ingenuity.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "NG2Z3EHYYKVJ",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Withering Purpurbloom ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Contention ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "VYKGJWZHY2AN",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Frostlamp Flower ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Frostlamp_Flower.png/revision/latest"
-            },
-            {
-                "name": "Teachings of Freedom ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": "October 21, 2025",
-            "notes": null
-        },
-        "link": ""
-    },
-    {
         "code": "EPIC2025",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -353,6 +255,134 @@
             "discovered": "November 10, 2020",
             "valid": "(indefinite)",
             "expired": null,
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "SY2Y3FHHGKTE",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "AY2Y3WZGY3TJ",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Cecilia ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Ballad ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "CY2H2XHYZKCS",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Sakura Bloom ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Elegance ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "NG3ZJXHYG3CW",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Kalpalata Lotus ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Kalpalata_Lotus.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Ingenuity ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Teachings_of_Ingenuity.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "NG2Z3EHYYKVJ",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Withering Purpurbloom ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Withering_Purpurbloom.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Contention ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Teachings_of_Contention.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "VYKGJWZHY2AN",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Frostlamp Flower ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Frostlamp_Flower.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Freedom ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "September 10, 2025",
+            "valid": null,
+            "expired": "October 21, 2025",
             "notes": null
         },
         "link": ""
