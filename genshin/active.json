@@ -1,5 +1,23 @@
 [
     {
+        "code": "XTFPHSEJCFYM",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Geode of Replication ×320",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Geode_of_Replication.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 20, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=XTFPHSEJCFYM"
+    },
+    {
         "code": "NTIF4NP4DO89",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -58,36 +76,6 @@
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=3SXYPDLD3FYV"
-    },
-    {
-        "code": "GS61RD26W966",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Geode of Replication ×80",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Geode_of_Replication.png/revision/latest"
-            },
-            {
-                "name": "Mora ×20,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "October 28, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GS61RD26W966"
     },
     {
         "code": "EKLP57EFE4G4",
