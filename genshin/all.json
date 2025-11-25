@@ -1,5 +1,61 @@
 [
     {
+        "code": "P3GXX56W3VG9",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×60",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 25, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=P3GXX56W3VG9"
+    },
+    {
+        "code": "GS62YT82QLCE",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora ×30,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Agnidus Agate Sliver ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Ballad ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 25, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GS62YT82QLCE"
+    },
+    {
         "code": "1203Kuunrukous",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
@@ -15,8 +71,8 @@
         ],
         "duration": {
             "discovered": "November 21, 2025",
-            "valid": "November 24, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "November 24, 2025",
             "notes": "\"Luna III\" Livestream"
         },
         "link": "https://genshin.hoyoverse.com/gift?code=1203Kuunrukous"
@@ -37,8 +93,8 @@
         ],
         "duration": {
             "discovered": "November 21, 2025",
-            "valid": "November 24, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "November 24, 2025",
             "notes": "\"Luna III\" Livestream"
         },
         "link": "https://genshin.hoyoverse.com/gift?code=Dragon1203Durin"
@@ -59,8 +115,8 @@
         ],
         "duration": {
             "discovered": "November 21, 2025",
-            "valid": "November 24, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "November 24, 2025",
             "notes": "\"Luna III\" Livestream"
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GOGOCraftspeople"
