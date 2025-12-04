@@ -50,76 +50,10 @@
         "duration": {
             "discovered": "November 25, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "December 4, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GS62YT82QLCE"
-    },
-    {
-        "code": "1203Kuunrukous",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 21, 2025",
-            "valid": null,
-            "expired": "November 24, 2025",
-            "notes": "\"Luna III\" Livestream"
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=1203Kuunrukous"
-    },
-    {
-        "code": "Dragon1203Durin",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 21, 2025",
-            "valid": null,
-            "expired": "November 24, 2025",
-            "notes": "\"Luna III\" Livestream"
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=Dragon1203Durin"
-    },
-    {
-        "code": "GOGOCraftspeople",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×100",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Mora ×50,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 21, 2025",
-            "valid": null,
-            "expired": "November 24, 2025",
-            "notes": "\"Luna III\" Livestream"
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GOGOCraftspeople"
     },
     {
         "code": "XTFPHSEJCFYM",
@@ -134,7 +68,7 @@
         "duration": {
             "discovered": "November 20, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "December 4, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=XTFPHSEJCFYM"
@@ -168,7 +102,7 @@
         "duration": {
             "discovered": "November 12, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "December 4, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=NTIF4NP4DO89"
@@ -194,7 +128,7 @@
         "duration": {
             "discovered": "November 8, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "December 4, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=3SXYPDLD3FYV"
@@ -224,7 +158,7 @@
         "duration": {
             "discovered": "October 22, 2025",
             "valid": null,
-            "expired": null,
+            "expired": "December 4, 2025",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=MBEYNDLU3WGZ"
@@ -320,6 +254,72 @@
             "notes": null
         },
         "link": ""
+    },
+    {
+        "code": "1203Kuunrukous",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 21, 2025",
+            "valid": null,
+            "expired": "November 24, 2025",
+            "notes": "\"Luna III\" Livestream"
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=1203Kuunrukous"
+    },
+    {
+        "code": "Dragon1203Durin",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 21, 2025",
+            "valid": null,
+            "expired": "November 24, 2025",
+            "notes": "\"Luna III\" Livestream"
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=Dragon1203Durin"
+    },
+    {
+        "code": "GOGOCraftspeople",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 21, 2025",
+            "valid": null,
+            "expired": "November 24, 2025",
+            "notes": "\"Luna III\" Livestream"
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GOGOCraftspeople"
     },
     {
         "code": "EKLP57EFE4G4",
