@@ -1,27 +1,5 @@
 [
     {
-        "code": "THEDAHLIA",
-        "server": "All",
-        "status": "expired",
-        "rewards": [
-            {
-                "name": "Traveler's Guide ×3",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
-            },
-            {
-                "name": "Dream Syrup ×2",
-                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Item_Dream_Syrup.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 17, 2025",
-            "valid": null,
-            "expired": "December 23, 2025",
-            "notes": null
-        },
-        "link": "https://hsr.hoyoverse.com/gift?code=THEDAHLIA"
-    },
-    {
         "code": "OMEGA",
         "server": "All",
         "status": "active",
@@ -134,6 +112,28 @@
             "notes": null
         },
         "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT"
+    },
+    {
+        "code": "THEDAHLIA",
+        "server": "All",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Traveler's Guide ×3",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Item_Travelers_Guide.png/revision/latest"
+            },
+            {
+                "name": "Dream Syrup ×2",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Item_Dream_Syrup.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 17, 2025",
+            "valid": null,
+            "expired": "December 23, 2025",
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=THEDAHLIA"
     },
     {
         "code": "9BJ8YE37HM8B",
