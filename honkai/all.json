@@ -2,7 +2,7 @@
     {
         "code": "THEDAHLIA",
         "server": "All",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Traveler's Guide ×3",
@@ -15,8 +15,8 @@
         ],
         "duration": {
             "discovered": "December 17, 2025",
-            "valid": "December 23, 2025",
-            "expired": null,
+            "valid": null,
+            "expired": "December 23, 2025",
             "notes": null
         },
         "link": "https://hsr.hoyoverse.com/gift?code=THEDAHLIA"
