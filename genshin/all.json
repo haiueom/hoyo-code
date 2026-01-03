@@ -66,6 +66,32 @@
         "link": "https://genshin.hoyoverse.com/gift?code=ComeNightorDay"
     },
     {
+        "code": "DABHTY763DAZ",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "December 29, 2025",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=DABHTY763DAZ"
+    },
+    {
         "code": "BLKSMCJ3N725",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
