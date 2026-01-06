@@ -1,60 +1,8 @@
 [
     {
-        "code": "TSUKINOARIKAE",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Moonfall Silver ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Moonfall_Silver.png/revision/latest"
-            },
-            {
-                "name": "Mora ×20,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 3, 2026",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=TSUKINOARIKAE"
-    },
-    {
-        "code": "8X73KH58KDHN",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×60",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "January 3, 2026",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=8X73KH58KDHN"
-    },
-    {
         "code": "GallopYeah",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -67,8 +15,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
+            "valid": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=GallopYeah"
@@ -76,7 +24,7 @@
     {
         "code": "Zibai0515",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -89,8 +37,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
+            "valid": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=Zibai0515"
@@ -98,7 +46,7 @@
     {
         "code": "ComeNightorDay",
         "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -111,8 +59,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
+            "valid": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": "https://genshin.hoyoverse.com/gift?code=ComeNightorDay"
@@ -120,7 +68,7 @@
     {
         "code": "兑换码兑换马",
         "server": "China",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -133,8 +81,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
+            "valid": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": ""
@@ -142,7 +90,7 @@
     {
         "code": "海灯节快乐",
         "server": "China",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -155,8 +103,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
+            "valid": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": ""
@@ -164,7 +112,7 @@
     {
         "code": "如果在冬夜一个旅人",
         "server": "China",
-        "status": "active",
+        "status": "expired",
         "rewards": [
             {
                 "name": "Primogem ×100",
@@ -177,292 +125,8 @@
         ],
         "duration": {
             "discovered": "January 2, 2026",
-            "valid": "January 5, 2026",
-            "expired": null,
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "DABHTY763DAZ",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×20,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 29, 2025",
             "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=DABHTY763DAZ"
-    },
-    {
-        "code": "BLKSMCJ3N725",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×10,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 24, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=BLKSMCJ3N725"
-    },
-    {
-        "code": "BLKSOK1236QU",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×10,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 24, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=BLKSMCJ3N725"
-    },
-    {
-        "code": "BLKS3198XVS2",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×10,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 24, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=BLKSMCJ3N725"
-    },
-    {
-        "code": "BLKS3Z1CL8N8",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×10,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            },
-            {
-                "name": "Fine Enhancement Ore ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png/revision/latest"
-            },
-            {
-                "name": "Jueyun Chili Chicken ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest"
-            },
-            {
-                "name": "Stir-Fried Fish Noodles ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Stir-Fried_Fish_Noodles.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 24, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=BLKSMCJ3N725"
-    },
-    {
-        "code": "7TBZAGPP2WRD",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Geode of Replication ×160",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Geode_of_Replication.png/revision/latest"
-            },
-            {
-                "name": "Mora ×2,000",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            },
-            {
-                "name": "Mystic Enhancement Ore ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "December 23, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=7TBZAGPP2WRD"
-    },
-    {
-        "code": "P3GXX56W3VG9",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×60",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 25, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=P3GXX56W3VG9"
-    },
-    {
-        "code": "YuanShen2025Gift",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Mora ×23,333",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
-            },
-            {
-                "name": "Fragile Resin ×2",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Fragile_Resin.png/revision/latest"
-            },
-            {
-                "name": "Adventurer's Experience ×10",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "September 10, 2025",
-            "valid": null,
-            "expired": null,
-            "notes": null
-        },
-        "link": ""
-    },
-    {
-        "code": "GENSHINGIFT",
-        "server": "America, Europe, Asia, TW/HK/Macao",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×50",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 10, 2020",
-            "valid": "(indefinite)",
-            "expired": null,
-            "notes": "Found in ads located on YouTube and similar. Code hit max usage 5 August 2021, but started working again as early as 11 August 2021."
-        },
-        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINGIFT"
-    },
-    {
-        "code": "YuanShen",
-        "server": "China",
-        "status": "active",
-        "rewards": [
-            {
-                "name": "Primogem ×50",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
-            },
-            {
-                "name": "Hero's Wit ×3",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
-            }
-        ],
-        "duration": {
-            "discovered": "November 10, 2020",
-            "valid": "(indefinite)",
-            "expired": null,
+            "expired": "January 5, 2026",
             "notes": null
         },
         "link": ""

@@ -1,1 +1,134 @@
-[]
+[
+    {
+        "code": "GallopYeah",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GallopYeah"
+    },
+    {
+        "code": "Zibai0515",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=Zibai0515"
+    },
+    {
+        "code": "ComeNightorDay",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=ComeNightorDay"
+    },
+    {
+        "code": "兑换码兑换马",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×50,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "海灯节快乐",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": ""
+    },
+    {
+        "code": "如果在冬夜一个旅人",
+        "server": "China",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×100",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 2, 2026",
+            "valid": null,
+            "expired": "January 5, 2026",
+            "notes": null
+        },
+        "link": ""
+    }
+]
