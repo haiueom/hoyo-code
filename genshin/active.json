@@ -26,14 +26,44 @@
         "link": "https://genshin.hoyoverse.com/gift?code=MoonInvitationLunaIV"
     },
     {
-        "code": "TSUKINOARIKAE",
+        "code": "GS63YTOO2X",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
         "rewards": [
             {
-                "name": "Moonfall Silver ×5",
-                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Moonfall_Silver.png/revision/latest"
+                "name": "Mora ×30,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
             },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            },
+            {
+                "name": "Mystic Enhancement Ore ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Varunada Lazurite Sliver ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png/revision/latest"
+            },
+            {
+                "name": "Teachings of Moonlight ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Item_Teachings_of_Moonlight.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 3, 2026",
+            "valid": null,
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GS63YTOO2X"
+    },
+    {
+        "code": "TSUKINOARIKAE",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
             {
                 "name": "Mora ×20,000",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
@@ -45,6 +75,10 @@
             {
                 "name": "Mystic Enhancement Ore ×2",
                 "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest"
+            },
+            {
+                "name": "Moonfall Silver ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Moonfall_Silver.png/revision/latest"
             }
         ],
         "duration": {
