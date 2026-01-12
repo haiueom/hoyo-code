@@ -1,5 +1,31 @@
 [
     {
+        "code": "MoonInvitationLunaIV",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×40",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×3",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 11, 2026",
+            "valid": "January 29, 2026",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=MoonInvitationLunaIV"
+    },
+    {
         "code": "TSUKINOARIKAE",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "active",
