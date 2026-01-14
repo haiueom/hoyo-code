@@ -104,8 +104,30 @@
             }
         ],
         "duration": {
-            "discovered": "January 3, 2026",
-            "valid": null,
+            "discovered": "January 1, 2026",
+            "valid": "March 18, 2026",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=8X73KH58KDHN"
+    },
+    {
+        "code": "WD85AIU078V4",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Primogem ×60",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Adventurer's Experience ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 1, 2026",
+            "valid": "March 18, 2026",
             "expired": null,
             "notes": null
         },
