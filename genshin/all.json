@@ -418,6 +418,32 @@
         "link": ""
     },
     {
+        "code": "GENSHINQUIZ2026",
+        "server": "America, Europe, Asia, TW/HK/Macao",
+        "status": "expired",
+        "rewards": [
+            {
+                "name": "Primogem ×30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest"
+            },
+            {
+                "name": "Mora ×20,000",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest"
+            },
+            {
+                "name": "Hero's Wit ×5",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 17, 2026",
+            "valid": null,
+            "expired": "January 17, 2026",
+            "notes": "Limited number of redeems"
+        },
+        "link": "https://genshin.hoyoverse.com/gift?code=GENSHINQUIZ2026"
+    },
+    {
         "code": "GallopYeah",
         "server": "America, Europe, Asia, TW/HK/Macao",
         "status": "expired",
