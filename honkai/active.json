@@ -1,1 +1,116 @@
-[]
+[
+    {
+        "code": "OMEGA",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "November 7, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=OMEGA"
+    },
+    {
+        "code": "CREATIONNYMPH",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            },
+            {
+                "name": "Heroic Variable ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Item_Heroic_Variable.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "July 2, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH"
+    },
+    {
+        "code": "FAREWELL",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 10, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=FAREWELL"
+    },
+    {
+        "code": "IFYOUAREREADINGTHIS",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×60",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Fuel ×1",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Item_Fuel.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "January 16, 2025",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS"
+    },
+    {
+        "code": "STARRAILGIFT",
+        "server": "All",
+        "status": "active",
+        "rewards": [
+            {
+                "name": "Stellar Jade ×50",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Stellar_Jade.png/revision/latest"
+            },
+            {
+                "name": "Credit ×10000",
+                "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Item_Credit.png/revision/latest"
+            }
+        ],
+        "duration": {
+            "discovered": "April 26, 2023",
+            "valid": "(indefinite)",
+            "expired": null,
+            "notes": null
+        },
+        "link": "https://hsr.hoyoverse.com/gift?code=STARRAILGIFT"
+    }
+]
