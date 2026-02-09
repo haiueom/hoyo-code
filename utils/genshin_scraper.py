@@ -1,107 +1,125 @@
 # utils/genshin_scraper.py
 import re
-import requests
-from bs4 import BeautifulSoup
-from typing import List, Optional
+
+from .models import Code, Duration, Reward
 from .scraper_base import ScraperBase
-from .models import Reward, Duration, Code
 
 
 class GenshinScraper(ScraperBase):
     def __init__(self):
-        super().__init__(
-            game_name="Genshin Impact",
-            game_color=0x1E90FF,
-            discord_image_url="https://i.ibb.co/LXYMB75y/genshin.jpg",
-        )
+        super().__init__(game_name="Genshin Impact", game_color="blue")
         self.active_url = "https://genshin-impact.fandom.com/wiki/Promotional_Code"
-        self.history_url = (
-            "https://genshin-impact.fandom.com/wiki/Promotional_Code/History"
+        self.history_url = "https://genshin-impact.fandom.com/wiki/Promotional_Code/History"
+
+    def _extract_reward(self, cell) -> list[Reward]:
+        rewards = []
+        items = cell.find_all("span", class_="item")
+        for item in items:
+            name_tag = item.find("span", class_="item-text")
+            if not name_tag:
+                continue
+
+            name = name_tag.get_text(strip=True)
+            # Logika gambar sederhana
+            img_tag = item.find("img")
+            img_url = ""
+            if img_tag:
+                src = img_tag.get("data-src") or img_tag.get("src")
+                if src:
+                    img_url = src.split(".png")[0] + ".png"
+            rewards.append(Reward(name=name, image=img_url))
+        return rewards
+
+    def _extract_duration(self, text: str) -> Duration:
+        """
+        Parsing teks durasi untuk menangkap 4 kemungkinan:
+        Discovered, Valid until, Expired, dan Note.
+        """
+        # Regex untuk menangkap masing-masing bagian
+        # Menggunakan (?: ... ) untuk grup non-capturing pada delimiter
+
+        discovered_match = re.search(r"Discovered: (.*?)(?:$|Valid|Expired|Note)", text)
+        valid_match = re.search(r"Valid(?: until)?: (.*?)(?:$|Discovered|Expired|Note)", text)
+        expired_match = re.search(r"Expired: (.*?)(?:$|Discovered|Valid|Note)", text)
+        notes_match = re.search(r"Note(?:s)?: (.*?)(?:$|Discovered|Valid|Expired)", text)
+
+        return Duration(
+            discovered=discovered_match.group(1).strip() if discovered_match else None,
+            valid=valid_match.group(1).strip() if valid_match else None,
+            expired=expired_match.group(1).strip() if expired_match else None,
+            notes=notes_match.group(1).strip() if notes_match else None,
         )
 
-    def _fetch_page(self, url: str) -> Optional[BeautifulSoup]:
-        try:
-            response = requests.get(
-                url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15
-            )
-            response.raise_for_status()
-            return BeautifulSoup(response.content, "html.parser")
-        except requests.RequestException as e:
-            print(f"Error fetching {url}: {e}")
-            return None
-
-    def _extract_reward_info(self, cell) -> Reward:
-        name = cell.find("span", class_="item-text").text.strip()
-        image_el = cell.find("span", class_="item-image").find("img")
-        image = image_el.get("data-src") or image_el.get("src") if image_el else None
-        if image:
-            image = (
-                re.sub(r"\.(png|jpg|jpeg|gif|bmp|svg|webp).*", r".\1", image)
-                + "/revision/latest"
-            )
-        return Reward(name=name, image=image or "")
-
-    def _extract_duration_info(self, text: str) -> Duration:
-        pattern = re.compile(
-            r"Discovered: (\S+ \d+, \d+)"
-            r"(?:.*?Valid(?: until)?: ((?:\([^)]+\))|(?:\S+ \S+ \d+(?:, \d+)?)))?"
-            r"(?:.*?Expired: (\S+ \d+, \d+))?"
-            r"(?:.*?Notes: (.+))?"
-        )
-        match = pattern.match(text)
-        if match:
-            groups = [g.strip() if g else None for g in match.groups()]
-            return Duration(
-                discovered=groups[0],
-                valid=groups[1],
-                expired=groups[2],
-                notes=groups[3],
-            )
-        return Duration()
-
-    def _parse_row(self, row, status: str) -> List[Code]:
-        cols = row.find_all("td")
-        if len(cols) < 4:
-            return []
-
-        code_tags = cols[0].find_all("code")
-        if not code_tags:
-            return []
-
-        codes = [c.text.strip() for c in code_tags]
-        link = cols[0].find("a").get("href", "") if cols[0].find("a") else ""
-        server = cols[1].text.strip()
-        rewards = [
-            self._extract_reward_info(span)
-            for span in cols[2].find_all("span", class_="item")
-        ]
-        duration = self._extract_duration_info(cols[3].text.strip())
-
-        return [
-            Code(
-                code=c,
-                link=link,
-                server=server,
-                status=status,
-                rewards=rewards,
-                duration=duration,
-            )
-            for c in codes
-        ]
-
-    def _scrape_page(self, url: str, status: str) -> List[Code]:
-        soup = self._fetch_page(url)
+    def _parse_table(self, soup, status: str) -> list[Code]:
+        codes = []
         if not soup:
-            return []
+            return codes
 
-        table = soup.find("div", id="mw-content-text").find("table")
+        # Cari div konten utama lalu tabel
+        content = soup.find("div", class_="mw-parser-output")
+        if not content:
+            return codes
+
+        table = content.find("table", class_="wikitable")
         if not table:
-            return []
+            return codes
 
-        rows = table.find("tbody").find_all("tr")
-        return [code for row in rows for code in self._parse_row(row, status)]
+        rows = table.find_all("tr")[1:]  # Skip header
+        for row in rows:
+            cols = row.find_all("td")
+            if len(cols) < 4:
+                continue
 
-    def scrape(self) -> List[Code]:
-        active_codes = self._scrape_page(self.active_url, "active")
-        expired_codes = self._scrape_page(self.history_url, "expired")
-        return active_codes + expired_codes
+            # Kolom 0: Kode (Ambil SEMUA tag code dalam satu sel)
+            code_tags = cols[0].find_all("code")
+            if not code_tags:
+                continue
+
+            # Ambil data umum baris ini
+            server = cols[1].get_text(strip=True)
+            rewards = self._extract_reward(cols[2])
+
+            # Ambil teks durasi dengan separator spasi agar regex aman
+            duration_txt = cols[3].get_text(separator=" ", strip=True)
+            duration = self._extract_duration(duration_txt)
+
+            # Loop untuk setiap kode yang ditemukan di kolom tersebut
+            for code_tag in code_tags:
+                code_txt = code_tag.get_text(strip=True)
+
+                # Bersihkan kode
+                code_clean = re.sub(r"[^A-Z0-9]", "", code_txt.upper())
+
+                if not code_clean:
+                    continue
+
+                codes.append(
+                    Code(
+                        code=code_clean,
+                        server=server,
+                        status=status,
+                        rewards=rewards,
+                        duration=duration,
+                    )
+                )
+
+        return codes
+
+    def scrape(self):
+        all_results = []
+
+        self.log("🔍 Memulai scraping kode AKTIF...")
+        soup_active = self.get_soup(self.active_url)
+        if soup_active:
+            codes = self._parse_table(soup_active, "active")
+            self.log(f"Ditemukan {len(codes)} kode aktif.")
+            all_results.extend(codes)
+
+        self.log("🔍 Memulai scraping kode HISTORY (Expired)...")
+        soup_expired = self.get_soup(self.history_url)
+        if soup_expired:
+            codes = self._parse_table(soup_expired, "expired")
+            self.log(f"Ditemukan {len(codes)} kode kadaluarsa.")
+            all_results.extend(codes)
+
+        self.save_results(all_results)

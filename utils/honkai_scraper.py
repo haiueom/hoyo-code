@@ -1,94 +1,126 @@
 # utils/honkai_scraper.py
 import re
-import requests
-from bs4 import BeautifulSoup, Tag
-from typing import List, Optional
+
+from .models import Code, Duration, Reward
 from .scraper_base import ScraperBase
-from .models import Reward, Duration, Code
 
 
 class HonkaiScraper(ScraperBase):
-    """Scrapes redemption codes for Honkai Impact 3rd."""
-
     def __init__(self):
-        super().__init__(
-            game_name="Honkai Impact",
-            game_color=0xFF4500,
-            discord_image_url="https://i.ibb.co/mryQSWvT/honkai.jpg"
-        )
+        super().__init__(game_name="Honkai Impact 3rd", game_color="cyan")
         self.url = "https://honkaiimpact3.fandom.com/wiki/Exchange_Rewards"
 
-    def _fetch_page(self) -> Optional[BeautifulSoup]:
-        """Fetches and parses the content of the wiki page."""
-        try:
-            response = requests.get(
-                self.url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15
-            )
-            response.raise_for_status()
-            return BeautifulSoup(response.content, "html.parser")
-        except requests.RequestException as e:
-            print(f"Error fetching {self.url}: {e}")
-            return None
+    def _extract_rewards(self, text: str) -> list[Reward]:
+        """Ekstrak hadiah dari teks sederhana."""
+        rewards_list = []
+        items = re.split(r",|&|\+", text)
 
-    def _extract_reward_info(self, cell: Tag) -> Reward:
-        """Extracts reward information from a table cell."""
-        name_tag = cell.find("b")
-        name = name_tag.text.strip() if name_tag else ""
+        for item in items:
+            clean_name = item.strip()
+            if clean_name:
+                rewards_list.append(Reward(name=clean_name, image=""))
 
-        image_tag = cell.find("img")
-        image_url = ""
-        if image_tag:
-            raw_image_url = image_tag.get("data-src") or image_tag.get("src", "")
-            # Clean up URL to get the base image and add revision for highest quality
-            pattern = re.compile(r"\.(png|jpg|jpeg|gif|bmp|svg|webp).*")
-            image_url = pattern.sub(r".\1", raw_image_url) + "/revision/latest"
+        return rewards_list
 
-        return Reward(name=name, image=image_url)
+    def scrape(self):
+        self.log("🔍 Memulai scraping...")
+        soup = self.get_soup(self.url)
+        results = []
 
-    def _parse_row(self, row: Tag) -> Optional[Code]:
-        """Parses a table row to extract code information."""
-        cols = row.find_all("td")
-        if len(cols) < 5:
-            return None
+        if soup:
+            content = soup.find("div", class_="mw-parser-output")
+            if not content:
+                return
 
-        code_text = cols[0].find("b").text.strip()
-        discovered_date = cols[1].text.strip()
-        notes = cols[2].text.strip()
+            tables = content.find_all("table", class_="wikitable")
+            self.log(f"Ditemukan {len(tables)} tabel data.")
 
-        # Determine status based on the "Expired" column
-        status = "expired" if "Yes" in cols[4].text else "active"
+            for i, table in enumerate(tables):
+                rows = table.find_all("tr")
 
-        rewards = [
-            self._extract_reward_info(div)
-            for div in cols[3].find_all("div", class_="infobox-half")
-        ]
+                for row_idx, row in enumerate(rows):
+                    # Lewati Header
+                    if row_idx == 0:
+                        continue
 
-        return Code(
-            code=code_text,
-            link=None,  # Not available on this wiki page
-            server="Global only (NA/EU)",
-            status=status,
-            rewards=rewards,
-            duration=Duration(discovered=discovered_date, notes=notes),
-        )
+                    cols = row.find_all("td")
 
-    def scrape(self) -> List[Code]:
-        """Scrapes all code tables from the page."""
-        soup = self._fetch_page()
-        if not soup:
-            return []
+                    code_clean = ""
+                    server_txt = ""
+                    rewards = []
+                    duration_txt = ""
+                    status = "active"
 
-        all_codes: List[Code] = []
-        content_area = soup.find("div", class_="mw-parser-output")
-        if not content_area:
-            return []
+                    # === LOGIKA TABEL 1 (ACTIVE CODES) ===
+                    if i == 0:
+                        # Biasanya struktur: [Code] [Rewards] [Expired/Duration]
+                        # Minimal 3 kolom
+                        if len(cols) < 5:
+                            continue
 
-        tables = content_area.find_all("table")
-        for table in tables:
-            rows = table.find_all("tr")[1:]  # Skip header row
-            for row in rows:
-                code_obj = self._parse_row(row)
-                if code_obj:
-                    all_codes.append(code_obj)
+                        # 1. Code
+                        code_el = cols[1].find("code")
+                        code_txt = (
+                            code_el.get_text(strip=True)
+                            if code_el
+                            else cols[1].get_text(strip=True)
+                        )
+                        code_clean = re.sub(r"[^A-Z0-9]", "", code_txt.upper())
 
-        return all_codes
+                        # 2. Date/Duration
+                        duration_txt = cols[2].get_text(strip=True)
+
+                        # 3. Occasion (Server Info)
+                        server_txt = cols[3].get_text(strip=True)
+
+                        # 4. Rewards
+                        reward_txt = cols[4].get_text(strip=True)
+                        rewards = self._extract_rewards(reward_txt)
+
+                        # History pasti expired
+                        status = "expired"
+
+                    # === LOGIKA TABEL LAINNYA (HISTORY) ===
+                    else:
+                        # Struktur: [Code] [Date] [Occasion] [Rewards]
+                        # Minimal 4 kolom
+                        if len(cols) < 4:
+                            continue
+
+                        # 1. Code
+                        code_el = cols[0].find("code")
+                        code_txt = (
+                            code_el.get_text(strip=True)
+                            if code_el
+                            else cols[0].get_text(strip=True)
+                        )
+                        code_clean = re.sub(r"[^A-Z0-9]", "", code_txt.upper())
+
+                        # 2. Date/Duration
+                        duration_txt = cols[1].get_text(strip=True)
+
+                        # 3. Occasion (Server Info)
+                        server_txt = cols[2].get_text(strip=True)
+
+                        # 4. Rewards
+                        reward_txt = cols[3].get_text(strip=True)
+                        rewards = self._extract_rewards(reward_txt)
+
+                        # History pasti expired
+                        status = "expired"
+
+                    if not code_clean:
+                        continue
+
+                    results.append(
+                        Code(
+                            code=code_clean,
+                            server=server_txt,
+                            status=status,
+                            rewards=rewards,
+                            duration=Duration(valid=duration_txt, notes=server_txt),
+                        )
+                    )
+
+            self.log(f"Total kode ditemukan: {len(results)}")
+            self.save_results(results)

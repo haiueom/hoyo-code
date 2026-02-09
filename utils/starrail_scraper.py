@@ -1,123 +1,113 @@
 # utils/starrail_scraper.py
 import re
-import requests
-from bs4 import BeautifulSoup, Tag
-from typing import List, Optional
+
+from .models import Code, Duration, Reward
 from .scraper_base import ScraperBase
-from .models import Reward, Duration, Code
 
 
 class StarrailScraper(ScraperBase):
-    """Scrapes redemption codes for Honkai: Star Rail."""
-
     def __init__(self):
-        super().__init__(
-            game_name="Honkai Starrail",
-            game_color=0x8A2BE2,
-            discord_image_url="https://i.ibb.co.com/Nng6s2rR/starrail.jpg",
-        )
+        super().__init__(game_name="Honkai Star Rail", game_color="magenta")
         self.url = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"
 
-    def _fetch_page(self) -> Optional[BeautifulSoup]:
-        """Fetches and parses the content of the wiki page."""
-        try:
-            response = requests.get(
-                self.url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15
-            )
-            response.raise_for_status()
-            return BeautifulSoup(response.content, "html.parser")
-        except requests.RequestException as e:
-            print(f"Error fetching {self.url}: {e}")
-            return None
+    def _extract_rewards(self, cell) -> list[Reward]:
+        """Ekstrak daftar hadiah dari kolom tabel."""
+        rewards = []
+        items = cell.find_all("span", class_="item")
 
-    def _extract_reward_info(self, cell: Tag) -> Reward:
-        """Extracts reward information from a table cell."""
-        name = cell.find("span", class_="item-text").text.strip()
-        img_tag = cell.find("span", class_="item-image").find("img")
+        for item in items:
+            name_tag = item.find("span", class_="item-text")
+            if not name_tag:
+                continue
 
-        image_url = ""
-        if img_tag:
-            raw_url = img_tag.get("data-src") or img_tag.get("src")
-            if raw_url:
-                image_url = (
-                    re.sub(r"\.(png|jpe?g|gif|bmp|svg|webp).*", r".\1", raw_url)
-                    + "/revision/latest"
-                )
+            name = name_tag.get_text(strip=True)
 
-        return Reward(name=name, image=image_url)
+            img_tag = item.find("img")
+            img_url = ""
+            if img_tag:
+                src = img_tag.get("data-src") or img_tag.get("src")
+                if src:
+                    img_url = src.split(".png")[0] + ".png"
 
-    def _extract_duration_info(self, cell: Tag) -> Duration:
-        """Extracts duration fields using regex for better accuracy."""
-        text_content = cell.get_text(separator=" ", strip=True)
+            rewards.append(Reward(name=name, image=img_url))
 
-        pattern = re.compile(
-            r"Discovered: (\S+ \d+, \d+)"
-            r"(?:.*?Valid(?: until)?: ((?:\([^)]+\))|(?:\S+ \S+ \d+(?:, \d+)?)|Unknown))?"
-            r"(?:.*?Expired: (\S+ \d+, \d+))?"
-            r"(?:.*?Notes: (.+))?",
-            re.DOTALL,
+        return rewards
+
+    def _extract_duration(self, text: str) -> Duration:
+        """
+        Parsing teks durasi untuk menangkap: Discovered, Valid (until), dan Expired.
+        """
+        # Regex fleksibel untuk menangkap bagian-bagian tanggal
+        # Menggunakan (?: ... ) untuk non-capturing group pembatas
+
+        discovered_match = re.search(r"Discovered: (.*?)(?:$|Valid|Expired|Notes)", text)
+        valid_match = re.search(r"Valid(?: until)?: (.*?)(?:$|Discovered|Expired|Notes)", text)
+        expired_match = re.search(r"Expired: (.*?)(?:$|Discovered|Valid|Notes)", text)
+
+        return Duration(
+            discovered=discovered_match.group(1).strip() if discovered_match else None,
+            valid=valid_match.group(1).strip() if valid_match else None,
+            expired=expired_match.group(1).strip() if expired_match else None,
         )
-        match = pattern.search(text_content)
 
-        if match:
-            discovered, valid, expired, notes = (
-                x.strip() if x else None for x in match.groups()
-            )
-            return Duration(discovered, valid, expired, notes)
+    def scrape(self):
+        self.log("🔍 Memulai scraping...")
+        soup = self.get_soup(self.url)
+        results = []
 
-        return Duration()
+        if soup:
+            content = soup.find("div", class_="mw-parser-output")
+            if content:
+                table = content.find("table", class_="wikitable")
 
-    def _determine_status(self, duration: Duration) -> str:
-        """Determines if the code is active or expired based on duration info."""
-        if duration.valid and "expired" not in duration.valid.lower():
-            return "active"
-        return "expired"
+                if table:
+                    rows = table.find_all("tr")[1:]  # Lewati header
+                    for row in rows:
+                        cols = row.find_all("td")
+                        if len(cols) < 4:
+                            continue
 
-    def _parse_row(self, row: Tag) -> List[Code]:
-        """Parses a single table row to extract one or more codes."""
-        cols = row.find_all("td")
-        if len(cols) < 4:
-            return []
+                        # 1. Handle Multiple Codes
+                        code_tags = cols[0].find_all("code")
+                        if not code_tags:
+                            continue
 
-        codes = [code.text for code in cols[0].find_all("code")]
+                        # 2. Ambil data kolom lainnya
+                        server = cols[1].get_text(strip=True)
+                        rewards = self._extract_rewards(cols[2])
 
-        # Determine the correct link, handling multiple <a> tags
-        link_tags = cols[0].find_all("a")
-        link = ""
-        if len(link_tags) > 1 and cols[0].find("sup"):
-            link = link_tags[1].get("href", "")
-        elif link_tags:
-            link = link_tags[0].get("href", "")
+                        # Ambil teks mentah & parse objek duration
+                        duration_raw_txt = cols[3].get_text(strip=True)
+                        duration = self._extract_duration(duration_raw_txt)
 
-        server = cols[1].text.strip()
-        rewards = [
-            self._extract_reward_info(cell)
-            for cell in cols[2].find_all("span", class_="item")
-        ]
-        duration = self._extract_duration_info(cols[3])
-        status = self._determine_status(duration)
+                        # 3. Tentukan Status berdasarkan data duration yang sudah diparse
+                        status = "active"
 
-        return [
-            Code(
-                code=code,
-                link=link,
-                server=server,
-                rewards=rewards,
-                duration=duration,
-                status=status,
-            )
-            for code in codes
-        ]
+                        if duration.expired:
+                            status = "expired"
+                        elif duration.valid and "Unknown" in duration.valid:
+                            status = "active"
+                        # Fallback cek teks mentah untuk memastikan
+                        elif "Expired" in duration_raw_txt or "expired" in duration_raw_txt.lower():
+                            status = "expired"
 
-    def scrape(self) -> List[Code]:
-        """Scrapes all codes from the main redemption code table."""
-        soup = self._fetch_page()
-        if not soup:
-            return []
+                        # 4. Loop setiap kode
+                        for code_tag in code_tags:
+                            code_txt = code_tag.get_text(strip=True)
+                            code_clean = re.sub(r"[^A-Z0-9]", "", code_txt.upper())
 
-        table = soup.select_one("table.wikitable")
-        if not table:
-            return []
+                            if not code_clean:
+                                continue
 
-        rows = table.select("tbody tr")
-        return [code for row in rows for code in self._parse_row(row)]
+                            results.append(
+                                Code(
+                                    code=code_clean,
+                                    server=server,
+                                    status=status,
+                                    rewards=rewards,
+                                    duration=duration,
+                                )
+                            )
+
+            self.log(f"Total kode ditemukan: {len(results)}")
+            self.save_results(results)

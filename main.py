@@ -1,52 +1,84 @@
 # main.py
-import concurrent.futures
+import argparse
 import os
 import shutil
-import argparse
 
-# Import the specific scraper classes
+from rich.console import Console
+from rich.panel import Panel
+
+# Import scrapers
 from utils.genshin_scraper import GenshinScraper
-from utils.honkai_scraper import HonkaiScraper
 from utils.starrail_scraper import StarrailScraper
+
+# Inisialisasi Console Rich
+console = Console()
 
 
 def reset_folders():
-    """Deletes and recreates game-specific data folders."""
-    print("🔄 Resetting data folders...")
+    """Menghapus dan membuat ulang folder data game."""
+    console.print("[bold yellow]🔄 Mereset folder data...[/bold yellow]")
     for folder in ["genshin", "honkai", "starrail"]:
         if os.path.exists(folder):
             shutil.rmtree(folder)
         os.makedirs(folder, exist_ok=True)
-    print("✅ Folders have been reset.")
+    console.print("[bold green]✅ Folder berhasil di-reset.[/bold green]")
 
 
 def main(should_reset=False):
-    """Initializes and runs all game scrapers."""
+    """Fungsi utama untuk menjalankan semua scraper secara berurutan."""
+
+    # Header Tampilan
+    console.print(
+        Panel.fit(
+            "🚀 [bold white]Hoyo Code Scraper[/bold white]",
+            style="bold cyan",
+            subtitle="[dim]Mode: Linear Execution | Requests (No Headers)[/dim]",
+        )
+    )
+
     if should_reset:
         reset_folders()
+        console.print("")  # Spasi
 
+    # Daftar scraper yang akan dijalankan
     scrapers = [
         GenshinScraper(),
-        HonkaiScraper(),
         StarrailScraper(),
+        # HonkaiScraper() # disable due to inconsistent site structure
     ]
 
-    # Run scrapers in parallel for efficiency
-    with concurrent.futures.ThreadPoolExecutor(max_workers=len(scrapers)) as executor:
-        executor.map(lambda s: s.run(), scrapers)
+    # Eksekusi Linear (Satu per satu)
+    for scraper in scrapers:
+        # Tampilkan header untuk setiap game
+        console.print(
+            Panel(
+                f"▶️ Memulai Scraper: [bold]{scraper.game_name}[/bold]",
+                border_style=scraper.game_color,
+                expand=False,
+            )
+        )
 
-    print("\n✅ All scrapers have finished their tasks.")
+        # Jalankan proses scraping
+        # Method scrape() di base class sudah menghandle logging internal
+        scraper.scrape()
+
+        console.print("")  # Spasi antar game agar tidak dempet
+
+    # Penutup
+    console.print(Panel("✨ [bold green]Semua tugas scraping selesai![/bold green]", style="green"))
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Scrape promotional codes for Hoyoverse games."
-    )
+    parser = argparse.ArgumentParser(description="Hoyo Code Scraper")
     parser.add_argument(
         "-r",
         "--reset",
         action="store_true",
-        help="Reset all data folders before running.",
+        help="Hapus dan reset folder data sebelum scraping.",
     )
     args = parser.parse_args()
-    main(should_reset=args.reset)
+
+    try:
+        main(should_reset=args.reset)
+    except KeyboardInterrupt:
+        console.print("\n[bold red]⛔ Proses dihentikan paksa oleh pengguna.[/bold red]")

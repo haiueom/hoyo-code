@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:  # Memungkinkan running manual dari tab Actions
+
+jobs:
+  quality-check:
+    name: Code Quality (Ruff)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync
+
+      # 1. Cek Linting (Error, Unused imports, Bugbear, dll)
+      - name: Run Ruff Linter
+        run: uv run ruff check . --output-format=github
+
+      # 2. Cek Formatting (Memastikan kode rapi sesuai standar)
+      - name: Run Ruff Formatter
+        run: uv run ruff format --check .

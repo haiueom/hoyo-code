@@ -1,130 +1,123 @@
 # utils/scraper_base.py
-from time import sleep
-from datetime import datetime, timedelta, timezone
-import os
 import json
-import requests
+import os
+import time
 from abc import ABC, abstractmethod
-from dataclasses import asdict
-from typing import List, Set
+
+import requests
+from bs4 import BeautifulSoup
+from rich.console import Console
+
 from .models import Code
+
+# Inisialisasi Rich Console
+console = Console()
 
 
 class ScraperBase(ABC):
-    """Abstract base class for a Hoyoverse game code scraper."""
-
-    def __init__(self, game_name: str, game_color: str, discord_image_url: str):
+    def __init__(self, game_name: str, game_color: str):
         self.game_name = game_name
         self.game_color = game_color
         self.game_folder = game_name.split()[0].lower()
-        self.discord_image_url = discord_image_url
         self.discord_webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
+
+        # Buat folder jika belum ada
         os.makedirs(self.game_folder, exist_ok=True)
 
-    @abstractmethod
-    def scrape(self) -> List[Code]:
-        """Scrapes codes from the source. Must be implemented by subclasses."""
-        raise NotImplementedError
-
-    def _save_json(self, filename: str, data: List[Code]):
-        """Saves a list of Code objects to a JSON file."""
-        path = os.path.join(self.game_folder, filename)
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump([asdict(c) for c in data], f, indent=4, ensure_ascii=False)
-
-    def _save_txt(self, filename: str, data: List[Code]):
-        """Saves a list of code strings to a TXT file."""
-        path = os.path.join(self.game_folder, filename)
-        with open(path, "w", encoding="utf-8") as f:
-            f.write("\n".join(c.code for c in data))
-
-    def _get_old_active_codes(self) -> Set[str]:
-        """Reads previously saved active codes to check against."""
-        filepath = os.path.join(self.game_folder, "active.json")
-        if not os.path.exists(filepath):
-            return set()
-        try:
-            with open(filepath, "r", encoding="utf-8") as f:
-                old_codes_data = json.load(f)
-            return {c["code"] for c in old_codes_data}
-        except (json.JSONDecodeError, FileNotFoundError):
-            return set()
-
-    def _send_discord_notification(self, code: Code):
-        """Sends a notification to a Discord webhook for a new code."""
-        if not self.discord_webhook_url:
-            print(f"⚠ [{self.game_name}] Discord webhook not configured.")
-            return
-
-        rewards_str = (
-            "\n".join([f"- {r.name}" for r in code.rewards]) if code.rewards else "N/A"
+    def log(self, message: str, style: str = "white"):
+        """Helper untuk logging dengan warna spesifik game."""
+        console.print(
+            f"[{self.game_color}][{self.game_name}][/{self.game_color}] {message}", style=style
         )
 
-        description_parts = [
-            f"**Server:** {code.server}",
-            f"**Link:** {code.link if code.link else 'N/A'}",
-            f"\n**Rewards:**\n{rewards_str}\n",
-        ]
+    def get_soup(self, url: str) -> BeautifulSoup | None:
+        """
+        Alur: Request (requests.get) -> Tunggu -> Parse
+        """
+        self.log(f"Mengambil data dari: [dim]{url}[/dim]")
 
-        if code.duration.notes:
-            description_parts.append(f"**Notes:** {code.duration.notes}")
-        if code.duration.discovered:
-            description_parts.append(f"**Discovered:** {code.duration.discovered}")
-        if code.duration.valid:
-            description_parts.append(f"**Valid Until:** {code.duration.valid}")
+        try:
+            # Request POLOS tanpa headers custom
+            response = requests.get(url, timeout=20)
+
+            if response.status_code == 200:
+                self.log("✅ Koneksi berhasil (200 OK). Menunggu halaman termuat...", style="green")
+
+                # 1. Tunggu sejenak agar halaman 'settle' dan terlihat natural
+                time.sleep(3)
+
+                # 2. Parse dengan BeautifulSoup
+                soup = BeautifulSoup(response.content, "html.parser")
+                return soup
+
+            elif response.status_code == 403:
+                self.log("❌ Akses Ditolak (403 Forbidden).", style="bold red")
+            else:
+                self.log(f"⚠️ Gagal memuat halaman. Status: {response.status_code}", style="yellow")
+
+        except Exception as e:
+            self.log(f"❌ Error koneksi: {e}", style="bold red")
+
+        return None
+
+    def _send_discord_notification(self, code: Code):
+        """Mengirim notifikasi ke Discord (Opsional)."""
+        if not self.discord_webhook_url:
+            return
+
+        # Konversi warna string ke int (jika perlu)
+        color_int = 0
+        if self.game_color == "blue":
+            color_int = 0x1E90FF  # Genshin
+        elif self.game_color == "magenta":
+            color_int = 0x8A2BE2  # Starrail
+        elif self.game_color == "cyan":
+            color_int = 0x00BFFF  # Honkai
 
         embed = {
             "title": f"`{code.code}`",
-            "description": "\n".join(description_parts),
-            "color": self.game_color,
-            "author": {"name": f"{self.game_name}"},
-            "image": {"url": self.discord_image_url},
-            "footer": {"text": "Hoyo Code"},
-            "timestamp": datetime.now(timezone(timedelta(hours=8))).isoformat(),
+            "description": f"**Server:** {code.server}\n**Rewards:**\n"
+            + ("\n".join([f"- {r.name}" for r in code.rewards]) if code.rewards else "N/A"),
+            "color": color_int,
+            "footer": {"text": "Hoyo Code Scraper"},
         }
 
         try:
-            requests.post(
-                self.discord_webhook_url, json={"embeds": [embed]}, timeout=10
-            ).raise_for_status()
-            print(f"✅ [{self.game_name}] Notification sent for code: {code.code}")
-        except requests.exceptions.RequestException as e:
-            print(f"❌ [{self.game_name}] Failed to send Discord notification: {e}")
+            requests.post(self.discord_webhook_url, json={"embeds": [embed]}, timeout=10)
+        except Exception:
+            pass
 
-    def run(self):
-        """Main execution logic for the scraper."""
-        print(f"🔎 [{self.game_name}] Checking for new codes...")
-        try:
-            all_codes = self.scrape()
-            active_codes = [c for c in all_codes if c.status == "active"]
-            expired_codes = [c for c in all_codes if c.status == "expired"]
+    def save_results(self, codes: list[Code]):
+        """Menyimpan data ke JSON dan TXT."""
+        if not codes:
+            self.log("Tidak ada kode untuk disimpan.", style="dim yellow")
+            return
 
-            old_active_codes_set = self._get_old_active_codes()
-            new_active_codes = [
-                c for c in active_codes if c.code not in old_active_codes_set
-            ]
+        # Pisahkan Active dan Expired
+        active_codes = [c for c in codes if c.status == "active"]
+        expired_codes = [c for c in codes if c.status == "expired"]
 
-            if new_active_codes:
-                for code in new_active_codes:
-                    sleep(1)
-                    self._send_discord_notification(code)
+        data_map = {"all": codes, "active": active_codes, "expired": expired_codes}
 
-            # Save all files
-            self._save_json("all.json", all_codes)
-            self._save_json("active.json", active_codes)
-            self._save_json("expired.json", expired_codes)
-            self._save_txt("all.txt", all_codes)
-            self._save_txt("active.txt", active_codes)
-            self._save_txt("expired.txt", expired_codes)
+        self.log(
+            f"Menyimpan data... (Active: {len(active_codes)} | Expired: {len(expired_codes)})",
+            style="cyan",
+        )
 
-            print(
-                f"✅ [{self.game_name}] Total: {len(all_codes)}, Active: {len(active_codes)}, Expired: {len(expired_codes)}"
-            )
-            if new_active_codes:
-                print(
-                    f"📢 [{self.game_name}] {len(new_active_codes)} new code(s) found and sent to Discord."
-                )
-            else:
-                print(f"❎ [{self.game_name}] No new codes found.")
-        except Exception as e:
-            print(f"❌ [{self.game_name}] An error occurred: {e}")
+        for key, data_list in data_map.items():
+            # Simpan JSON
+            json_path = os.path.join(self.game_folder, f"{key}.json")
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump([c.model_dump() for c in data_list], f, indent=4, ensure_ascii=False)
+
+            # Simpan TXT
+            txt_path = os.path.join(self.game_folder, f"{key}.txt")
+            with open(txt_path, "w", encoding="utf-8") as f:
+                f.write("\n".join(c.code for c in data_list))
+
+        self.log("✅ Data berhasil disimpan ke folder.", style="bold green")
+
+    @abstractmethod
+    def scrape(self):
+        """Implementasi spesifik tiap game."""
+        pass

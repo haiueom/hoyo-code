@@ -1,6 +1,5 @@
 # utils/models.py
 from dataclasses import dataclass
-from typing import List, Optional
 
 
 @dataclass
@@ -15,10 +14,10 @@ class Reward:
 class Duration:
     """Represents the validity period of a code."""
 
-    discovered: Optional[str] = None
-    valid: Optional[str] = None
-    expired: Optional[str] = None
-    notes: Optional[str] = None
+    discovered: str | None = None
+    valid: str | None = None
+    expired: str | None = None
+    notes: str | None = None
 
 
 @dataclass
@@ -28,6 +27,6 @@ class Code:
     code: str
     server: str
     status: str
-    rewards: List[Reward]
+    rewards: list[Reward]
     duration: Duration
-    link: Optional[str] = None
+    link: str | None = None
